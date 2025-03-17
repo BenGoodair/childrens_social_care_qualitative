@@ -261,10 +261,82 @@ categories <- left_join(outsourcing, overspend, by="Local.authority")%>%
   ))%>%
   dplyr::select(Local.authority, overspend_category, outsourcing_category)
 
+
+
+joiners20 <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_data/main/Raw_Data/Provider_level/joiners_leavers_20.csv"))  
+joiners21 <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_data/main/Raw_Data/Provider_level/joiners_leavers_21.csv"))  
+joiners22 <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_data/main/Raw_Data/Provider_level/joiners_leavers_22.csv"), skip=3)  
+joiners23 <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_data/main/Raw_Data/Provider_level/joiners_leavers_23.csv"), skip=3)  
+joiners24 <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_data/main/Raw_Data/Provider_level/joiners_leavers_24_test.csv"), skip=3)  
+
+joiners <- rbind(joiners20 %>% dplyr::filter(Joiner.status=="Joiner") %>% dplyr::select(URN, Provision.type, Local.authority, Sector, Places, Registration.date),
+  joiners21 %>% dplyr::filter(Joiner.status=="Joiner") %>% dplyr::select(URN, Provision.type, Local.authority, Sector, Places, Registration.date),
+  joiners22 %>% dplyr::filter(Joiner.status=="Joiner") %>% dplyr::select(URN, Provision.type, Local.authority, Sector, Places, Registration.date),
+  joiners23 %>% dplyr::filter(Joiner.status=="Joiner") %>% dplyr::select(URN, Provision.type, Local.authority, Sector, Places, First.effective.date..that.the.provider.became.active.) %>% dplyr::rename(Registration.date = First.effective.date..that.the.provider.became.active.),
+  joiners24 %>% dplyr::filter(Joiner.status=="Joiner") %>% dplyr::select(URN, Provision.type, Local.authority, Sector, Places, First.effective.date..that.the.provider.became.active.) %>% dplyr::rename(Registration.date = First.effective.date..that.the.provider.became.active.)
+  
+)%>%
+  dplyr::rename(Date = Registration.date)%>%
+  dplyr::mutate(leave_join = "Join",
+                provider_status = NA)%>%
+  dplyr::filter(Provision.type!="Adoption Support Agency",
+                Provision.type!="Further Education College with Residential Accommodation",
+                Provision.type!="Boarding School",
+                Provision.type!="Residential Family Centre",
+                Provision.type!="Residential Special School",
+                Provision.type!="Voluntary Adoption Agency",
+                Provision.type!="Residential Holiday Scheme for Disabled Children",
+                Provision.type!="Independent Fostering Agency",
+                Provision.type!="Voluntary Adoption Agency",
+                Provision.type!="Supported accommodation")%>%
+  dplyr::filter(Sector=="Local Authority")%>%
+  dplyr::mutate(Local.authority = Local.authority %>%
+                  gsub('&', 'and', .) %>%
+                  gsub('[[:punct:] ]+', ' ', .) %>%
+                  gsub('[0-9]', '', .)%>%
+                  toupper() %>%
+                  gsub("CITY OF", "",.)%>%
+                  gsub("UA", "",.)%>%
+                  gsub("COUNCIL", "",.)%>%
+                  gsub("CC", "",.)%>%
+                  gsub("BC", "",.)%>%
+                  gsub("COUNTY OF", "",.)%>%
+                  gsub("ST HELENS M", "ST HELENS",.)%>%
+                  gsub("WIGAN M", "WIGAN",.)%>%
+                  gsub("STOCKPORT M", "STOCKPORT",.)%>%
+                  gsub("BURY M", "BURY",.)%>%
+                  gsub("ROYAL BOROUGH OF", "",.)%>%
+                  gsub("LEICESTER CITY", "LEICESTER",.)%>%
+                  gsub("TELFORD AND THE WREKIN", "TELFORD AND WREKIN",.)%>%
+                  gsub("UA", "",.)%>%
+                  gsub("CITY", "",.)%>%
+                  gsub("NEWCASTLE UPON TYNE", "NEWCASTLE",.)%>%
+                  gsub("THE MEDWAY TOWNS", "MEDWAY",.)%>%
+                  gsub("MEDWAY TOWNS", "MEDWAY",.)%>%
+                  gsub("DARWIN", "DARWEN", .)%>%
+                  gsub("DURHAM", "COUNTY DURHAM", .)%>%
+                  gsub("NEWCASTLE", "NEWCASTLE UPON TYNE", .)%>%
+                  gsub("AND DARWEN", "WITH DARWEN", .)%>%
+                  gsub("NE SOM", "NORTH EAST SOM", .)%>%
+                  gsub("N E SOM", "NORTH EAST SOM", .)%>%
+                  str_trim())%>%
+  dplyr::mutate(Homes=1)%>%
+  dplyr::select(Local.authority, Places, Homes)%>%
+  dplyr::group_by(Local.authority)%>%
+  dplyr::summarise(Places = sum(Places, na.rm=T),
+                   Homes = sum(Homes, na.rm=T))%>%
+  dplyr::ungroup()%>%
+  dplyr::rename(new_LA_homes = Homes,
+                new_LA_places = Places)
+  
+
+categories <- categories %>%
+  dplyr::full_join(., joiners, by="Local.authority")
+
+
 write.csv(categories, "~/Library/CloudStorage/OneDrive-Nexus365/Documents/GitHub/Github_new/childrens_social_care_qualitative/Data/Outputs/categories_final.csv")
 write.csv(overspend, "~/Library/CloudStorage/OneDrive-Nexus365/Documents/GitHub/Github_new/childrens_social_care_qualitative/Data/Outputs/overspend_data_final.csv")
 write.csv(outsourcing, "~/Library/CloudStorage/OneDrive-Nexus365/Documents/GitHub/Github_new/childrens_social_care_qualitative/Data/Outputs/outsourcing_data_final.csv")
-
 
 
 
