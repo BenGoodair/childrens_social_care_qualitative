@@ -1,0 +1,1391 @@
+"","URN","Local.authority","Sector_merge","Places","Organisation","Registration.date","overspend_category","outsourcing_category","matched"
+"1","1242116","KNOWSLEY","Local Authority",4,"Knowsley Metropolitan Borough Council","31/10/2016","low-overspend",NA,1
+"2","2503306","LINCOLNSHIRE","Corporate owned",6,"Unique Care Homes Support Limited","29/05/2019","low-overspend","low-outsourcing",1
+"3","SC036019","DERBY","Local Authority",5,"Derby City Council","17/03/2004",NA,"high-outsourcing",1
+"4","SC390577","ROCHDALE","Corporate owned",3,"Meadows Care Limited","31/03/2009",NA,"low-outsourcing",1
+"5","SC411832","REDBRIDGE","Corporate owned",4,"Tulip Care Two Limited","27/01/2011",NA,"high-outsourcing",1
+"6","SC454035","KNOWSLEY","Corporate owned",5,"Lytham Care Ltd","24/12/2012","low-overspend",NA,1
+"7","SC465079","MIDDLESBROUGH","Investment owned",1,"Cambian Childcare Ltd","08/07/2013","high-overspend",NA,1
+"8","SC476267","SHROPSHIRE","Investment owned",5,"Cambian Childcare Ltd","06/03/2014","high-overspend",NA,1
+"9","SC482340","KNOWSLEY","Corporate owned",1,"Lytham Care Ltd","03/12/2014","low-overspend",NA,1
+"10","SC487794","SHROPSHIRE","Investment owned",3,"Physis Quantum","17/04/2015","high-overspend",NA,1
+"11","SC487794","SHROPSHIRE","Investment owned",3,"Physis Quantum Limited","17/04/2015","high-overspend",NA,1
+"12","2537322","NEWCASTLE UPON TYNE","Local Authority",1,"Newcastle City Council","17/10/2019","low-overspend","low-outsourcing",1
+"13","1159272","NORTH YORKSHIRE","Investment owned",4,"Cambian Childcare Limited","07/10/2015","low-overspend","low-outsourcing",1
+"14","1159385","SHROPSHIRE","Investment owned",4,"Cambian Childcare Limited","14/06/2016","high-overspend",NA,1
+"15","1185488","READING","Individual owned",4,"Kennet Care Limited","30/11/2015",NA,"high-outsourcing",1
+"16","1212117","NOTTINGHAMSHIRE","Investment owned",3,"Pathway Care Solutions Ltd 04004053","01/12/2015",NA,"high-outsourcing",1
+"17","1214396","HEREFORDSHIRE","Individual owned",2,"River Valley Care Ltd","13/01/2016","high-overspend",NA,1
+"18","1223201","LEEDS","Local Authority",4,"Leeds City Council","10/12/2015",NA,"low-outsourcing",1
+"19","1225136","LANCASHIRE","Investment owned",4,"Cambian Childcare Limited","18/05/2016","low-overspend",NA,1
+"20","1231405","LANCASHIRE","Local Authority",6,"Lancashire County Council","04/02/2016","low-overspend",NA,1
+"21","1231812","BIRMINGHAM","Corporate owned",4,"Meadows Care Limited","09/09/2016","low-overspend",NA,1
+"22","1232657","SOLIHULL","Investment owned",4,"Compass Childrens Homes Limited","11/02/2017","high-overspend",NA,1
+"23","1240572","LANCASHIRE","Investment owned",4,"Sandcastle Care Ltd","28/11/2016","low-overspend",NA,1
+"24","1240573","LANCASHIRE","Investment owned",4,"Sandcastle Care Ltd","01/12/2016","low-overspend",NA,1
+"25","1241789","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","23/08/2016","low-overspend",NA,1
+"26","1250931","EAST SUSSEX","Investment owned",6,"Compass Childrens Homes Limited","22/02/2017","high-overspend",NA,1
+"27","1255746","BEDFORD","Corporate owned",5,"Homes 2 Inspire Limited","24/05/2017",NA,"high-outsourcing",1
+"28","1257074","HEREFORDSHIRE","Investment owned",8,"Branas Isaf (holdings) Limited","10/10/2017","high-overspend",NA,1
+"29","1275189","LEEDS","Investment owned",1,"Pebbles Care Limited","07/07/2018",NA,"low-outsourcing",1
+"30","1275500","EAST SUSSEX","Individual owned",2,"Headstart Residential Care Ltd","04/09/2018","high-overspend",NA,1
+"31","1277079","CALDERDALE","Individual owned",2,"Restorative Social Care Services Ltd","16/04/2018","high-overspend",NA,1
+"32","2502314","SHROPSHIRE","Investment owned",3,"Cambian Childcare Limited","29/01/2019","high-overspend",NA,1
+"33","2503031","DUDLEY","Individual owned",3,"PCF Residential Childcare Ltd","30/01/2019","low-overspend",NA,1
+"34","2504494","LEICESTERSHIRE","Individual owned",4,"Inspirations Leicestershire Limited","20/02/2019","low-overspend",NA,1
+"35","2509670","STOCKPORT","Individual owned",4,"Crystal Care Solutions Limited","28/03/2019",NA,"low-outsourcing",1
+"36","2510737","SEFTON","Individual owned",2,"Pelican Care Group Ltd","17/05/2019","high-overspend",NA,1
+"37","2517184","DURHAM","Corporate owned",2,"Roc Family Support Ltd","21/03/2019",NA,"low-outsourcing",1
+"38","2538785","SHROPSHIRE","Third sector",7,"Action for Children","01/10/2019","high-overspend",NA,1
+"39","2542813","HALTON","Investment owned",1,"Cambian Childcare Limited","27/09/2019","high-overspend",NA,1
+"40","2557603","LEICESTERSHIRE","Individual owned",4,"Inspirations Leicestershire Limited","27/10/2019","low-overspend",NA,1
+"41","2559019","REDBRIDGE","Corporate owned",5,"Woodford Children's Services Limited","01/11/2019",NA,"high-outsourcing",1
+"42","2563544","LANCASHIRE","Corporate owned",3,"Meadows Care Limited","20/02/2020","low-overspend",NA,1
+"43","2566238","CROYDON","Individual owned",3,"Jamores Limited","18/02/2020","low-overspend",NA,1
+"44","2567267","BRENT","Individual owned",4,"Champion Children (NW London) Limited","18/03/2020",NA,"high-outsourcing",1
+"45","2577168","LANCASHIRE","Individual owned",4,"Gracewells Care Ltd","04/05/2020","low-overspend",NA,1
+"46","2590732","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","09/07/2020","low-overspend",NA,1
+"47","2591854","EAST SUSSEX","Individual owned",5,"J & R Care Limited","21/08/2020","high-overspend",NA,1
+"48","2592846","CALDERDALE","Individual owned",2,"Laska Care And Education Ltd","19/10/2020","high-overspend",NA,1
+"49","2593032","DERBYSHIRE","Investment owned",3,"Smooth Stone Care & Education Ltd","09/07/2020","high-overspend",NA,1
+"50","2593095","REDBRIDGE","Third sector",3,"Barnardo's","07/05/2020",NA,"high-outsourcing",1
+"51","2596008","EAST SUSSEX","Corporate owned",2,"Anderida Adolescent Care Ltd","13/08/2020","high-overspend",NA,1
+"52","2608195","LANCASHIRE","Corporate owned",2,"Hexagon Care Services Ltd","03/11/2020","low-overspend",NA,1
+"53","2612347","NOTTINGHAMSHIRE","Individual owned",2,"Abbey Green Therapeutic Children's Services Ltd","17/05/2021",NA,"high-outsourcing",1
+"54","2613627","CALDERDALE","Corporate owned",1,"Hexagon Care Services Ltd","23/12/2020","high-overspend",NA,1
+"55","2619265","LANCASHIRE","Individual owned",2,"Coastal Quality Care Ltd","09/02/2021","low-overspend",NA,1
+"56","2621119","WIGAN","Investment owned",1,"Cambian Childcare Limited","23/04/2021","high-overspend",NA,1
+"57","2623004","BOLTON","Investment owned",1,"Cambian Childcare Limited","01/03/2021",NA,"low-outsourcing",1
+"58","2623962","DURHAM","Local Authority",3,"Durham County Council","01/03/2021",NA,"low-outsourcing",1
+"59","2624223","HARTLEPOOL","Investment owned",9,"Huntercombe Young People Ltd","04/03/2021",NA,"low-outsourcing",1
+"60","2624723","DORSET","Local Authority",1,"Dorset Council","08/03/2021","high-overspend",NA,1
+"61","2630934","DERBYSHIRE","Investment owned",5,"Aspris Children's Services Limited","05/03/2021","high-overspend",NA,1
+"62","2633617","DERBYSHIRE","Investment owned",2,"Cambian Childcare Limited","24/05/2021","high-overspend",NA,1
+"63","2634397","LANCASHIRE","Individual owned",1,"XYP Childcare Limited","27/03/2021","low-overspend",NA,1
+"64","2634624","LEICESTERSHIRE","Investment owned",1,"Esland North Limited","20/05/2021","low-overspend",NA,1
+"65","2635062","LINCOLNSHIRE","Investment owned",3,"Esland North Limited","20/05/2021","low-overspend","low-outsourcing",1
+"66","2636743","HARINGEY","Individual owned",3,"Family First Care Services Ltd","08/07/2021","high-overspend",NA,1
+"67","2638487","LANCASHIRE","Individual owned",4,"New Horizons nw ltd","01/07/2021","low-overspend",NA,1
+"68","2655345","DERBY","Investment owned",3,"Horizon Care and Education Group Limited","10/01/2022",NA,"high-outsourcing",1
+"69","2656902","LEICESTERSHIRE","Individual owned",3,"Footsteps to Futures Limited","27/09/2021","low-overspend",NA,1
+"70","SC001531","LEEDS","Third sector",7,"Catholic Care (Diocese of Leeds)","01/04/2002",NA,"low-outsourcing",1
+"71","SC005204","HALTON","Investment owned",6,"Keys Child Care Limited","11/08/2000","high-overspend",NA,1
+"72","SC005553","OLDHAM","Corporate owned",5,"Dalepeak Limited","01/06/1999",NA,"low-outsourcing",1
+"73","SC010090","LANCASHIRE","Investment owned",4,"Partners in Care Limited","21/12/2001","low-overspend",NA,1
+"74","SC020611","SHROPSHIRE","Investment owned",3,"Keys Nhcc Ltd","06/08/2001","high-overspend",NA,1
+"75","SC025695","CAMDEN","Third sector",8,"St Christopher's Fellowship","03/12/2001","low-overspend",NA,1
+"76","SC025740","STOCKPORT","Third sector",6,"The Together Trust","23/10/1997",NA,"low-outsourcing",1
+"77","SC028526","EAST SUSSEX","Corporate owned",2,"Anderida Adolescent Care Ltd","01/05/2002","high-overspend",NA,1
+"78","SC028536","EAST SUSSEX","Corporate owned",2,"Anderida Adolescent Care Ltd","01/05/2002","high-overspend",NA,1
+"79","SC031220","CALDERDALE","Investment owned",6,"Compass Childrens Homes Limited","24/09/2002","high-overspend",NA,1
+"80","SC033657","LEEDS","Local Authority",5,"Leeds City Council","10/07/2003",NA,"low-outsourcing",1
+"81","SC034922","ROCHDALE","Local Authority",4,"Rochdale Metropolitan Borough Council","19/09/2003",NA,"low-outsourcing",1
+"82","SC034944","LANCASHIRE","Investment owned",4,"Keys Child Care Limited","06/03/2003","low-overspend",NA,1
+"83","SC035155","CALDERDALE","Local Authority",7,"Calderdale Metropolitan Borough Council","09/09/2003","high-overspend",NA,1
+"84","SC035439","LANCASHIRE","Local Authority",6,"Lancashire County Council","03/11/2003","low-overspend",NA,1
+"85","SC036186","DERBYSHIRE","Local Authority",8,"Derbyshire County Council","11/12/2003","high-overspend",NA,1
+"86","SC036304","SEFTON","Local Authority",2,"Sefton Metropolitan Borough Council","25/03/2003","high-overspend",NA,1
+"87","SC037181","SEFTON","Corporate owned",2,"After Care Nw Limited","08/11/2002","high-overspend",NA,1
+"88","SC039070","STOCKPORT","Local Authority",5,"Stockport Metropolitan Borough Council","30/10/2003",NA,"low-outsourcing",1
+"89","SC039559","HALTON","Local Authority",4,"Halton Borough Council","15/09/2003","high-overspend",NA,1
+"90","SC040266","WIGAN","Local Authority",5,"Wigan Council","15/08/2003","high-overspend",NA,1
+"91","SC040982","WIGAN","Local Authority",5,"Wigan Council","30/05/2003","high-overspend",NA,1
+"92","SC041887","CROYDON","Local Authority",7,"London Borough of Croydon","27/11/2003","low-overspend",NA,1
+"93","SC042978","LINCOLNSHIRE","Local Authority",5,"Lincolnshire County Council","24/11/2003","low-overspend","low-outsourcing",1
+"94","SC059180","DURHAM","Investment owned",5,"Cambian Childcare Limited","31/03/2004",NA,"low-outsourcing",1
+"95","SC059753","WILTSHIRE","Corporate owned",2,"Five Rivers Child Care Limited","03/02/2004","low-overspend",NA,1
+"96","SC061005","BRADFORD","Local Authority",6,"City of Bradford Metropolitan District Council","24/06/2004","high-overspend",NA,1
+"97","SC062074","HEREFORDSHIRE","Investment owned",4,"Keys Education Ltd","23/12/2004","high-overspend",NA,1
+"98","SC065552","BRADFORD","Local Authority",6,"City of Bradford Metropolitan District Council","02/11/2005","high-overspend",NA,1
+"99","SC066127","NORTHUMBERLAND","Investment owned",4,"Cambian Childcare Limited","13/10/2006",NA,"low-outsourcing",1
+"100","SC066183","BIRMINGHAM","Investment owned",3,"Cambian Childcare Limited","04/01/2006","low-overspend",NA,1
+"101","SC066187","BIRMINGHAM","Investment owned",3,"Cambian Childcare Limited","06/02/2006","low-overspend",NA,1
+"102","SC066393","BIRMINGHAM","Investment owned",3,"Cambian Childcare Limited","18/01/2006","low-overspend",NA,1
+"103","SC068179","EAST SUSSEX","Local Authority",4,"East Sussex County Council","25/08/2006","high-overspend",NA,1
+"104","SC069474","EAST SUSSEX","Corporate owned",3,"Anderida Adolescent Care Ltd","12/03/2007","high-overspend",NA,1
+"105","SC356817","OLDHAM","Individual owned",4,"Lifetime Opportunities Ltd","09/07/2007",NA,"low-outsourcing",1
+"106","SC358349","CALDERDALE","Corporate owned",1,"Time-Out Childrens Homes Limited","26/03/2007","high-overspend",NA,1
+"107","SC366090","SHROPSHIRE","Investment owned",2,"Reflexion Care Group Limited","07/01/2008","high-overspend",NA,1
+"108","SC369857","BOLTON","Local Authority",5,"Bolton Metropolitan Borough Council","18/06/2008",NA,"low-outsourcing",1
+"109","SC373044","BOLTON","Third sector",4,"Birtenshaw","18/03/2008",NA,"low-outsourcing",1
+"110","SC377825","BIRMINGHAM","Investment owned",3,"Castle Homes Care Limited","08/07/2008","low-overspend",NA,1
+"111","SC380956","NORTH EAST LINCOLNSHIRE","Local Authority",3,"North East Lincolnshire Council","29/05/2009","high-overspend",NA,1
+"112","SC381522","NOTTINGHAMSHIRE","Individual owned",3,"East Midlands Care Matters Limited","06/10/2008",NA,"high-outsourcing",1
+"113","SC397293","DERBY","Local Authority",5,"Derby City Council","02/09/2009",NA,"high-outsourcing",1
+"114","SC402385","HEREFORDSHIRE","Investment owned",5,"Aspris Children's Services Limited","01/12/2009","high-overspend",NA,1
+"115","SC402426","HEREFORDSHIRE","Investment owned",5,"Aspris Children's Services Limited","01/12/2009","high-overspend",NA,1
+"116","SC406505","LEEDS","Local Authority",12,"Leeds City Council","02/02/2010",NA,"low-outsourcing",1
+"117","SC412175","BIRMINGHAM","Investment owned",4,"Cambian Childcare Limited","18/07/2010","low-overspend",NA,1
+"118","SC412687","SALFORD","Individual owned",3,"Social Care Services (Clayton) Limited","06/07/2010",NA,"low-outsourcing",1
+"119","SC416464","ROCHDALE","Corporate owned",3,"Meadows Care Limited","11/01/2011",NA,"low-outsourcing",1
+"120","SC418605","DURHAM","Individual owned",3,"Pear Tree Projects Limited","21/02/2011",NA,"low-outsourcing",1
+"121","SC423460","SEFTON","Individual owned",3,"Teen-Works Care Ltd","18/02/2011","high-overspend",NA,1
+"122","SC424851","BIRMINGHAM","Investment owned",6,"Cambian Childcare Limited","04/04/2011","low-overspend",NA,1
+"123","SC436469","DERBYSHIRE","Individual owned",3,"Blue Mountain Homes Ltd","06/10/2011","high-overspend",NA,1
+"124","SC440309","LANCASHIRE","Local Authority",6,"Lancashire County Council","04/01/2012","low-overspend",NA,1
+"125","SC448693","BRENT","Individual owned",4,"Amelia's House Limited","17/12/2012",NA,"high-outsourcing",1
+"126","SC454035","KNOWSLEY","Corporate owned",5,"Lytham Care Limited","24/12/2012","low-overspend",NA,1
+"127","SC454647","SHROPSHIRE","Investment owned",4,"Cambian Childcare Limited","12/11/2012","high-overspend",NA,1
+"128","SC456419","ROCHDALE","Investment owned",1,"Cambian Childcare Limited","18/02/2013",NA,"low-outsourcing",1
+"129","SC456850","ROCHDALE","Investment owned",1,"Cambian Childcare Limited","15/02/2013",NA,"low-outsourcing",1
+"130","SC457025","HEREFORDSHIRE","Investment owned",4,"Cambian Childcare Limited","11/02/2013","high-overspend",NA,1
+"131","SC457183","HALTON","Investment owned",1,"Cambian Childcare Limited","14/02/2013","high-overspend",NA,1
+"132","SC457780","BRENT","Local Authority",8,"London Borough of Brent","07/12/2012",NA,"high-outsourcing",1
+"133","SC457923","HEREFORDSHIRE","Investment owned",4,"Cambian Childcare Limited","11/12/2012","high-overspend",NA,1
+"134","SC460973","SHROPSHIRE","Investment owned",3,"Reflexion Care Group Limited","24/04/2013","high-overspend",NA,1
+"135","SC464809","LANCASHIRE","Investment owned",5,"ROC Northwest Limited ","25/06/2013","low-overspend",NA,1
+"136","SC465079","MIDDLESBROUGH","Investment owned",1,"Cambian Childcare Limited","08/07/2013","high-overspend",NA,1
+"137","SC472381","MIDDLESBROUGH","Local Authority",3,"Middlesbrough Borough Council","03/01/2014","high-overspend",NA,1
+"138","SC472392","MIDDLESBROUGH","Local Authority",4,"Middlesbrough Borough Council","03/01/2014","high-overspend",NA,1
+"139","SC476236","SHROPSHIRE","Investment owned",4,"Cambian Childcare Limited","24/04/2014","high-overspend",NA,1
+"140","SC476267","SHROPSHIRE","Investment owned",5,"Cambian Childcare Limited","06/03/2014","high-overspend",NA,1
+"141","SC476271","SHROPSHIRE","Investment owned",5,"Cambian Childcare Limited","09/03/2014","high-overspend",NA,1
+"142","SC479650","ROCHDALE","Corporate owned",6,"Hexagon Care Services Ltd","08/10/2014",NA,"low-outsourcing",1
+"143","SC480240","LANCASHIRE","Corporate owned",7,"Hexagon Care Services Ltd","23/10/2014","low-overspend",NA,1
+"144","SC480318","SHROPSHIRE","Investment owned",4,"Bryn Melyn Care Limited","26/08/2014","high-overspend",NA,1
+"145","SC481015","CAMBRIDGESHIRE","Corporate owned",6,"Unique Care Homes Support Limited","08/10/2014","low-overspend",NA,1
+"146","SC482340","KNOWSLEY","Corporate owned",1,"Lytham Care Limited","03/12/2014","low-overspend",NA,1
+"147","SC483533","BOLTON","Third sector",3,"Birtenshaw","27/01/2015",NA,"low-outsourcing",1
+"148","SC484114","BEDFORD","Investment owned",3,"Oracle Care Limited","31/03/2015",NA,"high-outsourcing",1
+"149","SC488679","LEEDS","Local Authority",4,"Leeds City Council","10/04/2015",NA,"low-outsourcing",1
+"150","2612735","CALDERDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","20/12/2020","high-overspend",NA,1
+"151","SC428895","LEEDS","Investment owned",3,"Cambian Childcare Ltd","17/06/2011",NA,"low-outsourcing",1
+"152","2613661","NORTHUMBERLAND","Corporate owned",2,"Young Foundations Limited","29/10/2020",NA,"low-outsourcing",1
+"153","2615326","DURHAM","Individual owned",3,"VITA NOVA NE LTD","12/01/2021",NA,"low-outsourcing",1
+"154","2616605","LANCASHIRE","Investment owned",6,"Compass Childrens Homes Ltd","31/03/2021","low-overspend",NA,1
+"155","2616704","DERBYSHIRE","Individual owned",3,"Rite Directions Ltd","18/02/2021","high-overspend",NA,1
+"156","2678551","CENTRAL BEDFORDSHIRE","Corporate owned",2,"Homes 2 inspire","29/03/2022","high-overspend",NA,1
+"157","2679026","DERBYSHIRE","Corporate owned",4,"Care 4 Every Child Ltd","28/06/2022","high-overspend",NA,1
+"158","SC386837","STOCKPORT","Corporate owned",2,"New Horizons (Stockport) Ltd","18/03/2009",NA,"low-outsourcing",1
+"159","2561020","DERBY","Individual owned",5,"Blue Mountain Homes Ltd","14/11/2019",NA,"high-outsourcing",1
+"160","2660470","DERBYSHIRE","Corporate owned",3,"My House Calow Ltd","03/12/2021","high-overspend",NA,1
+"161","2661513","LEICESTERSHIRE","Individual owned",1,"Almond Care Children's Services Limited","22/02/2022","low-overspend",NA,1
+"162","2663221","LANCASHIRE","Individual owned",2,"Holywell Children's Services Limited","31/01/2022","low-overspend",NA,1
+"163","2503598","BIRMINGHAM","Corporate owned",5,"Aston Children's Care Ltd","20/03/2019","low-overspend",NA,1
+"164","2505378","LINCOLNSHIRE","Investment owned",3,"Esland North Limited","19/01/2019","low-overspend","low-outsourcing",1
+"165","2612063","BRENT","Corporate owned",4,"Blossom Children's Homes Limited","17/12/2020",NA,"high-outsourcing",1
+"166","SC457423","CENTRAL BEDFORDSHIRE","Third sector",5,"MacIntyre Care","14/02/2013","high-overspend",NA,1
+"167","1269421","DERBYSHIRE","Investment owned",3,"Aspris Children's Services Limited","23/01/2018","high-overspend",NA,1
+"168","1270767","NOTTINGHAMSHIRE","Third sector",4,"K & G Care Ltd","16/02/2018",NA,"high-outsourcing",1
+"169","SC443959","LANCASHIRE","Investment owned",8,"Aspris New Education Services Limited","03/05/2012","low-overspend",NA,1
+"170","2653207","WIGAN","Individual owned",1,"All Round Care Ltd","27/10/2021","high-overspend",NA,1
+"171","SC035339","OLDHAM","Local Authority",7,"Oldham Metropolitan Borough Council","22/01/2004",NA,"low-outsourcing",1
+"172","SC035492","OLDHAM","Local Authority",4,"Oldham Metropolitan Borough Council","28/10/2003",NA,"low-outsourcing",1
+"173","SC431192","SEFTON","Individual owned",4,"Independent Living Services (North West) Limited","26/07/2011","high-overspend",NA,1
+"174","SC434806","LEICESTERSHIRE","Investment owned",3,"Cambian Childcare Ltd","15/09/2011","low-overspend",NA,1
+"175","SC442401","LANCASHIRE","Investment owned",5,"ROC Northwest Limited ","15/03/2012","low-overspend",NA,1
+"176","SC475697","LANCASHIRE","Investment owned",7,"Witherslack Group Ltd","08/05/2014","low-overspend",NA,1
+"177","SC483692","LANCASHIRE","Investment owned",4,"ROC Northwest Limited ","03/12/2014","low-overspend",NA,1
+"178","1276010","SHROPSHIRE","Investment owned",3,"Bryn Melyn Care Limited","14/05/2018","high-overspend",NA,1
+"179","1277497","LANCASHIRE","Individual owned",4,"Hopscotch Care Ltd","15/06/2018","low-overspend",NA,1
+"180","SC419217","BIRMINGHAM","Individual owned",2,"Care And Management Services Limited","18/11/2010","low-overspend",NA,1
+"181","SC471672","BIRMINGHAM","Individual owned",4,"Serenity Specialist Care Ltd","21/05/2014","low-overspend",NA,1
+"182","2585407","SHROPSHIRE","Investment owned",4,"Physis Quantum Limited","09/07/2020","high-overspend",NA,1
+"183","2585926","SUNDERLAND","Investment owned",7,"Witherslack Group Ltd","26/05/2020",NA,"low-outsourcing",1
+"184","2594007","SALFORD","Investment owned",2,"Cambian Childcare Ltd","09/06/2020",NA,"low-outsourcing",1
+"185","2594985","LANCASHIRE","Individual owned",4,"New Horizons (NW) Ltd","03/08/2020","low-overspend",NA,1
+"186","SC044224","LANCASHIRE","Investment owned",4,"Progress Care and Education Limited","10/10/2003","low-overspend",NA,1
+"187","2595983","LANCASHIRE","Investment owned",6,"Keys QTC Limited","25/08/2020","low-overspend",NA,1
+"188","2598462","LEICESTERSHIRE","Corporate owned",2,"Haven Care Group Ltd","08/10/2020","low-overspend",NA,1
+"189","2599399","HEREFORDSHIRE","Investment owned",2,"Cambian Childcare Ltd","15/09/2020","high-overspend",NA,1
+"190","2599659","PETERBOROUGH","Corporate owned",4,"Semi-Independent House Limited","29/11/2020","low-overspend",NA,1
+"191","2602558","GATESHEAD","Individual owned",6,"Enhanced Young Person's Care LTD","17/11/2020",NA,"low-outsourcing",1
+"192","2602585","LANCASHIRE","Investment owned",3,"Next Stage 4Life LTD","18/09/2020","low-overspend",NA,1
+"193","SC457175","HALTON","Investment owned",1,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"194","SC410539","BIRMINGHAM","Individual owned",3,"Positive Pathways Limited","29/06/2010","low-overspend",NA,1
+"195","SC412979","LANCASHIRE","Investment owned",4,"Aspris New Education Services Limited","08/07/2010","low-overspend",NA,1
+"196","SC413779","ROCHDALE","Individual owned",2,"Aspire Child Care Ltd","02/09/2010",NA,"low-outsourcing",1
+"197","SC475680","LANCASHIRE","Investment owned",8,"Witherslack Group Ltd","08/05/2014","low-overspend",NA,1
+"198","SC476251","BEDFORD","Investment owned",4,"Cambian Childcare Ltd","26/02/2014",NA,"high-outsourcing",1
+"199","SC476512","REDCAR AND CLEVELAND","Individual owned",5,"Highfield (North East) Limited","03/06/2014","high-overspend","low-outsourcing",1
+"200","SC477726","WIGAN","Individual owned",2,"Crystal Care Solutions Limited","18/07/2014","high-overspend",NA,1
+"201","SC461865","REDBRIDGE","Corporate owned",5,"Heartwood RSW Ltd","08/11/2013",NA,"high-outsourcing",1
+"202","2586949","LANCASHIRE","Investment owned",3,"Horizon Care and Education Group Limited","30/04/2020","low-overspend",NA,1
+"203","SC488439","SHROPSHIRE","Investment owned",3,"Keys Education Ltd","27/02/2015","high-overspend",NA,1
+"204","SC033127","NORTH EAST LINCOLNSHIRE","Local Authority",11,"North East Lincolnshire Council","20/01/2004","high-overspend",NA,1
+"205","SC470797","BOLTON","Third sector",4,"Birtenshaw","16/10/2013",NA,"low-outsourcing",1
+"206","SC472374","MIDDLESBROUGH","Local Authority",4,"Middlesbrough Borough Council","03/01/2014","high-overspend",NA,1
+"207","SC472449","NORTH LINCOLNSHIRE","Local Authority",6,"North Lincolnshire Council","10/12/2013","low-overspend","low-outsourcing",1
+"208","2537801","LANCASHIRE","Corporate owned",3,"Exceptional Care Limited","13/09/2019","low-overspend",NA,1
+"209","2630728","SUNDERLAND","Third sector",3,"Hopespring","13/07/2021",NA,"low-outsourcing",1
+"210","2674176","BEDFORD","Individual owned",1,"Cornerways Care Ltd","11/02/2022",NA,"high-outsourcing",1
+"211","2677057","SHROPSHIRE","Investment owned",14,"Reflexion Care Group Limited","13/09/2022","high-overspend",NA,1
+"212","2678404","DERBY","Individual owned",3,"Willow Care Group Limited","15/06/2022",NA,"high-outsourcing",1
+"213","1269505","CENTRAL BEDFORDSHIRE","Individual owned",4,"Benjamin UK Ltd","20/02/2018","high-overspend",NA,1
+"214","SC470224","LANCASHIRE","Corporate owned",10,"Halliwell Homes Limited","11/11/2013","low-overspend",NA,1
+"215","SC457074","HEREFORDSHIRE","Investment owned",4,"Cambian Childcare Ltd","10/12/2012","high-overspend",NA,1
+"216","SC009651","LANCASHIRE","Investment owned",4,"Keys Child Care Ltd","08/02/1996","low-overspend",NA,1
+"217","SC047978","NOTTINGHAMSHIRE","Individual owned",5,"Blue Mountain Homes Ltd","27/06/2003",NA,"high-outsourcing",1
+"218","SC051513","DERBYSHIRE","Local Authority",4,"Nottinghamshire County Council","02/02/2004","high-overspend",NA,1
+"219","SC042652","SEFTON","Corporate owned",3,"After Care Nw Limited","20/03/2003","high-overspend",NA,1
+"220","SC423407","DURHAM","Investment owned",8,"Keys Care Limited","28/01/2011",NA,"low-outsourcing",1
+"221","SC025739","STOCKPORT","Third sector",4,"The Together Trust","24/07/1998",NA,"low-outsourcing",1
+"222","SC069618","NORTH EAST LINCOLNSHIRE","Local Authority",1,"North East Lincolnshire Council","12/03/2007","high-overspend",NA,1
+"223","SC473699","LINCOLNSHIRE","Corporate owned",4,"Unique Care Homes Support Limited","17/03/2014","low-overspend","low-outsourcing",1
+"224","SC474041","SHROPSHIRE","Investment owned",2,"Keys Nhcc Ltd","30/04/2014","high-overspend",NA,1
+"225","SC474894","NORTHUMBERLAND","Investment owned",3,"A Wilderness Way Ltd","13/05/2014",NA,"low-outsourcing",1
+"226","SC475748","LANCASHIRE","Investment owned",7,"Witherslack Group Ltd","30/06/2014","low-overspend",NA,1
+"227","SC020151","DERBYSHIRE","Individual owned",8,"Country Care Childrens Homes Ltd","26/08/1999","high-overspend",NA,1
+"228","2628010","WIGAN","Investment owned",1,"Cambian Childcare Ltd","27/04/2021","high-overspend",NA,1
+"229","2630680","SOLIHULL","Individual owned",7,"Sherlock Healthcare Services Ltd","22/07/2022","high-overspend",NA,1
+"230","SC411030","ROCHDALE","Corporate owned",3,"Meadows Care Limited","07/06/2010",NA,"low-outsourcing",1
+"231","2497049","BIRMINGHAM","Investment owned",2,"Adecyn Childrens Homes Ltd","03/04/2019","low-overspend",NA,1
+"232","2504494","LEICESTERSHIRE","Individual owned",4,"Inspirations Leicestershire LTD","20/02/2019","low-overspend",NA,1
+"233","2645163","KINGSTON UPON THAMES","Corporate owned",7,"EnhanceAble","18/08/2021",NA,"high-outsourcing",1
+"234","SC441513","DERBYSHIRE","Local Authority",6,"Derbyshire County Council","02/02/2012","high-overspend",NA,1
+"235","SC000673","NORTHUMBERLAND","Third sector",10,"Action for Children","01/06/1994",NA,"low-outsourcing",1
+"236","2660433","MEDWAY","Investment owned",5,"Prime Calibre Care Group Ltd","15/12/2021",NA,"high-outsourcing",1
+"237","2660783","DERBY","Corporate owned",3,"Treetops Children's Homes Limited","18/01/2022",NA,"high-outsourcing",1
+"238","SC456863","TORBAY","Investment owned",1,"Cambian Childcare Ltd","14/03/2013","low-overspend",NA,1
+"239","SC456910","TORBAY","Investment owned",1,"Cambian Childcare Ltd","25/02/2013","low-overspend",NA,1
+"240","SC457025","HEREFORDSHIRE","Investment owned",4,"Cambian Childcare Ltd","11/02/2013","high-overspend",NA,1
+"241","2547761","LANCASHIRE","Corporate owned",3,"Cherish Childrens Care Ltd","09/02/2020","low-overspend",NA,1
+"242","2548333","BIRMINGHAM","Corporate owned",4,"Haven Care Group Ltd","24/01/2020","low-overspend",NA,1
+"243","2550015","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","04/11/2019","low-overspend",NA,1
+"244","2556128","BIRMINGHAM","Individual owned",4,"Gracebridge Care","06/12/2019","low-overspend",NA,1
+"245","2557914","BIRMINGHAM","Individual owned",3,"Positive Pathways Limited","14/02/2020","low-overspend",NA,1
+"246","2559317","SEFTON","Individual owned",1,"Omega care Group LTD","11/05/2020","high-overspend",NA,1
+"247","2652918","SHROPSHIRE","Individual owned",3,"Positive Outcomes Childcare Limited","12/05/2022","high-overspend",NA,1
+"248","SC421197","LANCASHIRE","Individual owned",4,"ABC Care and Education Ltd","06/01/2011","low-overspend",NA,1
+"249","2633026","NOTTINGHAMSHIRE","Individual owned",1,"Truly Care Services Ltd","06/08/2021",NA,"high-outsourcing",1
+"250","1183826","SUNDERLAND","LA owned company",8,"Sunderland Care And Support Limited","04/04/2016",NA,"low-outsourcing",1
+"251","1212704","NORTH YORKSHIRE","Corporate owned",3,"Hexagon Care Services Ltd","15/09/2016","low-overspend","low-outsourcing",1
+"252","2513341","HEREFORDSHIRE","Investment owned",5,"Keys Care Limited","06/08/2019","high-overspend",NA,1
+"253","2516553","BIRMINGHAM","Individual owned",3,"Beacon Childcare Ltd","02/05/2019","low-overspend",NA,1
+"254","1234243","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","27/05/2016","low-overspend",NA,1
+"255","2534102","DURHAM","Corporate owned",4,"Impact Childcare and Education Ltd ","01/08/2019",NA,"low-outsourcing",1
+"256","2534696","NOTTINGHAMSHIRE","Corporate owned",2,"Homes 2 inspire","12/06/2019",NA,"high-outsourcing",1
+"257","2534829","LANCASHIRE","Corporate owned",2,"Nurture Childcare Services Ltd","23/08/2019","low-overspend",NA,1
+"258","2519919","BIRMINGHAM","Individual owned",3,"Nisa Care Home Limited","01/10/2019","low-overspend",NA,1
+"259","2525774","OLDHAM","Individual owned",4,"Stepping Stones Childrens Homes Limited","28/05/2019",NA,"low-outsourcing",1
+"260","2528141","LANCASHIRE","Individual owned",1,"Hopscotch Care Ltd","03/06/2019","low-overspend",NA,1
+"261","2534179","LANCASHIRE","Investment owned",2,"Next Stage 4Life LTD","20/06/2019","low-overspend",NA,1
+"262","2631690","HEREFORDSHIRE","Individual owned",3,"Flourish (Gloucestershire) Limited","29/04/2021","high-overspend",NA,1
+"263","1235818","NORTH YORKSHIRE","Investment owned",4,"Cambian Childcare Ltd","09/06/2016","low-overspend","low-outsourcing",1
+"264","1236026","DURHAM","Investment owned",4,"Cambian Childcare Ltd","07/05/2016",NA,"low-outsourcing",1
+"265","1236625","LEICESTERSHIRE","Individual owned",3,"Happy Group (uk) Limited","21/07/2016","low-overspend",NA,1
+"266","1240433","NORTH LINCOLNSHIRE","Investment owned",3,"Esland North Limited","19/08/2016","low-overspend","low-outsourcing",1
+"267","1240449","KNOWSLEY","Individual owned",3,"Idem Living Ltd","08/06/2016","low-overspend",NA,1
+"268","1240883","LANCASHIRE","Investment owned",3,"Your Chapter Holdings Limited","18/08/2016","low-overspend",NA,1
+"269","1234317","CALDERDALE","Investment owned",6,"Your Chapter LTD","04/08/2016","high-overspend",NA,1
+"270","1271666","BRADFORD","Local Authority",4,"City of Bradford Metropolitan District Council","26/03/2018","high-overspend",NA,1
+"271","1271998","LANCASHIRE","Investment owned",3,"Your Chapter LTD","23/05/2018","low-overspend",NA,1
+"272","1272220","REDCAR AND CLEVELAND","Individual owned",2,"Tees-Valley Care Limited","09/05/2018","high-overspend","low-outsourcing",1
+"273","2586969","NOTTINGHAMSHIRE","Individual owned",1,"Footsteps to Futures Limited","23/04/2020",NA,"high-outsourcing",1
+"274","2674792","EAST SUSSEX","Local Authority",5,"East Sussex County Council","04/05/2022","high-overspend",NA,1
+"275","2675155","BARNET","Individual owned",5,"Seva Childcare Ltd","19/07/2022",NA,"high-outsourcing",1
+"276","2676352","LANCASHIRE","Individual owned",3,"Lonsdale Care Ltd","13/05/2022","low-overspend",NA,1
+"277","2679574","LANCASHIRE","Investment owned",3,"Northridge Care Group Ltd","12/08/2022","low-overspend",NA,1
+"278","2627009","LINCOLNSHIRE","Individual owned",5,"Protea Care 2 Limited","18/08/2021","low-overspend","low-outsourcing",1
+"279","2627028","DERBY","Individual owned",3,"Total Care Matters Limited","07/04/2021",NA,"high-outsourcing",1
+"280","2629073","CALDERDALE","Individual owned",1,"Restorative Social Care Services Ltd","11/03/2021","high-overspend",NA,1
+"281","2664861","REDBRIDGE","Corporate owned",5,"Tutelage care Redbridge Ltd","14/03/2022",NA,"high-outsourcing",1
+"282","2669033","WIGAN","Corporate owned",2,"Proactive Care (manchester) ltd","08/04/2022","high-overspend",NA,1
+"283","2675485","SEFTON","Third sector",3,"Nugent Care 2019","14/02/2022","high-overspend",NA,1
+"284","SC040723","BOLTON","Local Authority",4,"Bolton Metropolitan Borough Council","18/07/2003",NA,"low-outsourcing",1
+"285","SC454901","NOTTINGHAMSHIRE","Investment owned",5,"Keys BR Limited","20/11/2012",NA,"high-outsourcing",1
+"286","SC456416","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","11/02/2013",NA,"low-outsourcing",1
+"287","SC456729","HALTON","Investment owned",3,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"288","2558682","SHROPSHIRE","Local Authority",2,"Shropshire Council","14/02/2020","high-overspend",NA,1
+"289","2563216","NORTH EAST LINCOLNSHIRE","Local Authority",4,"North East Lincolnshire Council","21/11/2019","high-overspend",NA,1
+"290","SC066428","LANCASHIRE","Investment owned",5,"ROC Northwest Limited ","01/03/2006","low-overspend",NA,1
+"291","SC412175","BIRMINGHAM","Investment owned",4,"Cambian Childcare Ltd","18/07/2010","low-overspend",NA,1
+"292","SC414516","DERBYSHIRE","Individual owned",3,"Blue Mountain Homes Ltd","28/07/2010","high-overspend",NA,1
+"293","SC051856","WIGAN","Local Authority",4,"Wigan Council","22/01/2004","high-overspend",NA,1
+"294","SC052946","REDBRIDGE","Individual owned",5,"Care 2 Share 2 Ltd","08/12/2003",NA,"high-outsourcing",1
+"295","2596897","GATESHEAD","Local Authority",3,"Gateshead Council","02/07/2020",NA,"low-outsourcing",1
+"296","2597738","WIGAN","Individual owned",1,"Social Care Services (Clayton) Limited","30/06/2020","high-overspend",NA,1
+"297","2598648","LEICESTERSHIRE","Individual owned",3,"Footsteps to Futures Limited","04/08/2020","low-overspend",NA,1
+"298","2664249","EAST SUSSEX","Individual owned",2,"Sussex Children's Care LTD","21/12/2021","high-overspend",NA,1
+"299","2666161","LINCOLNSHIRE","Investment owned",6,"Compass Childrens Homes Ltd","13/05/2022","low-overspend","low-outsourcing",1
+"300","2667592","NOTTINGHAMSHIRE","Corporate owned",2,"Homes 2 inspire","13/01/2022",NA,"high-outsourcing",1
+"301","SC055153","LANCASHIRE","Corporate owned",3,"Thunderbolt Mobile Limited","23/12/2003","low-overspend",NA,1
+"302","SC057718","BOLTON","Third sector",5,"The Together Trust","14/06/2004",NA,"low-outsourcing",1
+"303","SC059717","WILTSHIRE","Corporate owned",6,"Five Rivers Child Care Limited","29/03/2007","low-overspend",NA,1
+"304","SC417031","DURHAM","Investment owned",4,"Pathways Care Group","03/12/2010",NA,"low-outsourcing",1
+"305","SC457182","HALTON","Investment owned",1,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"306","1249183","BRADFORD","Investment owned",4,"Horizon Care and Education Group Limited","24/04/2017","high-overspend",NA,1
+"307","2563164","HALTON","Corporate owned",2,"Future Focused Ltd","24/04/2020","high-overspend",NA,1
+"308","2567806","NORTH YORKSHIRE","Individual owned",2,"Laska Care And Education Ltd","06/05/2020","low-overspend","low-outsourcing",1
+"309","2613829","NOTTINGHAMSHIRE","Individual owned",4,"Abbey Green Therapeutic Children's Services Ltd","15/02/2021",NA,"high-outsourcing",1
+"310","1159385","SHROPSHIRE","Investment owned",4,"Cambian Childcare Ltd","14/06/2016","high-overspend",NA,1
+"311","1271587","HEREFORDSHIRE","Investment owned",4,"Greenfields Adolescent Development Limited","06/04/2018","high-overspend",NA,1
+"312","1256658","HALTON","Corporate owned",2,"Lytham Care Limited","04/07/2017","high-overspend",NA,1
+"313","1257182","BARNET","Individual owned",2,"Curam Domi Solutions Ltd","24/08/2017",NA,"high-outsourcing",1
+"314","SC032600","HOUNSLOW","Local Authority",6,"London Borough of Hounslow","01/08/2003","high-overspend","high-outsourcing",1
+"315","SC033120","LUTON","Local Authority",5,"Luton Borough Council","08/01/2004",NA,"high-outsourcing",1
+"316","SC065072","ROCHDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","24/08/2005",NA,"low-outsourcing",1
+"317","2484055","LINCOLNSHIRE","Investment owned",4,"The Place Young People's Company","21/08/2018","low-overspend","low-outsourcing",1
+"318","SC036732","NOTTINGHAMSHIRE","Local Authority",8,"Nottinghamshire County Council","07/02/2003",NA,"high-outsourcing",1
+"319","SC033642","NEWCASTLE UPON TYNE","Local Authority",6,"Newcastle City Council","27/02/2003","low-overspend","low-outsourcing",1
+"320","SC033840","MIDDLESBROUGH","Local Authority",9,"Middlesbrough Borough Council","29/04/2003","high-overspend",NA,1
+"321","SC062536","DERBYSHIRE","Local Authority",6,"Derbyshire County Council","20/01/2005","high-overspend",NA,1
+"322","2564415","LANCASHIRE","Investment owned",4,"Sandcastle Care Ltd","01/05/2020","low-overspend",NA,1
+"323","2565542","THURROCK","Individual owned",2,"Nirmal Homes Limited","19/12/2019",NA,"high-outsourcing",1
+"324","2567557","MIDDLESBROUGH","Local Authority",2,"Middlesbrough Borough Council","04/03/2020","high-overspend",NA,1
+"325","2538285","LANCASHIRE","Individual owned",6,"Union House Nw Ltd","26/11/2019","low-overspend",NA,1
+"326","2540927","LINCOLNSHIRE","Investment owned",3,"Esland North Limited","24/07/2019","low-overspend","low-outsourcing",1
+"327","2541033","TRAFFORD","Corporate owned",5,"Pure Care Homes Ltd","05/09/2019",NA,"low-outsourcing",1
+"328","1223681","LANCASHIRE","Investment owned",3,"Sandcastle Care Ltd","14/04/2016","low-overspend",NA,1
+"329","2646001","CALDERDALE","Investment owned",6,"Compass Childrens Homes Ltd","25/04/2022","high-overspend",NA,1
+"330","2646995","CALDERDALE","Individual owned",3,"Restorative Social Care Services Ltd","20/06/2022","high-overspend",NA,1
+"331","2648208","LANCASHIRE","Investment owned",1,"Esland North Limited","08/10/2021","low-overspend",NA,1
+"332","SC039673","LANCASHIRE","Local Authority",6,"Lancashire County Council","19/08/2003","low-overspend",NA,1
+"333","SC039689","LANCASHIRE","Local Authority",6,"Lancashire County Council","14/11/2003","low-overspend",NA,1
+"334","1263129","EAST SUSSEX","Investment owned",6,"Compass Childrens Homes Ltd","06/11/2017","high-overspend",NA,1
+"335","1263773","LEICESTERSHIRE","Corporate owned",4,"Platform Childcare Ltd","01/12/2017","low-overspend",NA,1
+"336","1264048","BRENT","Individual owned",4,"Stonelake London Limited","12/09/2017",NA,"high-outsourcing",1
+"337","1264537","WIGAN","Investment owned",5,"ROC Northwest Limited ","29/11/2017","high-overspend",NA,1
+"338","SC044692","NOTTINGHAMSHIRE","Local Authority",4,"Nottinghamshire County Council","04/05/2005",NA,"high-outsourcing",1
+"339","2570084","DERBYSHIRE","Individual owned",1,"Consistent Quality Support Ltd","11/12/2020","high-overspend",NA,1
+"340","2662427","LEICESTERSHIRE","Corporate owned",3,"Changing Lives Care Group Ltd","18/01/2022","low-overspend",NA,1
+"341","2671361","WILTSHIRE","Individual owned",2,"Solent Childcare LTD","07/03/2022","low-overspend",NA,1
+"342","SC035137","DURHAM","Local Authority",3,"Durham County Council","04/09/2003",NA,"low-outsourcing",1
+"343","SC035459","LANCASHIRE","Local Authority",6,"Lancashire County Council","03/11/2003","low-overspend",NA,1
+"344","SC424141","BRADFORD","Investment owned",6,"Cambian Childcare Ltd","10/03/2011","high-overspend",NA,1
+"345","SC462450","THURROCK","Individual owned",4,"Satash Community Care Project Limited","04/07/2013",NA,"high-outsourcing",1
+"346","SC466284","NOTTINGHAMSHIRE","Third sector",7,"The Caldecott Foundation Limited","05/12/2013",NA,"high-outsourcing",1
+"347","SC467796","BOLTON","Third sector",3,"Birtenshaw","18/10/2013",NA,"low-outsourcing",1
+"348","SC031490","EAST SUSSEX","Local Authority",7,"East Sussex County Council","11/08/2003","high-overspend",NA,1
+"349","2652976","HALTON","Investment owned",5,"Bright Futures Care Limited","28/10/2021","high-overspend",NA,1
+"350","2655174","PETERBOROUGH","Individual owned",6,"Florinee Homes Ltd","04/11/2021","low-overspend",NA,1
+"351","SC008600","STOCKPORT","Corporate owned",6,"New Horizons (Stockport) Ltd","04/03/1998",NA,"low-outsourcing",1
+"352","SC059203","NORTHUMBERLAND","Local Authority",6,"Northumberland County Council","15/06/2004",NA,"low-outsourcing",1
+"353","SC033723","LEEDS","Local Authority",5,"Leeds City Council","17/07/2003",NA,"low-outsourcing",1
+"354","SC033805","BARNET","Local Authority",6,"London Borough of Barnet","06/10/2004",NA,"high-outsourcing",1
+"355","SC034189","NORTH YORKSHIRE","Local Authority",6,"North Yorkshire County Council","14/10/2003","low-overspend","low-outsourcing",1
+"356","SC034686","DURHAM","Local Authority",5,"Durham County Council","05/09/2003",NA,"low-outsourcing",1
+"357","2673338","LANCASHIRE","Individual owned",2,"Theracare Homes Limited","06/04/2022","low-overspend",NA,1
+"358","2673339","NOTTINGHAMSHIRE","Corporate owned",3,"Homes 2 inspire","28/04/2022",NA,"high-outsourcing",1
+"359","SC020606","SHROPSHIRE","Investment owned",3,"Keys Nhcc Ltd","06/08/2001","high-overspend",NA,1
+"360","SC020607","SHROPSHIRE","Investment owned",3,"Keys Nhcc Ltd","06/08/2001","high-overspend",NA,1
+"361","SC456532","ROCHDALE","Investment owned",2,"Cambian Childcare Ltd","06/03/2013",NA,"low-outsourcing",1
+"362","SC456846","CAMBRIDGESHIRE","Investment owned",3,"Cambian Childcare Ltd","25/02/2013","low-overspend",NA,1
+"363","SC457181","HALTON","Investment owned",1,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"364","SC457430","HARTLEPOOL","Investment owned",3,"Cambian Childcare Ltd","21/12/2012",NA,"low-outsourcing",1
+"365","SC457435","NORTH YORKSHIRE","Investment owned",2,"Cambian Childcare Ltd","20/01/2013","low-overspend","low-outsourcing",1
+"366","2586951","SALFORD","Investment owned",3,"Horizon Care and Education Group Limited","01/05/2020",NA,"low-outsourcing",1
+"367","2688209","DURHAM","Corporate owned",2,"ROC Family Support Ltd","30/06/2022",NA,"low-outsourcing",1
+"368","2690357","DERBYSHIRE","Individual owned",3,"Blue Mountain Homes Ltd","17/06/2022","high-overspend",NA,1
+"369","SC007608","DURHAM","Individual owned",3,"Pear Tree Projects Limited","30/06/2001",NA,"low-outsourcing",1
+"370","SC008488","STOCKPORT","Corporate owned",8,"Halliwell Homes Limited","01/09/1999",NA,"low-outsourcing",1
+"371","2553536","WIGAN","Individual owned",4,"Apex Childrens Services Ltd","22/11/2019","high-overspend",NA,1
+"372","2556340","NOTTINGHAMSHIRE","Corporate owned",2,"Homes 2 inspire","14/10/2019",NA,"high-outsourcing",1
+"373","2590128","STOCKPORT","Third sector",4,"Seashell Trust","22/05/2020",NA,"low-outsourcing",1
+"374","2590726","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","14/07/2020","low-overspend",NA,1
+"375","2595974","SUNDERLAND","Corporate owned",2,"HMO NE LTD","04/11/2020",NA,"low-outsourcing",1
+"376","2620950","BOLTON","Investment owned",2,"Cambian Childcare Ltd","22/03/2021",NA,"low-outsourcing",1
+"377","2623130","DORSET","Investment owned",3,"Beaufort care Group","22/12/2020","high-overspend",NA,1
+"378","2624251","DURHAM","Local Authority",3,"Durham County Council","12/03/2021",NA,"low-outsourcing",1
+"379","SC035477","LANCASHIRE","Local Authority",3,"Lancashire County Council","11/12/2003","low-overspend",NA,1
+"380","SC035648","DURHAM","Local Authority",38,"Durham County Council","04/09/2003",NA,"low-outsourcing",1
+"381","SC036243","DERBY","Local Authority",6,"Derby City Council","12/02/2004",NA,"high-outsourcing",1
+"382","2655041","WILTSHIRE","Individual owned",3,"Direct Care Childrens Homes Ltd","30/11/2021","low-overspend",NA,1
+"383","SC034851","ROCHDALE","Local Authority",5,"Rochdale Metropolitan Borough Council","19/09/2003",NA,"low-outsourcing",1
+"384","2589392","LANCASHIRE","Investment owned",3,"Horizon Care and Education Group Limited","01/05/2020","low-overspend",NA,1
+"385","SC059755","WILTSHIRE","Corporate owned",5,"Five Rivers Child Care Limited","03/02/2004","low-overspend",NA,1
+"386","1274846","CAMBRIDGESHIRE","Individual owned",6,"Parkview Care (Broadstairs) Limited","28/06/2018","low-overspend",NA,1
+"387","1277380","NORTH YORKSHIRE","Investment owned",5,"ROC Northwest Limited ","22/06/2018","low-overspend","low-outsourcing",1
+"388","1278968","LANCASHIRE","Local Authority",4,"Lancashire County Council","10/08/2018","low-overspend",NA,1
+"389","2555505","LINCOLNSHIRE","Individual owned",6,"Aspiration House Limited","01/04/2020","low-overspend","low-outsourcing",1
+"390","SC439882","DERBYSHIRE","Local Authority",6,"Derbyshire County Council","31/01/2012","high-overspend",NA,1
+"391","SC441865","NOTTINGHAMSHIRE","Third sector",3,"Shyne Together Limited","29/07/2012",NA,"high-outsourcing",1
+"392","SC432966","BIRMINGHAM","Individual owned",4,"N H Care Limited","27/07/2011","low-overspend",NA,1
+"393","SC030967","HARTLEPOOL","Local Authority",8,"Hartlepool Borough Council","17/03/2003",NA,"low-outsourcing",1
+"394","SC032069","LEICESTERSHIRE","Third sector",8,"Praxis Care","01/08/2002","low-overspend",NA,1
+"395","SC032502","HILLINGDON","Local Authority",13,"The London Borough of Hillingdon","17/11/2003",NA,"high-outsourcing",1
+"396","SC033362","PETERBOROUGH","Local Authority",4,"Peterborough City & Cambridgeshire County Councils","09/06/2003","low-overspend",NA,1
+"397","SC033467","NEWCASTLE UPON TYNE","Third sector",8,"St Cuthbert's Care","25/06/2003","low-overspend","low-outsourcing",1
+"398","SC033492","BRADFORD","Local Authority",7,"City of Bradford Metropolitan District Council","26/06/2003","high-overspend",NA,1
+"399","1273497","BIRMINGHAM","Third sector",3,"Birmingham Children's Trust Community Interest Company","20/03/2018","low-overspend",NA,1
+"400","1274089","LANCASHIRE","Individual owned",4,"Lonsdale Care Ltd","04/05/2018","low-overspend",NA,1
+"401","2595340","BRENT","Corporate owned",4,"Champion Children (fig Tree) Limited","13/07/2020",NA,"high-outsourcing",1
+"402","SC008607","STOCKPORT","Corporate owned",2,"The Partnership Of Care Today","02/07/2001",NA,"low-outsourcing",1
+"403","2624223","HARTLEPOOL","Investment owned",9,"Active Young People Limited","04/03/2021",NA,"low-outsourcing",1
+"404","SC036737","NOTTINGHAMSHIRE","Local Authority",16,"Nottinghamshire County Council","28/11/2003",NA,"high-outsourcing",1
+"405","SC008487","STOCKPORT","Corporate owned",6,"The Partnership Of Care Today","18/01/1993",NA,"low-outsourcing",1
+"406","SC008575","STOCKPORT","Third sector",5,"The Together Trust","10/11/2000",NA,"low-outsourcing",1
+"407","1212094","SALFORD","Corporate owned",4,"Hexagon Care Services Ltd","09/02/2016",NA,"low-outsourcing",1
+"408","SC482411","LINCOLNSHIRE","Corporate owned",6,"Hexagon Care Services Ltd","05/12/2014","low-overspend","low-outsourcing",1
+"409","SC483220","CALDERDALE","Investment owned",5,"Compass Childrens Homes Ltd","26/01/2015","high-overspend",NA,1
+"410","SC484302","EAST SUSSEX","Individual owned",2,"Crusoe Care Limited 06843979","06/04/2015","high-overspend",NA,1
+"411","SC484671","BEDFORD","Individual owned",4,"Benjamin UK Ltd","04/03/2015",NA,"high-outsourcing",1
+"412","SC486114","LANCASHIRE","Individual owned",4,"Life Change Care Limited","08/07/2015","low-overspend",NA,1
+"413","SC065535","LAMBETH","Individual owned",6,"S P Homes Limited","30/09/2005","high-overspend","high-outsourcing",1
+"414","SC065730","DERBY","Local Authority",10,"Derby City Council","23/02/2006",NA,"high-outsourcing",1
+"415","SC437069","DERBYSHIRE","Local Authority",6,"Derbyshire County Council","09/11/2011","high-overspend",NA,1
+"416","SC437645","LEEDS","Corporate owned",4,"The Partnership Of Care Today","08/02/2012",NA,"low-outsourcing",1
+"417","SC066242","SEFTON","Individual owned",2,"Progressive Futures Care Limited","30/03/2006","high-overspend",NA,1
+"418","SC066393","BIRMINGHAM","Investment owned",3,"Cambian Childcare Ltd","18/01/2006","low-overspend",NA,1
+"419","SC066565","NORTH LINCOLNSHIRE","Investment owned",26,"Options Autism (1) Limited","18/07/2006","low-overspend","low-outsourcing",1
+"420","SC068032","SHROPSHIRE","Investment owned",7,"Branas Isaf (Holdings) Ltd","31/07/2006","high-overspend",NA,1
+"421","2651753","DERBYSHIRE","Individual owned",5,"Arnfield Care Limited","01/10/2021","high-overspend",NA,1
+"422","2653112","LANCASHIRE","Individual owned",3,"Pinnacle Care Provisions Ltd","09/02/2022","low-overspend",NA,1
+"423","2612070","CALDERDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","20/12/2020","high-overspend",NA,1
+"424","2614506","LANCASHIRE","Corporate owned",2,"Hexagon Care Services Ltd","26/02/2021","low-overspend",NA,1
+"425","2583142","BEDFORD","Individual owned",3,"Cornerways Care Ltd","17/06/2020",NA,"high-outsourcing",1
+"426","SC416267","ROCHDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","27/09/2010",NA,"low-outsourcing",1
+"427","2569358","SUNDERLAND","Corporate owned",3,"HMO NE LTD","20/05/2020",NA,"low-outsourcing",1
+"428","2570947","GATESHEAD","Local Authority",6,"Gateshead Council","28/01/2020",NA,"low-outsourcing",1
+"429","1250039","LEICESTERSHIRE","Investment owned",4,"The Place Young People's Company","02/03/2017","low-overspend",NA,1
+"430","1252023","LEICESTERSHIRE","Individual owned",3,"T-Junction Children's Services Ltd","07/06/2017","low-overspend",NA,1
+"431","SC065374","STOCKPORT","Individual owned",5,"Care Haven (UK) Ltd","03/08/2005",NA,"low-outsourcing",1
+"432","SC066072","OLDHAM","Corporate owned",3,"Meadows Care Limited","27/01/2006",NA,"low-outsourcing",1
+"433","2509892","DURHAM","Corporate owned",4,"Park Blue Homes Limited","16/07/2020",NA,"low-outsourcing",1
+"434","2510315","PETERBOROUGH","Corporate owned",3,"Semi-Independent House Limited","10/06/2019","low-overspend",NA,1
+"435","2523025","BIRMINGHAM","Investment owned",6,"Compass Childrens Homes Ltd","09/07/2019","low-overspend",NA,1
+"436","SC473639","CAMDEN","Investment owned",10,"Area Camden Limited ","07/02/2014","low-overspend",NA,1
+"437","1254837","SUNDERLAND","Third sector",6,"Together for Children Sunderland Limited","31/03/2017",NA,"low-outsourcing",1
+"438","SC039213","HARINGEY","Unidentified for-profit",6,"","18/07/2003","high-overspend",NA,1
+"439","SC410535","BIRMINGHAM","Individual owned",3,"Positive Pathways Limited","19/07/2010","low-overspend",NA,1
+"440","SC040719","BOLTON","Local Authority",3,"Bolton Metropolitan Borough Council","18/07/2003",NA,"low-outsourcing",1
+"441","SC040785","SEFTON","Individual owned",2,"PIC Children's Services Limited","05/03/2003","high-overspend",NA,1
+"442","SC036240","DERBY","Local Authority",6,"Derby City Council","13/11/2003",NA,"high-outsourcing",1
+"443","SC036773","GATESHEAD","Local Authority",5,"Gateshead Council","21/05/2003",NA,"low-outsourcing",1
+"444","SC036804","GATESHEAD","Local Authority",6,"Gateshead Council","21/05/2003",NA,"low-outsourcing",1
+"445","2523027","READING","Individual owned",1,"Kennet Care Limited","08/07/2019",NA,"high-outsourcing",1
+"446","2635562","NOTTINGHAMSHIRE","Individual owned",3,"A&m Care Solutions Ltd - T/a Metropolitan Care Solutions","18/03/2021",NA,"high-outsourcing",1
+"447","SC472977","BRADFORD","Local Authority",1,"City of Bradford Metropolitan District Council","30/01/2014","high-overspend",NA,1
+"448","SC476231","SHROPSHIRE","Investment owned",4,"Cambian Childcare Ltd","14/03/2014","high-overspend",NA,1
+"449","2642400","LANCASHIRE","Corporate owned",1,"Connect Care Solutions Limited","27/07/2021","low-overspend",NA,1
+"450","2643709","BEDFORD","Individual owned",3,"Williams Welfare Ltd","14/12/2021",NA,"high-outsourcing",1
+"451","2645858","LANCASHIRE","Corporate owned",3,"Helpful Investments Limited","07/09/2021","low-overspend",NA,1
+"452","2645897","NOTTINGHAMSHIRE","Individual owned",1,"Safe Haven Adolescent Care Group Ltd","31/08/2021",NA,"high-outsourcing",1
+"453","SC370982","SHROPSHIRE","Local Authority",5,"Shropshire Council","16/06/2008","high-overspend",NA,1
+"454","SC372117","ROCHDALE","Corporate owned",3,"Meadows Care Limited","13/06/2008",NA,"low-outsourcing",1
+"455","SC482380","CAMBRIDGESHIRE","Corporate owned",4,"Keys Direct Care Limited","31/03/2015","low-overspend",NA,1
+"456","1263124","WILTSHIRE","Corporate owned",5,"Autonomy Plus Limited","26/09/2017","low-overspend",NA,1
+"457","2509838","BOLTON","Individual owned",3,"Holistic Approach Ltd","13/02/2019",NA,"low-outsourcing",1
+"458","2514770","CALDERDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","17/04/2019","high-overspend",NA,1
+"459","2528634","CALDERDALE","Individual owned",3,"Restorative Social Care Services Ltd","20/05/2019","high-overspend",NA,1
+"460","2531620","CAMBRIDGESHIRE","Individual owned",5,"Higher Hopes Ltd","11/06/2019","low-overspend",NA,1
+"461","2533956","LANCASHIRE","Investment owned",4,"Bay View Child Care Limited","29/05/2019","low-overspend",NA,1
+"462","SC068991","CAMBRIDGESHIRE","Individual owned",4,"M.J. Childrens Services Limited","15/01/2007","low-overspend",NA,1
+"463","SC069293","CALDERDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","09/02/2007","high-overspend",NA,1
+"464","SC356929","KNOWSLEY","Individual owned",3,"Quality Protects Children Ltd","28/03/2007","low-overspend",NA,1
+"465","1155757","NORTHUMBERLAND","Local Authority",3,"Northumberland County Council","18/05/2015",NA,"low-outsourcing",1
+"466","2495504","DERBYSHIRE","Individual owned",1,"Clouds Children's Care Ltd","09/10/2018","high-overspend",NA,1
+"467","2496251","SEFTON","Corporate owned",4,"Family Care Associates Limited","05/11/2018","high-overspend",NA,1
+"468","2500044","DERBYSHIRE","Individual owned",2,"Blue Mountain Homes Ltd","13/12/2018","high-overspend",NA,1
+"469","2623004","BOLTON","Investment owned",1,"Cambian Childcare Ltd","01/03/2021",NA,"low-outsourcing",1
+"470","2655408","LANCASHIRE","Individual owned",3,"Gracewells Care Ltd","26/04/2022","low-overspend",NA,1
+"471","2656172","BIRMINGHAM","Corporate owned",3,"Bright Life Living (Stirchley) Ltd","05/01/2022","low-overspend",NA,1
+"472","2660603","DERBYSHIRE","Corporate owned",3,"Resolute Care LTD","04/11/2021","high-overspend",NA,1
+"473","2663174","YORK","Corporate owned",3,"Hexagon Care Services Ltd","09/03/2022","high-overspend","low-outsourcing",1
+"474","SC477939","ROCHDALE","Corporate owned",3,"Meadows Care Limited","03/06/2014",NA,"low-outsourcing",1
+"475","SC382730","SHROPSHIRE","Local Authority",5,"Shropshire Council","17/11/2008","high-overspend",NA,1
+"476","SC037588","PORTSMOUTH","Local Authority",6,"Portsmouth City Council","06/10/2003",NA,"low-outsourcing",1
+"477","SC037670","KNOWSLEY","Local Authority",2,"Knowsley Metropolitan Borough Council","04/02/2003","low-overspend",NA,1
+"478","SC038557","NORTH TYNESIDE","Local Authority",5,"North Tyneside Council","06/06/2003","high-overspend","low-outsourcing",1
+"479","SC024808","HEREFORDSHIRE","Investment owned",4,"Keys Education Ltd","06/04/1994","high-overspend",NA,1
+"480","SC037762","PORTSMOUTH","Local Authority",5,"Portsmouth City Council","06/10/2003",NA,"low-outsourcing",1
+"481","2519196","LANCASHIRE","Individual owned",3,"Holywell Children's Services Limited","23/10/2019","low-overspend",NA,1
+"482","SC489610","DERBYSHIRE","Individual owned",3,"Clouds Children's Care Ltd","29/05/2015","high-overspend",NA,1
+"483","1159272","NORTH YORKSHIRE","Investment owned",4,"Cambian Childcare Ltd","07/10/2015","low-overspend","low-outsourcing",1
+"484","1183799","SLOUGH","Corporate owned",4,"Quality Care Homes (uk) Limited","25/11/2015","low-overspend",NA,1
+"485","SC476286","LEICESTERSHIRE","Investment owned",5,"Cambian Childcare Ltd","09/05/2014","low-overspend",NA,1
+"486","SC476990","DERBYSHIRE","Investment owned",7,"Aspris Children's Services Limited","20/06/2014","high-overspend",NA,1
+"487","2613806","REDBRIDGE","Corporate owned",5,"Solace Care Redbridge Ltd","15/12/2020",NA,"high-outsourcing",1
+"488","2666309","EAST SUSSEX","Individual owned",4,"Rubicon Children and Family Services Ltd","07/12/2021","high-overspend",NA,1
+"489","SC387671","OLDHAM","Local Authority",7,"Oldham Metropolitan Borough Council","27/02/2009",NA,"low-outsourcing",1
+"490","SC389698","BEDFORD","Investment owned",3,"Oracle Care Limited","27/01/2009",NA,"high-outsourcing",1
+"491","SC389823","BOLTON","Investment owned",5,"Courtyard Care Limited","11/05/2009",NA,"low-outsourcing",1
+"492","SC066115","LANCASHIRE","Investment owned",4,"Keys ACE Limited","31/05/2006","low-overspend",NA,1
+"493","SC066187","BIRMINGHAM","Investment owned",3,"Cambian Childcare Ltd","06/02/2006","low-overspend",NA,1
+"494","SC066458","LEEDS","Investment owned",3,"Pebbles Care Limited","30/03/2006",NA,"low-outsourcing",1
+"495","SC035428","LANCASHIRE","Local Authority",1,"Lancashire County Council","05/01/2004","low-overspend",NA,1
+"496","2591911","DERBY","Individual owned",3,"Sunlight Children's Care Limited","16/06/2020",NA,"high-outsourcing",1
+"497","2591916","WIGAN","Corporate owned",1,"Future Focused Ltd","20/07/2020","high-overspend",NA,1
+"498","2592781","SEFTON","Individual owned",2,"Pelican Care Group Ltd","19/06/2020","high-overspend",NA,1
+"499","2594859","PETERBOROUGH","Corporate owned",2,"Conquered Limited","24/02/2021","low-overspend",NA,1
+"500","2594902","WILTSHIRE","Investment owned",5,"Witherslack Group Ltd","21/09/2020","low-overspend",NA,1
+"501","2595021","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","22/07/2020","low-overspend",NA,1
+"502","SC404596","DERBYSHIRE","LA owned company",24,"The Senad Group Limited","03/12/2009","high-overspend",NA,1
+"503","SC406063","NOTTINGHAMSHIRE","Investment owned",5,"Pathway Care Solutions Ltd","07/04/2010",NA,"high-outsourcing",1
+"504","SC409502","BEDFORD","Local Authority",5,"Bedford Borough Council","31/03/2010",NA,"high-outsourcing",1
+"505","SC462593","CALDERDALE","Individual owned",4,"G B A Care Limited","17/04/2013","high-overspend",NA,1
+"506","SC462631","CROYDON","Unidentified for-profit",3,"","11/09/2013","low-overspend",NA,1
+"507","2502176","DURHAM","Individual owned",3,"Nuevavida Ne Ltd","04/01/2019",NA,"low-outsourcing",1
+"508","SC064182","REDBRIDGE","Individual owned",6,"Lodge Group Care UK Limited","28/06/2005",NA,"high-outsourcing",1
+"509","SC065071","RUTLAND","Investment owned",12,"Hopscotch Solutions Limited","31/10/2005","low-overspend",NA,1
+"510","2703224","DERBYSHIRE","Individual owned",2,"Enabling Futures Ltd","30/09/2022","high-overspend",NA,1
+"511","1280371","OLDHAM","Corporate owned",2,"Time-Out Childrens Homes Limited","16/07/2018",NA,"low-outsourcing",1
+"512","1275188","LEEDS","Investment owned",1,"Pebbles Care Limited","07/07/2018",NA,"low-outsourcing",1
+"513","1277049","WIGAN","Individual owned",2,"All Round Care Ltd","26/07/2018","high-overspend",NA,1
+"514","SC432741","LANCASHIRE","Individual owned",5,"Hopscotch Care Ltd","30/09/2011","low-overspend",NA,1
+"515","2596476","CAMBRIDGESHIRE","Investment owned",4,"Keys Child Care Ltd","13/11/2020","low-overspend",NA,1
+"516","2599805","DERBY","Corporate owned",4,"Haven Care Group Ltd","28/10/2020",NA,"high-outsourcing",1
+"517","2600759","WIGAN","Investment owned",3,"Next Stage 4Life LTD","19/08/2020","high-overspend",NA,1
+"518","2624855","CROYDON","Individual owned",5,"I.M.P.A.C.T Children's Residential Care Ltd","12/08/2021","low-overspend",NA,1
+"519","2624934","DERBYSHIRE","Corporate owned",7,"Parallel Parents Ltd.","12/05/2021","high-overspend",NA,1
+"520","2628367","CROYDON","Individual owned",5,"Camino Care Limited","30/12/2021","low-overspend",NA,1
+"521","2568363","BIRMINGHAM","Individual owned",2,"Accalia Care Services Ltd.","12/02/2020","low-overspend",NA,1
+"522","1244460","LANCASHIRE","Individual owned",5,"Holistic Approach Ltd","15/11/2016","low-overspend",NA,1
+"523","1226975","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","28/01/2016","low-overspend",NA,1
+"524","1231458","BIRMINGHAM","Individual owned",4,"Sherlock Healthcare Services Ltd","13/05/2016","low-overspend",NA,1
+"525","1232649","GATESHEAD","Investment owned",5,"ARTEMIS SUPPORT LIMITED","08/07/2016",NA,"low-outsourcing",1
+"526","SC068243","NORTH TYNESIDE","Local Authority",6,"North Tyneside Council","24/08/2006","high-overspend","low-outsourcing",1
+"527","SC063997","LEICESTERSHIRE","Investment owned",3,"Keys Care Limited","01/04/2005","low-overspend",NA,1
+"528","SC064011","EAST SUSSEX","Corporate owned",4,"My Choice Children's Homes ltd","11/04/2005","high-overspend",NA,1
+"529","SC443708","SHROPSHIRE","Investment owned",4,"Physis Quantum Limited","13/08/2012","high-overspend",NA,1
+"530","2629902","REDCAR AND CLEVELAND","Corporate owned",5,"Young Foundations Limited","27/05/2021","high-overspend","low-outsourcing",1
+"531","SC453726","BIRMINGHAM","Corporate owned",4,"Aston Children's Care Ltd","02/11/2012","low-overspend",NA,1
+"532","SC434573","EAST SUSSEX","Individual owned",2,"Crusoe Care Limited 06843979","24/08/2011","high-overspend",NA,1
+"533","SC039087","LANCASHIRE","Corporate owned",1,"Care Afloat Ltd","14/01/2005","low-overspend",NA,1
+"534","SC402406","HEREFORDSHIRE","Investment owned",3,"Aspris Children's Services Limited","01/12/2009","high-overspend",NA,1
+"535","2691185","NOTTINGHAMSHIRE","Third sector",4,"YMCA Robin Hood Group","27/09/2022",NA,"high-outsourcing",1
+"536","SC437825","LEICESTERSHIRE","Individual owned",3,"Inspirations Leicestershire LTD","03/01/2012","low-overspend",NA,1
+"537","SC439535","NORTH YORKSHIRE","Investment owned",5,"Pebbles Care Limited","09/12/2011","low-overspend","low-outsourcing",1
+"538","2557603","LEICESTERSHIRE","Individual owned",4,"Inspirations Leicestershire LTD","27/10/2019","low-overspend",NA,1
+"539","2636919","LANCASHIRE","Corporate owned",3,"MY3 Limited","22/11/2021","low-overspend",NA,1
+"540","2638617","SWINDON","Individual owned",2,"Next Step Independence Ltd","20/12/2021",NA,"high-outsourcing",1
+"541","SC068559","EAST SUSSEX","Individual owned",16,"PJL Healthcare Limited","20/12/2006","high-overspend",NA,1
+"542","SC372602","SHROPSHIRE","Investment owned",3,"Bryn Melyn Care Limited","14/07/2008","high-overspend",NA,1
+"543","SC373941","EAST SUSSEX","Local Authority",4,"East Sussex County Council","20/03/2008","high-overspend",NA,1
+"544","2531921","LANCASHIRE","Investment owned",4,"Horizon Care and Education Group Limited","01/05/2019","low-overspend",NA,1
+"545","2533064","BIRMINGHAM","Individual owned",3,"Beacon Childcare Ltd","01/10/2019","low-overspend",NA,1
+"546","2537058","LANCASHIRE","Investment owned",4,"Sandcastle Care Ltd","26/07/2019","low-overspend",NA,1
+"547","1226757","THURROCK","Investment owned",3,"Potton Homes Ltd","17/03/2016",NA,"high-outsourcing",1
+"548","2641767","LANCASHIRE","Individual owned",3,"Real Care Support Ltd","21/07/2021","low-overspend",NA,1
+"549","2643338","OLDHAM","Individual owned",3,"Sankofa Specialist Care Ltd","12/10/2021",NA,"low-outsourcing",1
+"550","1214266","LEICESTERSHIRE","Corporate owned",4,"Platform Childcare Ltd","10/11/2015","low-overspend",NA,1
+"551","1216505","NEWCASTLE UPON TYNE","Individual owned",5,"Hennessy Living Group Limited","03/02/2016","low-overspend","low-outsourcing",1
+"552","1265128","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","14/11/2017","low-overspend",NA,1
+"553","2559013","MEDWAY","Individual owned",8,"Windows For Children Ltd","01/01/2021",NA,"high-outsourcing",1
+"554","2565421","LEICESTERSHIRE","Investment owned",4,"The Place Young People's Company","16/01/2020","low-overspend",NA,1
+"555","2645038","REDBRIDGE","Corporate owned",5,"Solace Care ClayHall Ltd","12/10/2021",NA,"high-outsourcing",1
+"556","SC060750","LANCASHIRE","Individual owned",3,"Lifetime Opportunities Ltd","24/06/2004","low-overspend",NA,1
+"557","SC456413","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","17/02/2013",NA,"low-outsourcing",1
+"558","2605690","NOTTINGHAMSHIRE","Corporate owned",2,"Homes 2 inspire","30/09/2020",NA,"high-outsourcing",1
+"559","2607587","DURHAM","Investment owned",4,"Cambian Childcare Ltd","11/12/2020",NA,"low-outsourcing",1
+"560","SC403462","LANCASHIRE","Individual owned",5,"Frances House Ltd","08/12/2009","low-overspend",NA,1
+"561","1240397","LINCOLNSHIRE","Corporate owned",5,"Keys Direct Care Limited","03/08/2016","low-overspend","low-outsourcing",1
+"562","2504082","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","07/02/2019","low-overspend",NA,1
+"563","2508525","NOTTINGHAMSHIRE","Individual owned",4,"Abbey Green Therapeutic Children's Services Ltd","28/02/2019",NA,"high-outsourcing",1
+"564","1267537","DERBYSHIRE","Corporate owned",3,"Resolute Care LTD","11/12/2017","high-overspend",NA,1
+"565","2682522","PETERBOROUGH","Individual owned",5,"Azalea Care Ltd","05/08/2022","low-overspend",NA,1
+"566","2685998","LANCASHIRE","Individual owned",2,"Guidance Care Limited","15/07/2022","low-overspend",NA,1
+"567","2686745","NOTTINGHAMSHIRE","Corporate owned",3,"Homes 2 inspire","28/06/2022",NA,"high-outsourcing",1
+"568","SC458754","DURHAM","Third sector",8,"North East Autism Society","01/02/2013",NA,"low-outsourcing",1
+"569","SC394101","NORTH EAST LINCOLNSHIRE","Local Authority",3,"North East Lincolnshire Council","23/06/2009","high-overspend",NA,1
+"570","SC394283","SALFORD","Local Authority",5,"Salford City Council","13/05/2009",NA,"low-outsourcing",1
+"571","SC394909","NEWCASTLE UPON TYNE","Individual owned",6,"Right-Trak Limited","24/06/2009","low-overspend","low-outsourcing",1
+"572","SC396463","BIRMINGHAM","Investment owned",2,"Cambian Childcare Ltd","30/06/2009","low-overspend",NA,1
+"573","SC396721","SHROPSHIRE","Investment owned",1,"Reflexion Care Group Limited","25/06/2009","high-overspend",NA,1
+"574","SC396813","EAST SUSSEX","Third sector",27,"Chailey Heritage Foundation","15/07/2009","high-overspend",NA,1
+"575","SC363384","NOTTINGHAMSHIRE","Investment owned",4,"Keys Educational Services Limited","07/09/2007",NA,"high-outsourcing",1
+"576","SC025395","SEFTON","Third sector",19,"Nugent Care 2019","19/02/2002","high-overspend",NA,1
+"577","SC025657","LEWISHAM","Individual owned",11,"Creating Care Choices Limited","30/07/2001",NA,"high-outsourcing",1
+"578","SC025664","LEWISHAM","Individual owned",3,"Ownlife Limited","26/06/2001",NA,"high-outsourcing",1
+"579","SC025744","STOCKPORT","Third sector",6,"The Together Trust","19/04/1994",NA,"low-outsourcing",1
+"580","SC025940","REDBRIDGE","Third sector",4,"Barnardo's","13/11/1992",NA,"high-outsourcing",1
+"581","SC026910","DORSET","Investment owned",68,"Cambian Autism Services Limited","19/02/2002","high-overspend",NA,1
+"582","SC028460","HARINGEY","Unidentified for-profit",4,"","30/04/2002","high-overspend",NA,1
+"583","SC378407","ROCHDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","18/07/2008",NA,"low-outsourcing",1
+"584","2645901","BOLTON","Investment owned",3,"Oasis Adolescent Services Ltd","13/09/2021",NA,"low-outsourcing",1
+"585","SC456539","BOLTON","Investment owned",1,"Cambian Childcare Ltd","15/02/2013",NA,"low-outsourcing",1
+"586","SC456543","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","15/02/2013",NA,"low-outsourcing",1
+"587","SC457068","HEREFORDSHIRE","Investment owned",3,"Cambian Childcare Ltd","03/08/2013","high-overspend",NA,1
+"588","SC042967","LINCOLNSHIRE","Local Authority",7,"Lincolnshire County Council","20/02/2004","low-overspend","low-outsourcing",1
+"589","SC042994","LINCOLNSHIRE","Local Authority",6,"Lincolnshire County Council","09/10/2003","low-overspend","low-outsourcing",1
+"590","SC044231","LANCASHIRE","Investment owned",4,"Progress Care and Education Limited","10/10/2003","low-overspend",NA,1
+"591","SC390190","NOTTINGHAMSHIRE","Investment owned",3,"Pathway Care Solutions Ltd","30/01/2009",NA,"high-outsourcing",1
+"592","2677302","BRADFORD","Individual owned",3,"North West Youth Services Limited","06/07/2022","high-overspend",NA,1
+"593","2677619","LANCASHIRE","Corporate owned",3,"Helm Care Services Ltd","27/05/2022","low-overspend",NA,1
+"594","2653894","BRENT","Corporate owned",4,"Caring Feathers Ltd","05/01/2022",NA,"high-outsourcing",1
+"595","2615005","DURHAM","Investment owned",7,"Witherslack Group Ltd","22/12/2020",NA,"low-outsourcing",1
+"596","2618755","BIRMINGHAM","Individual owned",3,"Young Birch Ltd","07/04/2021","low-overspend",NA,1
+"597","2620261","DORSET","Investment owned",3,"Budwood Limited","12/02/2021","high-overspend",NA,1
+"598","SC063219","NEWHAM","Individual owned",5,"Children Assisted in a Real Environment (care) Ltd","22/07/2005","low-overspend","high-outsourcing",1
+"599","1259419","LEICESTERSHIRE","Individual owned",1,"Blue Mountain Homes Ltd","10/11/2017","low-overspend",NA,1
+"600","1264538","LANCASHIRE","Individual owned",3,"New Horizons (NW) Ltd","17/10/2017","low-overspend",NA,1
+"601","SC033502","BRADFORD","Local Authority",6,"City of Bradford Metropolitan District Council","26/06/2003","high-overspend",NA,1
+"602","SC442402","LANCASHIRE","Investment owned",2,"ROC Northwest Limited ","15/03/2012","low-overspend",NA,1
+"603","2596121","BIRMINGHAM","Individual owned",2,"Care And Management Services Limited","15/09/2020","low-overspend",NA,1
+"604","2603668","CAMBRIDGESHIRE","Local Authority",4,"Cambridgeshire County Council","03/09/2020","low-overspend",NA,1
+"605","SC479596","NORTH EAST LINCOLNSHIRE","Individual owned",7,"Tree House Care Fostering Solutions Ltd","22/07/2014","high-overspend",NA,1
+"606","2646176","DERBYSHIRE","Individual owned",3,"Trauma in Mind Ltd","15/09/2021","high-overspend",NA,1
+"607","SC035976","DERBYSHIRE","Local Authority",4,"Derbyshire County Council","22/12/2003","high-overspend",NA,1
+"608","2707638","LINCOLNSHIRE","Local Authority",5,"Lincolnshire County Council","27/09/2022","low-overspend","low-outsourcing",1
+"609","SC475689","SEFTON","Investment owned",6,"Witherslack Group Ltd","21/03/2014","high-overspend",NA,1
+"610","SC475723","LANCASHIRE","Investment owned",9,"Witherslack Group Ltd","18/12/2014","low-overspend",NA,1
+"611","SC476262","SHROPSHIRE","Investment owned",5,"Cambian Childcare Ltd","09/03/2014","high-overspend",NA,1
+"612","SC476292","SHROPSHIRE","Investment owned",5,"Cambian Childcare Ltd","28/02/2014","high-overspend",NA,1
+"613","SC476868","LANCASHIRE","Corporate owned",4,"Cherish Childrens Care Ltd","28/05/2014","low-overspend",NA,1
+"614","SC481631","NORTH YORKSHIRE","Investment owned",4,"Pebbles Care Limited","16/02/2015","low-overspend","low-outsourcing",1
+"615","SC482872","WILTSHIRE","Corporate owned",3,"Park Blue Homes Limited","11/12/2014","low-overspend",NA,1
+"616","SC483779","LEWISHAM","Individual owned",4,"Ownlife Limited","11/03/2015",NA,"high-outsourcing",1
+"617","SC479649","LANCASHIRE","Corporate owned",6,"Hexagon Care Services Ltd","30/11/2014","low-overspend",NA,1
+"618","SC020133","DERBYSHIRE","Individual owned",8,"Arnfield Care Limited","26/06/1997","high-overspend",NA,1
+"619","2595112","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","06/08/2020","low-overspend",NA,1
+"620","2601137","DERBYSHIRE","Individual owned",2,"Consistent Quality Support Ltd","22/12/2020","high-overspend",NA,1
+"621","2602142","NORTH TYNESIDE","Local Authority",1,"North Tyneside Council","26/08/2020","high-overspend","low-outsourcing",1
+"622","SC065855","BIRMINGHAM","Investment owned",3,"Cambian Childcare Ltd","04/01/2006","low-overspend",NA,1
+"623","SC066120","LEEDS","Local Authority",6,"Leeds City Council","12/12/2005",NA,"low-outsourcing",1
+"624","SC373958","EAST SUSSEX","Local Authority",4,"East Sussex County Council","20/03/2008","high-overspend",NA,1
+"625","SC064428","WIGAN","Investment owned",4,"Keys Active 8 Care Ltd","12/05/2005","high-overspend",NA,1
+"626","SC064500","LANCASHIRE","Investment owned",3,"Keys Child Care Ltd","11/01/2006","low-overspend",NA,1
+"627","1227335","LANCASHIRE","Corporate owned",3,"Exceptional Care Limited","27/05/2016","low-overspend",NA,1
+"628","1229417","MIDDLESBROUGH","Investment owned",1,"Cambian Childcare Ltd","05/04/2016","high-overspend",NA,1
+"629","1156098","BOLTON","Investment owned",3,"Cambian Childcare Ltd","06/01/2016",NA,"low-outsourcing",1
+"630","1185828","WIGAN","Investment owned",4,"Next Stage 4Life LTD","08/02/2016","high-overspend",NA,1
+"631","1213416","SHROPSHIRE","Investment owned",2,"Reflexion Care Group Limited","24/11/2015","high-overspend",NA,1
+"632","SC068789","HILLINGDON","Local Authority",9,"London Borough of Hillingdon","29/12/2006",NA,"high-outsourcing",1
+"633","SC033645","NEWCASTLE UPON TYNE","Local Authority",6,"Newcastle City Council","09/04/2003","low-overspend","low-outsourcing",1
+"634","SC034241","LINCOLNSHIRE","Investment owned",55,"Kisimul Group Ltd","27/12/2002","low-overspend","low-outsourcing",1
+"635","SC034953","CALDERDALE","Local Authority",5,"Calderdale Council","05/08/2003","high-overspend",NA,1
+"636","SC035247","DURHAM","Local Authority",7,"Durham County Council","05/09/2003",NA,"low-outsourcing",1
+"637","SC439153","CAMBRIDGESHIRE","Third sector",4,"Break","01/02/2012","low-overspend",NA,1
+"638","SC470479","DORSET","Investment owned",4,"Beaufort care Group","08/01/2014","high-overspend",NA,1
+"639","1253975","LANCASHIRE","Individual owned",2,"Oaktree Childcare Ltd","26/06/2017","low-overspend",NA,1
+"640","1254841","SUNDERLAND","Third sector",6,"Together for Children Sunderland Limited","31/03/2017",NA,"low-outsourcing",1
+"641","2680573","HALTON","Individual owned",2,"Attivo Care Ltd","25/07/2022","high-overspend",NA,1
+"642","2683445","LINCOLNSHIRE","Investment owned",3,"Cambian Childcare Ltd","17/05/2022","low-overspend","low-outsourcing",1
+"643","SC032496","TRAFFORD","Local Authority",6,"Trafford Borough Council","05/02/2004",NA,"low-outsourcing",1
+"644","SC033370","LEEDS","Local Authority",5,"Leeds City Council","17/07/2003",NA,"low-outsourcing",1
+"645","1250915","ROCHDALE","Corporate owned",3,"Meadows Care Limited","16/03/2017",NA,"low-outsourcing",1
+"646","2534185","DERBYSHIRE","Corporate owned",4,"Care 4 Every Child Ltd","26/10/2019","high-overspend",NA,1
+"647","2534589","TORBAY","Individual owned",3,"Lighthouse Southwest Ltd","02/09/2019","low-overspend",NA,1
+"648","2535166","WILTSHIRE","Investment owned",3,"Aspris Children's Services Limited","06/08/2019","low-overspend",NA,1
+"649","1252095","CALDERDALE","Individual owned",2,"Restorative Social Care Services Ltd","28/02/2017","high-overspend",NA,1
+"650","1254308","DERBYSHIRE","Corporate owned",5,"Homes 2 inspire","24/05/2017","high-overspend",NA,1
+"651","1254864","NOTTINGHAMSHIRE","Corporate owned",3,"Homes 2 inspire","24/05/2017",NA,"high-outsourcing",1
+"652","1235654","LEICESTERSHIRE","Investment owned",4,"Horizon Care and Education Group Limited","15/07/2016","low-overspend",NA,1
+"653","SC044562","LINCOLNSHIRE","Investment owned",39,"Kisimul Group Ltd","25/07/2003","low-overspend","low-outsourcing",1
+"654","1226978","NORTH YORKSHIRE","Investment owned",2,"Cambian Childcare Ltd","26/05/2016","low-overspend","low-outsourcing",1
+"655","SC370910","CAMBRIDGESHIRE","Investment owned",3,"Keys Care Limited","15/02/2008","low-overspend",NA,1
+"656","SC376719","SHROPSHIRE","Investment owned",2,"Reflexion Care Group Limited","26/06/2008","high-overspend",NA,1
+"657","SC438624","WINDSOR AND MAIDENHEAD","Investment owned",2,"Keys Care Limited","01/11/2011",NA,"high-outsourcing",1
+"658","SC439116","TRAFFORD","Corporate owned",2,"Aspireone Care Ltd","16/01/2012",NA,"low-outsourcing",1
+"659","SC464958","SHROPSHIRE","Investment owned",6,"Cambian Childcare Ltd","07/08/2013","high-overspend",NA,1
+"660","2590934","LEWISHAM","Individual owned",2,"Zone Central Ltd","25/06/2020",NA,"high-outsourcing",1
+"661","2593579","HARINGEY","Individual owned",5,"Sunrise Hill Care Ltd","04/08/2020","high-overspend",NA,1
+"662","2593915","SALFORD","Individual owned",3,"Stepping Stones Childrens Homes Limited","14/09/2020",NA,"low-outsourcing",1
+"663","2614703","LANCASHIRE","Individual owned",4,"New Horizons (NW) Ltd","11/01/2021","low-overspend",NA,1
+"664","SC486604","NORTHUMBERLAND","Local Authority",4,"Northumberland County Council","23/01/2015",NA,"low-outsourcing",1
+"665","1155780","SHROPSHIRE","Investment owned",4,"Cambian Childcare Ltd","16/11/2015","high-overspend",NA,1
+"666","1159903","SALFORD","Individual owned",5,"Holistic Approach Ltd","08/10/2015",NA,"low-outsourcing",1
+"667","2613327","BIRMINGHAM","Individual owned",2,"Serenity Specialist Care Ltd","13/04/2021","low-overspend",NA,1
+"668","2495335","HALTON","Investment owned",4,"Keys Education Ltd","12/10/2018","high-overspend",NA,1
+"669","2495951","LEICESTERSHIRE","Individual owned",3,"T-Junction Children's Services Ltd","16/10/2018","low-overspend",NA,1
+"670","1278966","DERBYSHIRE","Investment owned",6,"Smoothstone Care & Education","20/08/2018","high-overspend",NA,1
+"671","2490994","NOTTINGHAMSHIRE","Individual owned",3,"Jigsaw Therapeutic Care Limited","13/02/2019",NA,"high-outsourcing",1
+"672","2497538","CAMBRIDGESHIRE","Corporate owned",5,"Heartwood RSC Ltd","15/02/2019","low-overspend",NA,1
+"673","2502333","READING","Third sector",7,"Brighter Futures For Children Limited","29/11/2018",NA,"high-outsourcing",1
+"674","1235384","LANCASHIRE","Individual owned",2,"New Horizons (NW) Ltd","12/08/2016","low-overspend",NA,1
+"675","1236832","CENTRAL BEDFORDSHIRE","Individual owned",4,"Benjamin UK Ltd","08/07/2016","high-overspend",NA,1
+"676","1240844","LANCASHIRE","Investment owned",2,"Your Chapter Holdings Limited","16/02/2017","low-overspend",NA,1
+"677","SC362094","SHROPSHIRE","Investment owned",2,"Keys Nhcc Ltd","19/11/2007","high-overspend",NA,1
+"678","SC363422","LINCOLNSHIRE","Investment owned",3,"Keys Educational Services Limited","10/09/2007","low-overspend","low-outsourcing",1
+"679","1240884","LANCASHIRE","Investment owned",2,"Your Chapter Holdings Limited","24/10/2016","low-overspend",NA,1
+"680","1241782","LANCASHIRE","Local Authority",6,"Lancashire County Council","14/12/2016","low-overspend",NA,1
+"681","1244117","NOTTINGHAMSHIRE","Third sector",5,"Caldecott Foundation Limited","01/12/2016",NA,"high-outsourcing",1
+"682","1244287","LANCASHIRE","Investment owned",5,"ROC Northwest Limited ","11/10/2016","low-overspend",NA,1
+"683","1248773","DURHAM","Individual owned",3,"Resilience North East Limited","23/02/2017",NA,"low-outsourcing",1
+"684","1262657","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","18/09/2017","low-overspend",NA,1
+"685","1263199","WIGAN","Investment owned",6,"Witherslack Group Ltd","28/09/2017","high-overspend",NA,1
+"686","SC476236","SHROPSHIRE","Investment owned",4,"Cambian Childcare Ltd","24/04/2014","high-overspend",NA,1
+"687","2517184","DURHAM","Corporate owned",2,"ROC Family Support Ltd","21/03/2019",NA,"low-outsourcing",1
+"688","2522240","SUNDERLAND","Third sector",8,"Investing In Children Cic","09/05/2019",NA,"low-outsourcing",1
+"689","SC064663","SEFTON","Unidentified for-profit",7,"Mr Jim Buchanan & Mrs Ivy Thompson","15/08/2005","high-overspend",NA,1
+"690","SC064836","ROCHDALE","Corporate owned",3,"Meadows Care Limited","07/07/2005",NA,"low-outsourcing",1
+"691","SC450728","CALDERDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","13/08/2012","high-overspend",NA,1
+"692","SC370899","LINCOLNSHIRE","Investment owned",3,"Keys Care Limited","15/02/2008","low-overspend","low-outsourcing",1
+"693","SC458415","DURHAM","Third sector",6,"North East Autism Society","30/01/2013",NA,"low-outsourcing",1
+"694","SC386505","HALTON","Investment owned",3,"Keys Education Ltd","11/06/2009","high-overspend",NA,1
+"695","SC025713","STOCKPORT","Third sector",3,"The Together Trust","15/02/1999",NA,"low-outsourcing",1
+"696","SC031220","CALDERDALE","Investment owned",6,"Compass Childrens Homes Ltd","24/09/2002","high-overspend",NA,1
+"697","SC032439","WILTSHIRE","Local Authority",7,"Wiltshire Council","19/02/2004","low-overspend",NA,1
+"698","SC032475","TRAFFORD","Local Authority",5,"Trafford Borough Council","09/12/2003",NA,"low-outsourcing",1
+"699","SC025712","STOCKPORT","Third sector",2,"The Together Trust","01/12/1997",NA,"low-outsourcing",1
+"700","SC065067","SALFORD","Local Authority",5,"Salford City Council","01/09/2005",NA,"low-outsourcing",1
+"701","SC065189","ROCHDALE","Corporate owned",3,"Meadows Care Limited","05/09/2005",NA,"low-outsourcing",1
+"702","1241261","LEICESTERSHIRE","Investment owned",2,"The Place Young People's Company","07/10/2016","low-overspend",NA,1
+"703","1242216","LEICESTERSHIRE","Investment owned",4,"Keys Care Limited","22/09/2016","low-overspend",NA,1
+"704","1244161","DERBYSHIRE","Individual owned",1,"Blue Mountain Homes Ltd","19/09/2016","high-overspend",NA,1
+"705","SC006013","LANCASHIRE","Corporate owned",1,"Care Afloat Ltd","20/06/2001","low-overspend",NA,1
+"706","1233307","NEWCASTLE UPON TYNE","Local Authority",6,"Newcastle City Council","28/11/2016","low-overspend","low-outsourcing",1
+"707","1234166","NEWHAM","Individual owned",3,"Jamores Limited","20/09/2016","low-overspend","high-outsourcing",1
+"708","2636225","CALDERDALE","Individual owned",2,"Gravitas Care LTD","23/12/2021","high-overspend",NA,1
+"709","2637805","THURROCK","Individual owned",4,"Green Harvest Capital Consulting Ltd","01/06/2021",NA,"high-outsourcing",1
+"710","2640099","LANCASHIRE","Investment owned",3,"Northridge Care Group Ltd","21/07/2021","low-overspend",NA,1
+"711","2644456","CAMBRIDGESHIRE","Individual owned",4,"Juventas Services Limited","17/09/2021","low-overspend",NA,1
+"712","2644925","LANCASHIRE","Corporate owned",4,"Exceptional Care Limited","09/11/2021","low-overspend",NA,1
+"713","SC457089","SHROPSHIRE","Investment owned",2,"Cambian Childcare Ltd","16/01/2013","high-overspend",NA,1
+"714","SC457433","HALTON","Investment owned",1,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"715","2661511","LANCASHIRE","Individual owned",4,"Brinscall Care Limited","19/04/2022","low-overspend",NA,1
+"716","2662751","LANCASHIRE","Individual owned",1,"Holywell Children's Services Limited","31/01/2022","low-overspend",NA,1
+"717","1259061","LANCASHIRE","Individual owned",2,"Outbound Care Limited","08/09/2017","low-overspend",NA,1
+"718","SC025812","CROYDON","Individual owned",4,"McRae Residential Care Services Limited","06/06/1996","low-overspend",NA,1
+"719","1273658","BIRMINGHAM","Third sector",16,"Birmingham Children's Trust Community Interest Company","20/03/2018","low-overspend",NA,1
+"720","1276249","LEICESTERSHIRE","Investment owned",3,"Esland North Limited","29/05/2018","low-overspend",NA,1
+"721","1278022","SEFTON","Individual owned",2,"Independent Living Services (North West) Limited","18/05/2018","high-overspend",NA,1
+"722","2490999","LEICESTERSHIRE","Corporate owned",3,"Changing Lives Care Group Ltd","04/10/2018","low-overspend",NA,1
+"723","2670262","LANCASHIRE","Individual owned",4,"New Horizons (NW) Ltd","08/04/2022","low-overspend",NA,1
+"724","SC031410","EAST SUSSEX","Local Authority",7,"East Sussex County Council","31/07/2003","high-overspend",NA,1
+"725","2686524","NORTHUMBERLAND","Individual owned",4,"Sunbridge Childcare Ltd","11/07/2022",NA,"low-outsourcing",1
+"726","SC028599","LUTON","Individual owned",7,"Children and Family Services Limited","01/05/2002",NA,"high-outsourcing",1
+"727","2502314","SHROPSHIRE","Investment owned",3,"Cambian Childcare Ltd","29/01/2019","high-overspend",NA,1
+"728","2508601","LANCASHIRE","Corporate owned",3,"MY3 Limited","11/04/2019","low-overspend",NA,1
+"729","2509280","CALDERDALE","Investment owned",2,"Sandcastle Care Ltd","05/03/2019","high-overspend",NA,1
+"730","2544217","NOTTINGHAMSHIRE","Individual owned",5,"Absolute Childrens Services Ltd","18/07/2019",NA,"high-outsourcing",1
+"731","2596541","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","29/10/2020","low-overspend",NA,1
+"732","2597747","LUTON","Individual owned",3,"5ab Care Ltd","23/10/2020",NA,"high-outsourcing",1
+"733","2689544","LANCASHIRE","Corporate owned",3,"Cherish Childrens Care Ltd","06/06/2022","low-overspend",NA,1
+"734","2691579","REDBRIDGE","Corporate owned",2,"Tutelage Care Hatley Ltd","18/07/2022",NA,"high-outsourcing",1
+"735","2692580","HALTON","Corporate owned",2,"Sure Steps Support Services Ltd","10/08/2022","high-overspend",NA,1
+"736","2694962","LANCASHIRE","Individual owned",2,"Trinity Care and Education Services Ltd","05/09/2022","low-overspend",NA,1
+"737","SC407430","WILTSHIRE","Investment owned",4,"Wessex College Limited","22/04/2010","low-overspend",NA,1
+"738","SC359836","LANCASHIRE","Local Authority",6,"Lancashire County Council","05/09/2007","low-overspend",NA,1
+"739","1253711","BIRMINGHAM","Individual owned",3,"Beacon Childcare Ltd","10/07/2017","low-overspend",NA,1
+"740","SC033457","LEEDS","Local Authority",24,"Leeds City Council","10/07/2003",NA,"low-outsourcing",1
+"741","SC444289","NORTH YORKSHIRE","Individual owned",4,"Pear Tree Projects Limited","03/07/2012","low-overspend","low-outsourcing",1
+"742","SC482415","LEEDS","Individual owned",4,"Keir Lock Children's Homes Ltd","09/10/2015",NA,"low-outsourcing",1
+"743","1271222","LANCASHIRE","Individual owned",5,"GS Social Care Solutions Ltd","25/01/2018","low-overspend",NA,1
+"744","1271581","BOLTON","Investment owned",2,"Nestlings Care Ltd","04/04/2018",NA,"low-outsourcing",1
+"745","1273485","BIRMINGHAM","Third sector",7,"Birmingham Children's Trust Community Interest Company","21/03/2018","low-overspend",NA,1
+"746","2575432","WIGAN","Individual owned",2,"All Round Care Ltd","01/05/2020","high-overspend",NA,1
+"747","SC448209","SHROPSHIRE","Individual owned",12,"Amberleigh Care Limited","27/07/2012","high-overspend",NA,1
+"748","2618541","LANCASHIRE","Investment owned",2,"Cambian Childcare Ltd","15/02/2021","low-overspend",NA,1
+"749","2613032","HARTLEPOOL","Individual owned",5,"Hennessy Living Group Limited","09/12/2020",NA,"low-outsourcing",1
+"750","1159868","DORSET","Investment owned",3,"Cambian Childcare Ltd","29/10/2015","high-overspend",NA,1
+"751","1211772","NORTH YORKSHIRE","Investment owned",6,"Aspris Children's Services Limited","17/12/2015","low-overspend","low-outsourcing",1
+"752","1212117","NOTTINGHAMSHIRE","Investment owned",3,"Pathway Care Solutions Ltd","01/12/2015",NA,"high-outsourcing",1
+"753","1221700","LANCASHIRE","Corporate owned",5,"Hexagon Care Services Ltd","02/02/2016","low-overspend",NA,1
+"754","1224663","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","30/12/2015","low-overspend",NA,1
+"755","1226397","BIRMINGHAM","Investment owned",4,"Compass Childrens Homes Ltd","29/10/2016","low-overspend",NA,1
+"756","SC062013","SEFTON","Corporate owned",3,"After Care Nw Limited","08/09/2004","high-overspend",NA,1
+"757","2593046","CALDERDALE","Individual owned",2,"Laska Care And Education Ltd","20/08/2020","high-overspend",NA,1
+"758","2594218","NEWHAM","Individual owned",4,"Gordon Care Services Limited","23/09/2020","low-overspend","high-outsourcing",1
+"759","1228919","EAST SUSSEX","Corporate owned",2,"Anderida Adolescent Care Ltd","29/03/2016","high-overspend",NA,1
+"760","SC357468","ROCHDALE","Corporate owned",1,"Time-Out Childrens Homes Limited","20/08/2007",NA,"low-outsourcing",1
+"761","1270744","EAST SUSSEX","Individual owned",4,"HEADSTART RESIDENTIAL CARE LTD","22/02/2018","high-overspend",NA,1
+"762","1271213","LANCASHIRE","Investment owned",4,"Your Chapter LTD","18/05/2018","low-overspend",NA,1
+"763","SC038564","NORTH TYNESIDE","Local Authority",5,"North Tyneside Council","25/06/2003","high-overspend","low-outsourcing",1
+"764","2584899","REDCAR AND CLEVELAND","Individual owned",4,"Invested Childcare LTD","18/06/2020","high-overspend","low-outsourcing",1
+"765","SC490364","DERBYSHIRE","Individual owned",4,"Blue Mountain Homes Ltd","09/10/2015","high-overspend",NA,1
+"766","1263837","DERBY","Corporate owned",3,"Platform Childcare Ltd","04/10/2017",NA,"high-outsourcing",1
+"767","1265092","BOLTON","Individual owned",7,"4 Pure Heart Limited","03/01/2018",NA,"low-outsourcing",1
+"768","SC059635","BRADFORD","Local Authority",6,"City of Bradford Metropolitan District Council","11/03/2004","high-overspend",NA,1
+"769","SC462591","CALDERDALE","Individual owned",3,"G B A Care Limited","17/04/2013","high-overspend",NA,1
+"770","2501397","NOTTINGHAMSHIRE","Investment owned",1,"Esland North Limited","03/12/2018",NA,"high-outsourcing",1
+"771","2508344","DERBYSHIRE","Local Authority",2,"Derbyshire County Council","21/03/2019","high-overspend",NA,1
+"772","2509365","NORTH YORKSHIRE","Corporate owned",2,"Hexagon Care Services Ltd","18/03/2019","low-overspend","low-outsourcing",1
+"773","2594189","NORTH EAST LINCOLNSHIRE","Local Authority",4,"North East Lincolnshire Council","25/06/2020","high-overspend",NA,1
+"774","2594854","WILTSHIRE","Investment owned",5,"Witherslack Group Ltd","27/08/2020","low-overspend",NA,1
+"775","2595182","REDBRIDGE","Corporate owned",3,"Solace Care 7kings Ltd","19/10/2020",NA,"high-outsourcing",1
+"776","2490894","HARTLEPOOL","Local Authority",2,"Hartlepool Borough Council","19/03/2019",NA,"low-outsourcing",1
+"777","2496625","GATESHEAD","Investment owned",2,"Cambian Childcare Ltd","06/11/2018",NA,"low-outsourcing",1
+"778","SC456418","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","06/03/2013",NA,"low-outsourcing",1
+"779","SC456542","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","15/02/2013",NA,"low-outsourcing",1
+"780","SC463926","LANCASHIRE","Investment owned",4,"Bay View Child Care Limited","23/05/2013","low-overspend",NA,1
+"781","SC391503","CENTRAL BEDFORDSHIRE","Local Authority",4,"Central Bedfordshire Council","30/03/2009","high-overspend",NA,1
+"782","SC400880","LANCASHIRE","Corporate owned",4,"Choices 4 Children Ltd","25/09/2009","low-overspend",NA,1
+"783","SC403464","ROCHDALE","Individual owned",2,"Aspire Child Care Ltd","14/01/2010",NA,"low-outsourcing",1
+"784","SC398393","SHROPSHIRE","Investment owned",3,"Hillcrest Childrens Services (2) Limited","21/07/2009","high-overspend",NA,1
+"785","SC400355","STOCKPORT","Individual owned",3,"Social Care Services (Clayton) Limited","30/10/2009",NA,"low-outsourcing",1
+"786","SC407933","SHROPSHIRE","Corporate owned",4,"Prestige Adolescent Care And Education Limited","19/04/2010","high-overspend",NA,1
+"787","SC063673","SEFTON","Corporate owned",4,"After Care Nw Limited","21/02/2005","high-overspend",NA,1
+"788","2613483","LEICESTERSHIRE","Investment owned",5,"Compass Childrens Homes Ltd","11/03/2021","low-overspend",NA,1
+"789","2571557","MEDWAY","Local Authority",6,"Medway Council","16/04/2020",NA,"high-outsourcing",1
+"790","2571902","DURHAM","Corporate owned",2,"ROC Family Support Ltd","24/03/2020",NA,"low-outsourcing",1
+"791","2575788","SWINDON","Corporate owned",3,"Park Blue Homes Limited","11/03/2020",NA,"high-outsourcing",1
+"792","2590942","CALDERDALE","Individual owned",2,"Restorative Social Care Services Ltd","04/05/2020","high-overspend",NA,1
+"793","2591400","OLDHAM","Investment owned",3,"Oasis Adolescent Services Ltd","06/05/2020",NA,"low-outsourcing",1
+"794","2591471","SUNDERLAND","Corporate owned",2,"HMO NE LTD","12/11/2020",NA,"low-outsourcing",1
+"795","2652672","LEICESTERSHIRE","Individual owned",2,"Bess Solutions Limited","14/12/2021","low-overspend",NA,1
+"796","2654084","BRADFORD","Corporate owned",1,"Hexagon Care Services Ltd","22/11/2021","high-overspend",NA,1
+"797","2654867","NEWHAM","Individual owned",4,"Kennedy And Elliott Partnership LLP","11/11/2021","low-overspend","high-outsourcing",1
+"798","SC372613","SHROPSHIRE","Investment owned",3,"Bryn Melyn Care Limited","02/07/2008","high-overspend",NA,1
+"799","SC483662","DUDLEY","Investment owned",6,"CareTech Community Services Limited","06/02/2015","low-overspend",NA,1
+"800","SC483710","DERBYSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","18/02/2015","high-overspend",NA,1
+"801","SC483846","LANCASHIRE","Investment owned",5,"Cambian Childcare Ltd","12/10/2015","low-overspend",NA,1
+"802","SC486398","LEICESTERSHIRE","Individual owned",4,"Inspirations Leicestershire LTD","14/05/2015","low-overspend",NA,1
+"803","2620366","BIRMINGHAM","Investment owned",1,"Cambian Childcare Ltd","22/10/2021","low-overspend",NA,1
+"804","2620992","BIRMINGHAM","Corporate owned",3,"Stepping Stones Care (Midlands) Limited","24/03/2021","low-overspend",NA,1
+"805","SC486879","EAST SUSSEX","Individual owned",5,"PJL Healthcare Limited","21/07/2015","high-overspend",NA,1
+"806","SC487488","HALTON","Investment owned",1,"Keys Child Care Ltd","12/05/2015","high-overspend",NA,1
+"807","SC488596","DERBY","Local Authority",5,"Derby City Council","15/04/2015",NA,"high-outsourcing",1
+"808","SC391464","CENTRAL BEDFORDSHIRE","Local Authority",8,"Central Bedfordshire Council","30/03/2009","high-overspend",NA,1
+"809","SC392492","BIRMINGHAM","Individual owned",4,"DMR Services Ltd","24/04/2009","low-overspend",NA,1
+"810","SC037657","KNOWSLEY","Local Authority",3,"Knowsley Metropolitan Borough Council","27/11/2003","low-overspend",NA,1
+"811","SC357133","STOCKPORT","Individual owned",3,"Social Care Services (Clayton) Limited","27/03/2007",NA,"low-outsourcing",1
+"812","SC475703","NORTH YORKSHIRE","Investment owned",8,"Witherslack Group Ltd","08/05/2014","low-overspend","low-outsourcing",1
+"813","SC475706","DURHAM","Investment owned",7,"Witherslack Group Ltd","28/05/2014",NA,"low-outsourcing",1
+"814","SC476252","SHROPSHIRE","Investment owned",3,"Cambian Childcare Ltd","09/03/2014","high-overspend",NA,1
+"815","SC063895","NOTTINGHAMSHIRE","Investment owned",4,"Castle Homes Care Limited","28/04/2005",NA,"high-outsourcing",1
+"816","SC409738","KNOWSLEY","Third sector",4,"New Start","21/06/2010","low-overspend",NA,1
+"817","SC410537","BIRMINGHAM","Individual owned",3,"Positive Pathways Limited","29/06/2010","low-overspend",NA,1
+"818","SC410545","BIRMINGHAM","Individual owned",2,"Positive Pathways Limited","28/07/2010","low-overspend",NA,1
+"819","SC411825","WIGAN","Corporate owned",2,"Inspire Childrens Services Limited","17/06/2010","high-overspend",NA,1
+"820","SC064530","OLDHAM","Corporate owned",2,"Time-Out Childrens Homes Limited","21/11/2005",NA,"low-outsourcing",1
+"821","1241855","BIRMINGHAM","Corporate owned",4,"Meadows Care Limited","27/01/2017","low-overspend",NA,1
+"822","1244350","BIRMINGHAM","Corporate owned",3,"Haven Care Group Ltd","24/11/2016","low-overspend",NA,1
+"823","2571630","BARNET","Individual owned",3,"Aspire 2 Be Ltd","19/12/2020",NA,"high-outsourcing",1
+"824","2573447","BRADFORD","Individual owned",2,"Midas Manors Ltd","23/07/2020","high-overspend",NA,1
+"825","2580899","REDCAR AND CLEVELAND","Individual owned",5,"Josh's Place Limited","05/05/2020","high-overspend","low-outsourcing",1
+"826","1280412","WIGAN","Individual owned",4,"Apex Childrens Services Ltd","25/06/2018","high-overspend",NA,1
+"827","2483823","LEICESTERSHIRE","Investment owned",3,"Esland North Limited","29/10/2018","low-overspend",NA,1
+"828","2509452","WIGAN","Investment owned",3,"Horizon Care and Education Group Limited","11/03/2019","high-overspend",NA,1
+"829","2490938","HILLINGDON","Local Authority",5,"London Borough of Hillingdon","07/08/2018",NA,"high-outsourcing",1
+"830","1272461","HARINGEY","Investment owned",4,"Area Camden Limited ","17/02/2018","high-overspend",NA,1
+"831","1273663","BIRMINGHAM","Third sector",12,"Birmingham Children's Trust Community Interest Company","20/03/2018","low-overspend",NA,1
+"832","SC037647","KNOWSLEY","Local Authority",3,"Knowsley Metropolitan Borough Council","03/03/2003","low-overspend",NA,1
+"833","2563818","SHROPSHIRE","Investment owned",3,"Reflexion Care Group Limited","03/01/2020","high-overspend",NA,1
+"834","2565716","MIDDLESBROUGH","Local Authority",4,"Middlesbrough Borough Council","26/11/2019","high-overspend",NA,1
+"835","2567272","KNOWSLEY","Individual owned",3,"Omega care Group LTD","05/08/2020","low-overspend",NA,1
+"836","2567607","LEICESTERSHIRE","Individual owned",7,"Almond Care Children's Services Limited","03/02/2020","low-overspend",NA,1
+"837","2567789","LANCASHIRE","Individual owned",2,"New Horizons (NW) Ltd","03/04/2020","low-overspend",NA,1
+"838","SC036740","NOTTINGHAMSHIRE","Local Authority",20,"Nottinghamshire County Council","28/11/2003",NA,"high-outsourcing",1
+"839","SC403890","LEEDS","Corporate owned",4,"The Partnership Of Care Today","20/05/2010",NA,"low-outsourcing",1
+"840","SC405285","SUNDERLAND","Third sector",4,"North East Autism Society","11/01/2010",NA,"low-outsourcing",1
+"841","SC053145","LANCASHIRE","Investment owned",3,"Partners in Care Limited","02/10/2003","low-overspend",NA,1
+"842","SC053529","PETERBOROUGH","Corporate owned",6,"The Beeches UK Limited","18/12/2003","low-overspend",NA,1
+"843","2576346","RICHMOND UPON THAMES","Third sector",5,"Achieving For Children Community Interest Company","21/09/2020",NA,"high-outsourcing",1
+"844","2580626","LANCASHIRE","Corporate owned",3,"Hexagon Care Services Ltd","04/05/2020","low-overspend",NA,1
+"845","SC362965","DORSET","Corporate owned",1,"Five Rivers Child Care Limited","28/11/2007","high-overspend",NA,1
+"846","SC363403","LINCOLNSHIRE","Investment owned",4,"Keys Educational Services Limited","10/10/2007","low-overspend","low-outsourcing",1
+"847","2496864","NORTHUMBERLAND","Investment owned",2,"Cambian Childcare Ltd","06/09/2018",NA,"low-outsourcing",1
+"848","SC031698","EAST SUSSEX","Local Authority",8,"East Sussex County Council","31/07/2003","high-overspend",NA,1
+"849","SC033152","NORTH LINCOLNSHIRE","Local Authority",6,"North Lincolnshire Council","18/05/2004","low-overspend","low-outsourcing",1
+"850","1270802","LANCASHIRE","Individual owned",3,"New Horizons (NW) Ltd","22/01/2018","low-overspend",NA,1
+"851","SC044291","NOTTINGHAMSHIRE","Local Authority",3,"Nottinghamshire County Council","05/12/2003",NA,"high-outsourcing",1
+"852","SC382994","NOTTINGHAMSHIRE","Investment owned",5,"Pathway Care Solutions Ltd","14/08/2008",NA,"high-outsourcing",1
+"853","SC033389","LEEDS","Local Authority",5,"Leeds City Council","17/07/2003",NA,"low-outsourcing",1
+"854","SC033628","BRADFORD","Local Authority",6,"City of Bradford Metropolitan District Council","26/06/2003","high-overspend",NA,1
+"855","SC034210","NORTH YORKSHIRE","Local Authority",9,"North Yorkshire County Council","14/10/2003","low-overspend","low-outsourcing",1
+"856","SC034220","NORTH YORKSHIRE","Local Authority",7,"North Yorkshire County Council","14/10/2003","low-overspend","low-outsourcing",1
+"857","SC456409","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","20/02/2013",NA,"low-outsourcing",1
+"858","SC456602","DURHAM","Investment owned",3,"Cambian Childcare Ltd","14/02/2013",NA,"low-outsourcing",1
+"859","1225136","LANCASHIRE","Investment owned",4,"Cambian Childcare Ltd","18/05/2016","low-overspend",NA,1
+"860","1230415","BIRMINGHAM","Individual owned",4,"Beacon Childcare Ltd","05/07/2016","low-overspend",NA,1
+"861","1233310","BOLTON","Third sector",3,"Birtenshaw","08/08/2016",NA,"low-outsourcing",1
+"862","1244386","CROYDON","Individual owned",5,"Sankofa Care Ltd","08/06/2017","low-overspend",NA,1
+"863","1245572","BRADFORD","Investment owned",4,"Horizon Care and Education Group Limited","14/02/2017","high-overspend",NA,1
+"864","2667363","YORK","Local Authority",1,"City of York Council","09/12/2021","high-overspend","low-outsourcing",1
+"865","2667401","SHROPSHIRE","Individual owned",4,"Cynhenid Care Ltd","21/02/2022","high-overspend",NA,1
+"866","2668686","SOLIHULL","Individual owned",3,"AMMA Childcare Services Ltd","08/03/2022","high-overspend",NA,1
+"867","2671000","CROYDON","Individual owned",7,"McRae Residential Care Services Limited","12/07/2022","low-overspend",NA,1
+"868","2546172","BIRMINGHAM","Individual owned",3,"Beacon Childcare Ltd","12/11/2019","low-overspend",NA,1
+"869","2638322","NORTH TYNESIDE","Individual owned",3,"Sunbridge Childcare Ltd","30/07/2021","high-overspend","low-outsourcing",1
+"870","2638487","LANCASHIRE","Individual owned",4,"New Horizons (NW) Ltd","01/07/2021","low-overspend",NA,1
+"871","2496627","DURHAM","Investment owned",3,"Witherslack Group Ltd","29/10/2018",NA,"low-outsourcing",1
+"872","2622480","LEICESTERSHIRE","Corporate owned",3,"Inspirations Care Limited","05/03/2021","low-overspend",NA,1
+"873","2627737","OLDHAM","Individual owned",2,"Supreme Child Care ltd","06/10/2021",NA,"low-outsourcing",1
+"874","2627967","LANCASHIRE","Corporate owned",3,"Exceptional Care Limited","03/07/2021","low-overspend",NA,1
+"875","2631595","CAMBRIDGESHIRE","Investment owned",5,"Cambian Childcare Ltd","17/05/2021","low-overspend",NA,1
+"876","2632727","LANCASHIRE","Third sector",2,"Applecast Limited","16/07/2021","low-overspend",NA,1
+"877","2510847","LANCASHIRE","Individual owned",1,"Hopscotch Care Ltd","17/04/2019","low-overspend",NA,1
+"878","2512898","DERBY","Individual owned",2,"5ab Care Ltd","19/03/2019",NA,"high-outsourcing",1
+"879","2517054","LEWISHAM","Individual owned",3,"Kennedy And Elliott Partnership LLP","11/02/2020",NA,"high-outsourcing",1
+"880","2519260","WILTSHIRE","Investment owned",3,"Esland North Limited","15/05/2019","low-overspend",NA,1
+"881","2645688","DERBYSHIRE","Corporate owned",5,"Kedleston (Wood Grove Childcare) Limited","12/08/2021","high-overspend",NA,1
+"882","SC476271","SHROPSHIRE","Investment owned",5,"Cambian Childcare Ltd","09/03/2014","high-overspend",NA,1
+"883","SC001452","LEEDS","Corporate owned",6,"Five Rivers Child Care Limited","01/04/2002",NA,"low-outsourcing",1
+"884","SC005553","OLDHAM","Corporate owned",4,"Dalepeak Limited","01/06/1999",NA,"low-outsourcing",1
+"885","SC008490","STOCKPORT","Investment owned",4,"Keys Stepping Stones Limited","09/05/2001",NA,"low-outsourcing",1
+"886","1183605","LANCASHIRE","Individual owned",3,"Lonsdale Care Ltd","29/02/2016","low-overspend",NA,1
+"887","SC456850","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","15/02/2013",NA,"low-outsourcing",1
+"888","SC456911","CAMBRIDGESHIRE","Investment owned",6,"Cambian Childcare Ltd","25/02/2013","low-overspend",NA,1
+"889","SC457183","HALTON","Investment owned",1,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"890","SC457923","HEREFORDSHIRE","Investment owned",4,"Cambian Childcare Ltd","11/12/2012","high-overspend",NA,1
+"891","2571256","DERBYSHIRE","Individual owned",1,"Enabling Futures Ltd","10/03/2020","high-overspend",NA,1
+"892","SC433451","SUNDERLAND","Third sector",6,"St Cuthbert's Care","05/09/2011",NA,"low-outsourcing",1
+"893","2528264","REDBRIDGE","Corporate owned",5,"Heartwood RSL Ltd","09/08/2019",NA,"high-outsourcing",1
+"894","2611210","LEEDS","Local Authority",4,"Leeds City Council","16/12/2020",NA,"low-outsourcing",1
+"895","2611991","LUTON","Individual owned",3,"247 Bluebell Care Limited","05/01/2021",NA,"high-outsourcing",1
+"896","1263673","CALDERDALE","Individual owned",3,"Restorative Social Care Services Ltd","18/09/2017","high-overspend",NA,1
+"897","1264286","BEDFORD","Corporate owned",4,"Platform Childcare Ltd","30/11/2017",NA,"high-outsourcing",1
+"898","1264333","LANCASHIRE","Corporate owned",3,"Hexagon Care Services Ltd","26/04/2018","low-overspend",NA,1
+"899","SC419429","LINCOLNSHIRE","Corporate owned",4,"Keys Direct Care Limited","18/10/2010","low-overspend","low-outsourcing",1
+"900","SC479654","ROCHDALE","Corporate owned",6,"Hexagon Care Services Ltd","05/09/2014",NA,"low-outsourcing",1
+"901","SC480681","LANCASHIRE","Corporate owned",6,"Hexagon Care Services Ltd","27/01/2015","low-overspend",NA,1
+"902","SC409851","HOUNSLOW","Individual owned",4,"Westgate Lifestyle Project Limited","07/06/2010","high-overspend","high-outsourcing",1
+"903","SC423617","BIRMINGHAM","Investment owned",3,"Adecyn Childrens Homes Ltd","08/04/2011","low-overspend",NA,1
+"904","SC477724","WIGAN","Individual owned",3,"Crystal Care Solutions Limited","17/07/2014","high-overspend",NA,1
+"905","SC020595","SHROPSHIRE","Corporate owned",4,"Family Care Associates Limited","06/09/1993","high-overspend",NA,1
+"906","SC020630","SHROPSHIRE","Investment owned",6,"Castle Homes Care Limited","13/11/2001","high-overspend",NA,1
+"907","SC020193","DERBYSHIRE","LA owned company",25,"The SENAD Group Limited","29/01/2001","high-overspend",NA,1
+"908","2644474","BIRMINGHAM","Individual owned",3,"Gracebridge Care","17/03/2022","low-overspend",NA,1
+"909","2645184","LANCASHIRE","Investment owned",4,"Horizon Care and Education Group Limited","17/08/2021","low-overspend",NA,1
+"910","2530253","NORTHUMBERLAND","Individual owned",5,"Right-Trak Limited","12/08/2019",NA,"low-outsourcing",1
+"911","2661071","DURHAM","Individual owned",5,"Hennessy Living Group Limited","03/08/2022",NA,"low-outsourcing",1
+"912","2598004","OLDHAM","Individual owned",3,"Strive To Care Ltd","05/10/2020",NA,"low-outsourcing",1
+"913","2598804","BRADFORD","Individual owned",1,"Supporting Hands Care Services Ltd","28/04/2021","high-overspend",NA,1
+"914","2605508","CAMBRIDGESHIRE","Local Authority",8,"Cambridgeshire County Council","03/09/2020","low-overspend",NA,1
+"915","SC059180","DURHAM","Investment owned",5,"Cambian Childcare Ltd","31/03/2004",NA,"low-outsourcing",1
+"916","2632330","PETERBOROUGH","Individual owned",5,"Positive Steps Specialist Care Services Limited","16/04/2021","low-overspend",NA,1
+"917","2632726","GATESHEAD","Individual owned",3,"Ashdown Care Homes Limited","21/11/2021",NA,"low-outsourcing",1
+"918","SC010415","BARNET","Third sector",9,"Norwood Ravenswood","24/04/1994",NA,"high-outsourcing",1
+"919","SC040733","SALFORD","Local Authority",4,"Salford City Council","25/02/2004",NA,"low-outsourcing",1
+"920","SC040926","WIGAN","Local Authority",5,"Wigan Council","30/05/2003","high-overspend",NA,1
+"921","1276111","BIRMINGHAM","Individual owned",5,"N H Care Limited","07/08/2018","low-overspend",NA,1
+"922","1278421","BIRMINGHAM","Individual owned",4,"DMR Services Ltd","06/09/2018","low-overspend",NA,1
+"923","1278753","OLDHAM","Investment owned",3,"Oasis Adolescent Services Ltd","06/09/2018",NA,"low-outsourcing",1
+"924","2689391","DERBY","Corporate owned",4,"Platform Childcare Ltd","08/09/2022",NA,"high-outsourcing",1
+"925","2688690","DERBY","Individual owned",4,"Orchard Children Homes Ltd","30/08/2022",NA,"high-outsourcing",1
+"926","2693113","BRADFORD","Individual owned",2,"Midas Manors Ltd","12/09/2022","high-overspend",NA,1
+"927","SC470457","BIRMINGHAM","Individual owned",3,"Care And Management Services Limited","06/12/2013","low-overspend",NA,1
+"928","SC457567","TORBAY","Investment owned",1,"Cambian Childcare Ltd","14/03/2013","low-overspend",NA,1
+"929","1183479","SLOUGH","Third sector",6,"Slough Children First Limited","30/09/2015","low-overspend",NA,1
+"930","2675775","DERBYSHIRE","Corporate owned",4,"Ashwood Childrens Care Home Ltd","19/04/2022","high-overspend",NA,1
+"931","2684147","REDBRIDGE","Corporate owned",4,"Roxwell Care Ilford Limited","15/10/2022",NA,"high-outsourcing",1
+"932","2523030","LINCOLNSHIRE","Individual owned",16,"Longboat Special Education Ltd","23/05/2019","low-overspend","low-outsourcing",1
+"933","2638148","PETERBOROUGH","Individual owned",3,"24/7 SUPPORT UK LIMITED","05/07/2021","low-overspend",NA,1
+"934","2638781","MIDDLESBROUGH","Individual owned",1,"EJ Childcare Services LTD","18/08/2022","high-overspend",NA,1
+"935","1251364","CAMDEN","Investment owned",6,"Area Camden Limited ","26/05/2017","low-overspend",NA,1
+"936","SC392549","DURHAM","Individual owned",3,"Duty of Care Limited","26/06/2009",NA,"low-outsourcing",1
+"937","2634754","LEEDS","Investment owned",3,"Cambian Childcare Ltd","29/03/2021",NA,"low-outsourcing",1
+"938","2635351","LANCASHIRE","Individual owned",12,"Trax MX Ltd","06/09/2021","low-overspend",NA,1
+"939","2540285","REDBRIDGE","Individual owned",8,"Footsteps Care Limited","02/08/2019",NA,"high-outsourcing",1
+"940","2603286","LEICESTERSHIRE","Corporate owned",4,"Hexagon Care Services Ltd","08/12/2020","low-overspend",NA,1
+"941","2604035","LEEDS","Corporate owned",3,"Hexagon Care Services Ltd","20/11/2020",NA,"low-outsourcing",1
+"942","2604750","SUTTON","Local Authority",4,"London Borough of Sutton","09/10/2020",NA,"high-outsourcing",1
+"943","2608484","SALFORD","Individual owned",2,"Social Care Services (Clayton) Limited","22/12/2020",NA,"low-outsourcing",1
+"944","SC481172","NORTH LINCOLNSHIRE","Individual owned",4,"Absolute Childrens Services Ltd","19/12/2014","low-overspend","low-outsourcing",1
+"945","SC476326","SHROPSHIRE","Investment owned",5,"Cambian Childcare Ltd","03/03/2014","high-overspend",NA,1
+"946","SC476570","CAMBRIDGESHIRE","Investment owned",5,"Castle Homes Care Limited","06/05/2014","low-overspend",NA,1
+"947","SC039683","LANCASHIRE","Local Authority",6,"Lancashire County Council","19/08/2003","low-overspend",NA,1
+"948","SC039900","DUDLEY","Local Authority",7,"Dudley Metropolitan Borough Council","22/04/2003","low-overspend",NA,1
+"949","2583518","LANCASHIRE","Individual owned",2,"XYP Childcare Ltd","25/05/2020","low-overspend",NA,1
+"950","2616383","SALFORD","Corporate owned",2,"Onextra Care Ltd","25/02/2021",NA,"low-outsourcing",1
+"951","2616606","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","28/01/2021","low-overspend",NA,1
+"952","2627409","HEREFORDSHIRE","Corporate owned",4,"Platform Childcare Ltd","22/06/2021","high-overspend",NA,1
+"953","2628430","SWINDON","Corporate owned",5,"Park Blue Homes Limited","25/03/2021",NA,"high-outsourcing",1
+"954","2535376","CAMDEN","Investment owned",3,"Area Camden Limited ","01/08/2019","low-overspend",NA,1
+"955","2536761","WIGAN","Corporate owned",3,"Hexagon Care Services Ltd","15/08/2019","high-overspend",NA,1
+"956","2537252","NOTTINGHAMSHIRE","Corporate owned",2,"Homes 2 inspire","12/06/2019",NA,"high-outsourcing",1
+"957","SC408656","REDCAR AND CLEVELAND","Individual owned",4,"Highfield (North East) Limited","01/06/2010","high-overspend","low-outsourcing",1
+"958","SC456419","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","18/02/2013",NA,"low-outsourcing",1
+"959","SC456857","ROCHDALE","Investment owned",1,"Cambian Childcare Ltd","11/02/2013",NA,"low-outsourcing",1
+"960","SC456964","HALTON","Investment owned",2,"Cambian Childcare Ltd","14/02/2013","high-overspend",NA,1
+"961","SC457434","MIDDLESBROUGH","Investment owned",1,"Cambian Childcare Ltd","19/02/2013","high-overspend",NA,1
+"962","2605512","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","26/01/2021","low-overspend",NA,1
+"963","2606135","LANCASHIRE","Corporate owned",1,"Connect Care Solutions Limited","10/01/2021","low-overspend",NA,1
+"964","1227060","NORTH YORKSHIRE","Investment owned",6,"Cambian Autism Services Limited","09/12/2015","low-overspend","low-outsourcing",1
+"965","1254555","LANCASHIRE","Investment owned",2,"Next Stage 4Life LTD","10/04/2017","low-overspend",NA,1
+"966","1255746","BEDFORD","Corporate owned",5,"Homes 2 inspire","24/05/2017",NA,"high-outsourcing",1
+"967","1256134","OLDHAM","Investment owned",4,"ROC Northwest Limited ","07/06/2017",NA,"low-outsourcing",1
+"968","2582246","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","04/03/2020","low-overspend",NA,1
+"969","2582250","ROCHDALE","Investment owned",2,"Sandcastle Care Ltd","04/03/2020",NA,"low-outsourcing",1
+"970","2583468","LEICESTERSHIRE","Individual owned",4,"Watermead Care Limited","09/04/2020","low-overspend",NA,1
+"971","2585541","KNOWSLEY","Corporate owned",2,"Lytham Care Limited","17/06/2020","low-overspend",NA,1
+"972","2579887","DORSET","Individual owned",2,"Dorset Emergency Placement Services Ltd.","18/06/2020","high-overspend",NA,1
+"973","2581237","LANCASHIRE","Investment owned",8,"Your Chapter LTD","29/04/2020","low-overspend",NA,1
+"974","2581296","ROCHDALE","Investment owned",1,"Sandcastle Care Ltd","04/03/2020",NA,"low-outsourcing",1
+"975","SC436559","STOCKPORT","Individual owned",5,"Choices Home for Children","02/02/2012",NA,"low-outsourcing",1
+"976","SC441080","SHROPSHIRE","Investment owned",3,"Bryn Melyn Care Limited","13/01/2012","high-overspend",NA,1
+"977","SC060545","NEWHAM","Individual owned",8,"Laurel Leaf Homes Ltd","20/04/2005","low-overspend","high-outsourcing",1
+"978","SC062223","HEREFORDSHIRE","Investment owned",5,"Aspris Children's Services Limited","06/08/2004","high-overspend",NA,1
+"979","SC063103","LANCASHIRE","Individual owned",5,"Lifetime Opportunities Ltd","21/03/2005","low-overspend",NA,1
+"980","SC064735","LANCASHIRE","Local Authority",3,"Lancashire County Council","27/09/2005","low-overspend",NA,1
+"981","2615494","LEICESTERSHIRE","Investment owned",4,"Witherslack Group Ltd","02/12/2020","low-overspend",NA,1
+"982","2617303","LANCASHIRE","Individual owned",2,"Hopscotch Care Ltd","11/01/2021","low-overspend",NA,1
+"983","SC486606","BRADFORD","Local Authority",1,"City of Bradford Metropolitan District Council","25/01/2015","high-overspend",NA,1
+"984","SC488961","NOTTINGHAMSHIRE","Corporate owned",5,"United Children's Services Limited","18/03/2016",NA,"high-outsourcing",1
+"985","2692022","BRADFORD","Individual owned",3,"Restorative Social Care Services Ltd","08/10/2022","high-overspend",NA,1
+"986","2553543","WIGAN","Individual owned",3,"Social Care Services (Clayton) Limited","21/04/2020","high-overspend",NA,1
+"987","2613157","SUNDERLAND","Third sector",3,"Together for Children Sunderland Limited","23/10/2020",NA,"low-outsourcing",1
+"988","SC442864","ROCHDALE","Corporate owned",3,"Meadows Care Limited","09/03/2012",NA,"low-outsourcing",1
+"989","SC446152","BIRMINGHAM","Individual owned",3,"N H Care Limited","13/07/2012","low-overspend",NA,1
+"990","SC449096","DURHAM","Local Authority",4,"Durham County Council","25/06/2012",NA,"low-outsourcing",1
+"991","SC365366","BIRMINGHAM","Individual owned",3,"N H Care Limited","17/03/2008","low-overspend",NA,1
+"992","SC366080","SHROPSHIRE","Investment owned",3,"Reflexion Care Group Limited","07/01/2008","high-overspend",NA,1
+"993","SC366093","SHROPSHIRE","Investment owned",3,"Reflexion Care Group Limited","07/01/2008","high-overspend",NA,1
+"994","SC372611","SHROPSHIRE","Investment owned",2,"Bryn Melyn Care Limited","02/07/2008","high-overspend",NA,1
+"995","SC457573","DURHAM","Investment owned",3,"Cambian Childcare Ltd","14/02/2013",NA,"low-outsourcing",1
+"996","1159397","NORTH YORKSHIRE","Investment owned",4,"Cambian Childcare Ltd","04/04/2016","low-overspend","low-outsourcing",1
+"997","1257289","LEWISHAM","Third sector",5,"Ravensbourne Project","27/07/2017",NA,"high-outsourcing",1
+"998","1258975","OLDHAM","Investment owned",3,"Oasis Adolescent Services Ltd","16/10/2017",NA,"low-outsourcing",1
+"999","1259551","PETERBOROUGH","Corporate owned",5,"Semi-Independent House Limited","12/09/2017","low-overspend",NA,1
+"1000","1255520","LANCASHIRE","Investment owned",3,"Sandcastle Care Ltd","10/07/2017","low-overspend",NA,1
+"1001","2623842","NEWCASTLE UPON TYNE","Local Authority",3,"Newcastle City Council","03/03/2021","low-overspend","low-outsourcing",1
+"1002","2675591","LANCASHIRE","Individual owned",5,"Residential Childcare Community(Town Hall) LTD","22/04/2022","low-overspend",NA,1
+"1003","2637140","LEICESTERSHIRE","Investment owned",1,"Esland North Limited","03/09/2021","low-overspend",NA,1
+"1004","2610709","TORBAY","Individual owned",2,"Phoenix Childcare Ltd","26/10/2020","low-overspend",NA,1
+"1005","2611110","READING","Individual owned",7,"Kennet Care Limited","22/12/2020",NA,"high-outsourcing",1
+"1006","2680525","DERBYSHIRE","Individual owned",2,"Orchard Children Homes Ltd","14/09/2022","high-overspend",NA,1
+"1007","SC040511","SALFORD","Local Authority",6,"Salford City Council","29/03/2004",NA,"low-outsourcing",1
+"1008","2679801","DERBYSHIRE","Investment owned",5,"Compass Childrens Homes Ltd","17/05/2022","high-overspend",NA,1
+"1009","2680502","BOLTON","Individual owned",2,"Social Care Services (Clayton) Limited","21/05/2022",NA,"low-outsourcing",1
+"1010","SC035235","DURHAM","Local Authority",3,"Durham County Council","04/09/2003",NA,"low-outsourcing",1
+"1011","SC035409","NORTHUMBERLAND","Local Authority",12,"Northumberland County Council","22/04/2003",NA,"low-outsourcing",1
+"1012","SC036248","DERBYSHIRE","Local Authority",5,"Derbyshire County Council","11/12/2003","high-overspend",NA,1
+"1013","SC036298","SEFTON","Local Authority",5,"Sefton Metropolitan Borough Council","20/01/2004","high-overspend",NA,1
+"1014","SC037596","WILTSHIRE","Investment owned",4,"Wessex College Limited","15/11/2002","low-overspend",NA,1
+"1015","1250931","EAST SUSSEX","Investment owned",6,"Compass Childrens Homes Ltd","22/02/2017","high-overspend",NA,1
+"1016","1252120","DURHAM","Corporate owned",6,"Paddock House Limited","19/05/2017",NA,"low-outsourcing",1
+"1017","1256500","NORTH YORKSHIRE","Local Authority",6,"North Yorkshire County Council","11/06/2017","low-overspend","low-outsourcing",1
+"1018","1241752","NOTTINGHAMSHIRE","Third sector",2,"The Caldecott Foundation Limited","05/12/2016",NA,"high-outsourcing",1
+"1019","1244881","ROCHDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","13/09/2016",NA,"low-outsourcing",1
+"1020","1246331","LANCASHIRE","Corporate owned",4,"MY3 Limited","30/01/2017","low-overspend",NA,1
+"1021","2545733","LANCASHIRE","Individual owned",4,"Gracewells Care Ltd","23/10/2019","low-overspend",NA,1
+"1022","2509269","LANCASHIRE","Individual owned",3,"New Horizons (NW) Ltd","31/01/2019","low-overspend",NA,1
+"1023","SC428599","SALFORD","Investment owned",5,"Courtyard Care Limited","23/06/2011",NA,"low-outsourcing",1
+"1024","SC429369","BEDFORD","Investment owned",4,"Pathways Care Group","14/06/2011",NA,"high-outsourcing",1
+"1025","1257074","HEREFORDSHIRE","Investment owned",8,"Branas Isaf (Holdings) Ltd","10/10/2017","high-overspend",NA,1
+"1026","1229534","LANCASHIRE","Corporate owned",8,"Halliwell Homes Limited","27/04/2016","low-overspend",NA,1
+"1027","1229762","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","29/02/2016","low-overspend",NA,1
+"1028","1229766","CAMBRIDGESHIRE","Investment owned",29,"Aurora Care and Education Opco Limited","14/01/2016","low-overspend",NA,1
+"1029","1230416","BEDFORD","Investment owned",4,"Cambian Childcare Ltd","09/05/2016",NA,"high-outsourcing",1
+"1030","1234430","BIRMINGHAM","Individual owned",3,"Positive Pathways Limited","28/07/2016","low-overspend",NA,1
+"1031","1259178","BIRMINGHAM","Individual owned",2,"Solid Global Limited","15/02/2018","low-overspend",NA,1
+"1032","2620678","SHROPSHIRE","Investment owned",4,"Compass Childrens Homes Ltd","13/04/2021","high-overspend",NA,1
+"1033","2621322","NOTTINGHAMSHIRE","Individual owned",1,"Safe Haven Adolescent Care Group Ltd","30/06/2021",NA,"high-outsourcing",1
+"1034","2647022","LANCASHIRE","Individual owned",4,"Barracare Ltd","22/07/2021","low-overspend",NA,1
+"1035","2570070","KNOWSLEY","Individual owned",3,"Attivo Care Ltd","06/04/2020","low-overspend",NA,1
+"1036","2570253","LINCOLNSHIRE","Individual owned",5,"Pasture View Nurturing Homes Ltd","10/03/2020","low-overspend","low-outsourcing",1
+"1037","2572812","MEDWAY","Corporate owned",5,"Acorn Homes (UK) Ltd","01/02/2022",NA,"high-outsourcing",1
+"1038","2600259","CALDERDALE","Individual owned",2,"Restorative Social Care Services Ltd","21/09/2020","high-overspend",NA,1
+"1039","SC480671","LANCASHIRE","Corporate owned",8,"Hexagon Care Services Ltd","23/10/2014","low-overspend",NA,1
+"1040","SC481209","HEREFORDSHIRE","Investment owned",7,"Aspris Children's Services Limited","12/11/2014","high-overspend",NA,1
+"1041","SC482410","WIGAN","Corporate owned",3,"Inspire Childrens Services Limited","12/11/2014","high-overspend",NA,1
+"1042","SC482418","DURHAM","Individual owned",4,"Hennessy Living Group Limited","13/04/2015",NA,"low-outsourcing",1
+"1043","SC483714","CENTRAL BEDFORDSHIRE","Individual owned",6,"White Orchid Marston Moretaine Limited","23/01/2015","high-overspend",NA,1
+"1044","2637127","LEICESTERSHIRE","Individual owned",4,"Anchor Care and Education Ltd","29/04/2021","low-overspend",NA,1
+"1045","SC066183","BIRMINGHAM","Investment owned",3,"Cambian Childcare Ltd","04/01/2006","low-overspend",NA,1
+"1046","1245823","DUDLEY","Investment owned",6,"CareTech Community Services Limited","09/11/2016","low-overspend",NA,1
+"1047","SC042921","LINCOLNSHIRE","Local Authority",12,"Lincolnshire County Council","29/10/2003","low-overspend","low-outsourcing",1
+"1048","SC043255","LINCOLNSHIRE","Local Authority",6,"Lincolnshire County Council","20/01/2004","low-overspend","low-outsourcing",1
+"1049","SC476602","DURHAM","Individual owned",3,"Duty of Care Limited","05/03/2015",NA,"low-outsourcing",1
+"1050","SC061803","LANCASHIRE","Investment owned",4,"Sandcastle Care Ltd","14/09/2004","low-overspend",NA,1
+"1051","2530086","NEWCASTLE UPON TYNE","Local Authority",3,"Newcastle City Council","25/06/2019","low-overspend","low-outsourcing",1
+"1052","1258343","WILTSHIRE","Individual owned",4,"New Forest Care Ltd","19/09/2017","low-overspend",NA,1
+"1053","1259184","DERBYSHIRE","Corporate owned",4,"Ashwood Childrens Care Home Ltd","31/01/2018","high-overspend",NA,1
+"1054","1260700","LEICESTERSHIRE","Individual owned",4,"Brythan House Limited","10/10/2017","low-overspend",NA,1
+"1055","1263505","LEICESTERSHIRE","Corporate owned",4,"Platform Childcare Ltd","31/10/2017","low-overspend",NA,1
+"1056","SC064557","CAMBRIDGESHIRE","Individual owned",6,"4d Care Ltd","04/10/2005","low-overspend",NA,1
+"1057","SC058778","PETERBOROUGH","Local Authority",8,"Peterborough City & Cambridgeshire County Councils","30/03/2004","low-overspend",NA,1
+"1058","SC059842","BOLTON","Local Authority",5,"Bolton Metropolitan Borough Council","10/03/2004",NA,"low-outsourcing",1
+"1059","SC059998","DERBY","Individual owned",4,"Blue Mountain Homes Ltd","10/02/2004",NA,"high-outsourcing",1
+"1060","2668482","BRADFORD","Individual owned",2,"Formations Care Services Ltd","15/06/2022","high-overspend",NA,1
+"1061","2670263","NOTTINGHAMSHIRE","Third sector",4,"YMCA Robin Hood Group","18/03/2022",NA,"high-outsourcing",1
+"1062","2670636","READING","Individual owned",5,"Hestia Homes For Children Limited","19/04/2022",NA,"high-outsourcing",1
+"1063","2671651","NOTTINGHAMSHIRE","Corporate owned",2,"Homes 2 inspire","21/02/2022",NA,"high-outsourcing",1
+"1064","2674686","BRADFORD","Corporate owned",2,"Hexagon Care Services Ltd","03/05/2022","high-overspend",NA,1
+"1065","2675807","EAST SUSSEX","Corporate owned",8,"Virtue Therapeutic Care and Education (East Sussex) Limited","29/04/2022","high-overspend",NA,1
+"1066","2676045","NORTH TYNESIDE","Corporate owned",4,"HMO NE LTD","13/07/2022","high-overspend","low-outsourcing",1
+"1067","SC361811","ROCHDALE","Corporate owned",3,"Meadows Care Limited","19/09/2007",NA,"low-outsourcing",1
+"1068","SC366112","SHROPSHIRE","Investment owned",1,"Reflexion Care Group Limited","07/01/2008","high-overspend",NA,1
+"1069","SC372504","DERBYSHIRE","LA owned company",55,"The Senad Group Limited","14/08/2009","high-overspend",NA,1
+"1070","SC377702","LEWISHAM","Individual owned",6,"Holibrook House Limited","10/07/2008",NA,"high-outsourcing",1
+"1071","1245565","LEICESTERSHIRE","Investment owned",3,"Esland North Limited","16/11/2016","low-overspend",NA,1
+"1072","2547511","CROYDON","Individual owned",3,"Allinonecare Limited","21/02/2020","low-overspend",NA,1
+"1073","2547560","LEWISHAM","Individual owned",3,"Ownlife Limited","30/10/2019",NA,"high-outsourcing",1
+"1074","2547637","LEWISHAM","Individual owned",3,"James Kids Home Ltd","01/11/2019",NA,"high-outsourcing",1
+"1075","2547918","BIRMINGHAM","Individual owned",3,"Care Perspectives Limited","12/03/2020","low-overspend",NA,1
+"1076","2548334","NEWHAM","Individual owned",3,"Oak House Childrens Home Ltd","14/08/2019","low-overspend","high-outsourcing",1
+"1077","SC008486","STOCKPORT","Corporate owned",6,"The Partnership Of Care Today","07/11/1992",NA,"low-outsourcing",1
+"1078","1245829","LEICESTERSHIRE","Corporate owned",3,"Resolute Care LTD","01/12/2016","low-overspend",NA,1
+"1079","1247764","HEREFORDSHIRE","Investment owned",5,"Compass Childrens Homes Ltd","03/03/2017","high-overspend",NA,1
+"1080","1249035","LANCASHIRE","Investment owned",6,"Your Chapter LTD","21/03/2017","low-overspend",NA,1
+"1081","SC006017","LANCASHIRE","Corporate owned",1,"Care Afloat Ltd","20/06/2001","low-overspend",NA,1
+"1082","SC034235","NORTH YORKSHIRE","Local Authority",6,"North Yorkshire County Council","14/10/2003","low-overspend","low-outsourcing",1
+"1083","SC398391","SHROPSHIRE","Investment owned",3,"Hillcrest Childrens Services (2) Limited","21/07/2009","high-overspend",NA,1
+"1084","SC489036","LEICESTERSHIRE","Corporate owned",4,"United Children's Services Limited","03/09/2015","low-overspend",NA,1
+"1085","SC489038","LANCASHIRE","Investment owned",8,"My Life-My Choice Limited","19/06/2015","low-overspend",NA,1
+"1086","SC489970","LEICESTERSHIRE","Corporate owned",4,"United Children's Services Limited","28/07/2015","low-overspend",NA,1
+"1087","1183911","CALDERDALE","Corporate owned",12,"Young Foundations Limited","05/11/2015","high-overspend",NA,1
+"1088","1221437","DORSET","Individual owned",5,"Potensial Ltd","15/03/2016","high-overspend",NA,1
+"1089","SC466786","PETERBOROUGH","Corporate owned",4,"The Beeches UK Limited","02/09/2013","low-overspend",NA,1
+"1090","SC468929","NORTHUMBERLAND","Local Authority",4,"Northumberland County Council","09/10/2013",NA,"low-outsourcing",1
+"1091","1259631","BRADFORD","Investment owned",7,"Witherslack Group Ltd","13/10/2017","high-overspend",NA,1
+"1092","SC008484","STOCKPORT","Unidentified for-profit",6,"","18/01/1994",NA,"low-outsourcing",1
+"1093","SC005204","HALTON","Investment owned",6,"Keys Child Care Ltd","11/08/2000","high-overspend",NA,1
+"1094","SC489416","LANCASHIRE","Investment owned",4,"Your Chapter LTD","12/08/2015","low-overspend",NA,1
+"1095","SC489820","DORSET","Individual owned",4,"Potensial Ltd","09/10/2015","high-overspend",NA,1
+"1096","1156103","SHROPSHIRE","Investment owned",4,"Cambian Childcare Ltd","21/01/2016","high-overspend",NA,1
+"1097","1223501","LANCASHIRE","Corporate owned",4,"Hexagon Care Services Ltd","04/02/2016","low-overspend",NA,1
+"1098","2513339","CENTRAL BEDFORDSHIRE","Local Authority",5,"Central Bedfordshire Council","28/01/2019","high-overspend",NA,1
+"1099","2519081","GATESHEAD","Corporate owned",5,"Impact Childcare and Education Ltd ","06/06/2019",NA,"low-outsourcing",1
+"1100","2522796","PETERBOROUGH","Individual owned",6,"Florinee Homes Ltd","05/07/2019","low-overspend",NA,1
+"1101","2523037","CALDERDALE","Corporate owned",2,"Time-Out Childrens Homes Limited","17/04/2019","high-overspend",NA,1
+"1102","2590699","SALFORD","Corporate owned",4,"Care 4 Every Child Ltd","10/06/2020",NA,"low-outsourcing",1
+"1103","2502334","READING","Third sector",5,"Brighter Futures For Children Limited","29/11/2018",NA,"high-outsourcing",1
+"1104","2503574","SEFTON","Individual owned",3,"Teen-Works Care Ltd","15/03/2019","high-overspend",NA,1
+"1105","2507361","SHROPSHIRE","Investment owned",2,"Reflexion Care Group Limited","09/04/2019","high-overspend",NA,1
+"1106","SC015254","CAMBRIDGESHIRE","Investment owned",5,"Castle Homes Limited","01/08/1999","low-overspend",NA,1
+"1107","SC015266","CAMBRIDGESHIRE","Third sector",6,"The Partnership of The Chartwell Group ","13/02/1998","low-overspend",NA,1
+"1108","2665204","NOTTINGHAMSHIRE","Corporate owned",4,"Prime Nurture Services Limited","13/01/2022",NA,"high-outsourcing",1
+"1109","2665747","LANCASHIRE","Individual owned",2,"SBL CARESERVICES (UK) LTD","01/02/2022","low-overspend",NA,1
+"1110","2668575","CAMBRIDGESHIRE","Individual owned",4,"Juventas Services Limited","10/12/2021","low-overspend",NA,1
+"1111","2669259","LINCOLNSHIRE","Individual owned",4,"Total Care Matters Limited","16/02/2022","low-overspend","low-outsourcing",1
+"1112","SC483828","STOCKPORT","Individual owned",5,"Care Haven (UK) Ltd","04/12/2014",NA,"low-outsourcing",1
+"1113","SC483856","LANCASHIRE","Investment owned",5,"Cambian Childcare Ltd","12/10/2015","low-overspend",NA,1
+"1114","1244946","WIGAN","Local Authority",2,"Wigan Council","04/10/2016","high-overspend",NA,1
+"1115","2527860","LANCASHIRE","Investment owned",1,"Sandcastle Care Ltd","24/07/2019","low-overspend",NA,1
+"1116","2624723","DORSET","Local Authority",1,"Dorset Council-Social Care, Children's Homes","08/03/2021","high-overspend",NA,1
+"1117","2626047","SHROPSHIRE","Investment owned",5,"Cambian Childcare Ltd","04/03/2021","high-overspend",NA,1
+"1118","2632889","LANCASHIRE","Individual owned",2,"Holistic Care Service Nationwide Limited","30/06/2022","low-overspend",NA,1
+"1119","2633117","LEICESTERSHIRE","Individual owned",3,"Treasure Nest Limited","21/04/2021","low-overspend",NA,1
+"1120","2634397","LANCASHIRE","Individual owned",1,"XYP Childcare Ltd","27/03/2021","low-overspend",NA,1
+"1121","2654782","LANCASHIRE","Individual owned",4,"Residential Child Care Community (North West) Limited","01/11/2021","low-overspend",NA,1
+"1122","1255743","DERBY","Corporate owned",5,"Homes 2 inspire","24/05/2017",NA,"high-outsourcing",1
+"1123","SC065553","DERBYSHIRE","Local Authority",4,"Derbyshire County Council","24/10/2005","high-overspend",NA,1
+"1124","SC478986","DERBY","Investment owned",5,"Esland North Limited","22/05/2014",NA,"high-outsourcing",1
+"1125","SC480655","LEICESTERSHIRE","Investment owned",4,"The Place Young People's Company","01/10/2014","low-overspend",NA,1
+"1126","SC477428","NORTH EAST LINCOLNSHIRE","Local Authority",3,"North East Lincolnshire Council","10/09/2014","high-overspend",NA,1
+"1127","SC479647","WIGAN","Corporate owned",6,"Hexagon Care Services Ltd","08/10/2014","high-overspend",NA,1
+"1128","1276421","DURHAM","Individual owned",4,"Invested Childcare LTD","16/08/2018",NA,"low-outsourcing",1
+"1129","1277726","NOTTINGHAMSHIRE","Investment owned",6,"Kisimul Group Ltd","25/06/2018",NA,"high-outsourcing",1
+"1130","1278217","HARTLEPOOL","Individual owned",2,"North East Specialist Therapeutic Services CIC","19/12/2018",NA,"low-outsourcing",1
+"1131","SC411046","LANCASHIRE","Individual owned",3,"Lifetime Opportunities Ltd","26/07/2010","low-overspend",NA,1
+"1132","SC411142","SHROPSHIRE","Investment owned",1,"Bryn Melyn Care Limited","03/06/2010","high-overspend",NA,1
+"1133","SC412296","EAST SUSSEX","Individual owned",4,"Springfield Road Childrens Homes Ltd","15/11/2010","high-overspend",NA,1
+"1134","SC412953","BEDFORD","Individual owned",4,"Benjamin UK Ltd","03/08/2010",NA,"high-outsourcing",1
+"1135","SC413985","SALFORD","Third sector",5,"The Together Trust","30/09/2010",NA,"low-outsourcing",1
+"1136","SC485956","LANCASHIRE","Individual owned",2,"New Horizons (NW) Ltd","05/06/2015","low-overspend",NA,1
+"1137","SC040500","SALFORD","Local Authority",27,"Salford City Council","18/05/2004",NA,"low-outsourcing",1
+"1138","SC040509","SALFORD","Local Authority",3,"Salford City Council","25/02/2004",NA,"low-outsourcing",1
+"1139","2642570","LEICESTERSHIRE","Individual owned",3,"T-Junction Children's Services Ltd","21/09/2021","low-overspend",NA,1
+"1140","2642643","DERBYSHIRE","Local Authority",4,"Derbyshire County Council","14/05/2021","high-overspend",NA,1
+"1141","SC020602","SHROPSHIRE","Investment owned",5,"Keys Nhcc Ltd","28/06/1996","high-overspend",NA,1
+"1142","SC064858","SALFORD","Local Authority",4,"Salford City Council","24/06/2005",NA,"low-outsourcing",1
+"1143","SC066560","ROCHDALE","Corporate owned",3,"Meadows Care Limited","15/02/2006",NA,"low-outsourcing",1
+"1144","SC420410","WILTSHIRE","Individual owned",3,"Arc-HD Services Ltd","22/06/2011","low-overspend",NA,1
+"1145","1241634","WIGAN","Corporate owned",2,"Future Focused Ltd","22/08/2016","high-overspend",NA,1
+"1146","1241975","DUDLEY","Investment owned",4,"Horizon Care and Education Group Limited","12/03/2017","low-overspend",NA,1
+"1147","2532036","LANCASHIRE","Investment owned",3,"Horizon Care and Education Group Limited","01/05/2019","low-overspend",NA,1
+"1148","2534827","CENTRAL BEDFORDSHIRE","Investment owned",4,"Cambian Childcare Ltd","20/06/2019","high-overspend",NA,1
+"1149","SC433430","DERBYSHIRE","Investment owned",4,"Esland North Limited","21/07/2011","high-overspend",NA,1
+"1150","SC436386","LINCOLNSHIRE","Investment owned",6,"Knossington Grange School Ltd","16/09/2011","low-overspend","low-outsourcing",1
+"1151","SC437171","SWINDON","Investment owned",5,"John-Edwards Care Homes Ltd","28/09/2011",NA,"high-outsourcing",1
+"1152","SC437305","BRADFORD","Investment owned",8,"Cambian Childcare Ltd","12/12/2011","high-overspend",NA,1
+"1153","2602980","CAMBRIDGESHIRE","Local Authority",5,"Cambridgeshire County Council","03/09/2020","low-overspend",NA,1
+"1154","SC472465","DUDLEY","Investment owned",5,"Cambian Childcare Ltd","05/02/2014","low-overspend",NA,1
+"1155","SC472480","SEFTON","Individual owned",4,"Teen-Works Care Ltd","15/01/2014","high-overspend",NA,1
+"1156","SC475335","NOTTINGHAMSHIRE","Individual owned",4,"Blue Mountain Homes Ltd","13/06/2014",NA,"high-outsourcing",1
+"1157","SC475710","DURHAM","Investment owned",8,"Witherslack Group Ltd","03/06/2014",NA,"low-outsourcing",1
+"1158","SC475715","LANCASHIRE","Investment owned",7,"Witherslack Group Ltd","08/05/2014","low-overspend",NA,1
+"1159","SC476289","DERBYSHIRE","Investment owned",5,"Cambian Childcare Ltd","15/01/2015","high-overspend",NA,1
+"1160","SC476303","GATESHEAD","Investment owned",3,"Cambian Childcare Ltd","08/05/2014",NA,"low-outsourcing",1
+"1161","SC358046","DERBYSHIRE","LA owned company",32,"The Senad Group Limited","22/05/2009","high-overspend",NA,1
+"1162","SC471289","KNOWSLEY","Third sector",4,"New Start","05/02/2014","low-overspend",NA,1
+"1163","SC473473","ROCHDALE","Investment owned",3,"Nestlings Care Ltd","14/03/2014",NA,"low-outsourcing",1
+"1164","SC473475","SEFTON","Individual owned",5,"New Horizons (NW) Ltd","18/07/2014","high-overspend",NA,1
+"1165","SC051947","SEFTON","Corporate owned",2,"After Care Nw Limited","17/09/2003","high-overspend",NA,1
+"1166","SC052744","KNOWSLEY","Individual owned",5,"Quality Protects Children Ltd","20/11/2003","low-overspend",NA,1
+"1167","1257796","CAMBRIDGESHIRE","Investment owned",12,"Cambian Childcare Ltd","31/05/2017","low-overspend",NA,1
+"1168","1258134","NOTTINGHAMSHIRE","Corporate owned",5,"Homes 2 inspire","14/08/2017",NA,"high-outsourcing",1
+"1169","1256904","LANCASHIRE","Investment owned",3,"Next Stage 4Life LTD","23/04/2017","low-overspend",NA,1
+"1170","2542813","HALTON","Investment owned",1,"Cambian Childcare Ltd","27/09/2019","high-overspend",NA,1
+"1171","2543640","LANCASHIRE","Individual owned",3,"Life Change Care Limited","28/10/2019","low-overspend",NA,1
+"1172","2547837","SEFTON","Corporate owned",3,"After Care Nw Limited","17/12/2019","high-overspend",NA,1
+"1173","2586947","BIRMINGHAM","Individual owned",3,"Accalia Care Services Ltd.","03/07/2020","low-overspend",NA,1
+"1174","2591479","LANCASHIRE","Corporate owned",3,"Nurture Childcare Services Ltd","04/08/2020","low-overspend",NA,1
+"1175","2593032","DERBYSHIRE","Investment owned",3,"Smoothstone Care & Education","09/07/2020","high-overspend",NA,1
+"1176","SC032163","DORSET","Local Authority",9,"Dorset Council-Social Care, Children's Homes","18/07/2003","high-overspend",NA,1
+"1177","1251076","LEICESTERSHIRE","Investment owned",4,"Horizon Care and Education Group Limited","12/01/2017","low-overspend",NA,1
+"1178","1253501","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","30/01/2017","low-overspend",NA,1
+"1179","1254835","SUNDERLAND","Third sector",6,"Together for Children Sunderland Limited","31/03/2017",NA,"low-outsourcing",1
+"1180","1254843","SUNDERLAND","Third sector",6,"Together for Children Sunderland Limited","31/03/2017",NA,"low-outsourcing",1
+"1181","2639632","LUTON","Individual owned",2,"Bethel Children's Care Ltd","23/08/2021",NA,"high-outsourcing",1
+"1182","1267650","NORTHUMBERLAND","Investment owned",3,"Keys Nhcc Ltd","08/01/2018",NA,"low-outsourcing",1
+"1183","1268886","REDBRIDGE","Corporate owned",6,"Woodford Children's Home Ltd","23/05/2018",NA,"high-outsourcing",1
+"1184","1271135","STOCKPORT","Local Authority",2,"Stockport Metropolitan Borough Council","15/02/2018",NA,"low-outsourcing",1
+"1185","1275500","EAST SUSSEX","Individual owned",2,"HEADSTART RESIDENTIAL CARE LTD","04/09/2018","high-overspend",NA,1
+"1186","SC452107","CAMBRIDGESHIRE","Corporate owned",3,"Semi-Independent House Limited","03/12/2012","low-overspend",NA,1
+"1187","SC453372","DURHAM","Corporate owned",4,"Park Blue Homes Limited","24/04/2013",NA,"low-outsourcing",1
+"1188","SC454647","SHROPSHIRE","Investment owned",4,"Cambian Childcare Ltd","12/11/2012","high-overspend",NA,1
+"1189","2539201","NOTTINGHAMSHIRE","Investment owned",3,"Esland North Limited","28/08/2019",NA,"high-outsourcing",1
+"1190","SC472381","MIDDLESBROUGH","Local Authority",4,"Middlesbrough Borough Council","03/01/2014","high-overspend",NA,1
+"1191","SC472795","NEWCASTLE UPON TYNE","Investment owned",5,"ARTEMIS SUPPORT LIMITED","02/01/2014","low-overspend","low-outsourcing",1
+"1192","SC473375","KNOWSLEY","Corporate owned",2,"Continuum Support - Care Services LTD","20/01/2014","low-overspend",NA,1
+"1193","SC456477","NORTH YORKSHIRE","Investment owned",4,"Cambian Childcare Ltd","20/01/2013","low-overspend","low-outsourcing",1
+"1194","2684203","DURHAM","Local Authority",2,"Durham County Council","14/06/2022",NA,"low-outsourcing",1
+"1195","2685151","LANCASHIRE","Individual owned",2,"Trinity Care and Education Services Ltd","21/07/2022","low-overspend",NA,1
+"1196","2534436","LANCASHIRE","Individual owned",3,"Brinscall Care Limited","15/07/2019","low-overspend",NA,1
+"1197","2548794","BARNET","Individual owned",5,"Seva Childcare Ltd","02/07/2020",NA,"high-outsourcing",1
+"1198","2686253","LANCASHIRE","Corporate owned",2,"Embrace Care Ltd","09/09/2022","low-overspend",NA,1
+"1199","1280370","OLDHAM","Corporate owned",2,"Time-Out Childrens Homes Limited","16/07/2018",NA,"low-outsourcing",1
+"1200","2495397","LANCASHIRE","Corporate owned",2,"Future Focused Ltd","03/10/2018","low-overspend",NA,1
+"1201","SC423606","KINGSTON UPON THAMES","Corporate owned",6,"Reamcare Limited","23/06/2011",NA,"high-outsourcing",1
+"1202","2677270","BIRMINGHAM","Corporate owned",3,"TJY Care Ltd","25/05/2022","low-overspend",NA,1
+"1203","2680042","NORTH YORKSHIRE","Individual owned",3,"Blossom SC Ltd","31/07/2022","low-overspend","low-outsourcing",1
+"1204","2680522","WILTSHIRE","Investment owned",8,"Witherslack Group Ltd","15/08/2022","low-overspend",NA,1
+"1205","2577171","BRADFORD","Corporate owned",4,"Haven Care Group Ltd","02/07/2020","high-overspend",NA,1
+"1206","2581909","DERBY","LA owned company",8,"Senad Limited","09/04/2020",NA,"high-outsourcing",1
+"1207","2687920","KNOWSLEY","Corporate owned",3,"Supporting Futures Limited","12/09/2022","low-overspend",NA,1
+"1208","SC001016","CALDERDALE","Investment owned",4,"Keys BR Limited","21/02/2001","high-overspend",NA,1
+"1209","SC005751","WIGAN","Corporate owned",1,"Care Afloat Ltd","01/08/2001","high-overspend",NA,1
+"1210","2580303","SHROPSHIRE","Investment owned",2,"Reflexion Care Group Limited","24/04/2020","high-overspend",NA,1
+"1211","2582247","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","04/03/2020","low-overspend",NA,1
+"1212","2671685","CROYDON","Individual owned",3,"Jurita Limited","17/05/2022","low-overspend",NA,1
+"1213","2674455","STOCKPORT","Individual owned",1,"Choices Home for Children","27/01/2022",NA,"low-outsourcing",1
+"1214","SC467847","REDBRIDGE","Individual owned",5,"Oak House Childrens Home Ltd","02/08/2013",NA,"high-outsourcing",1
+"1215","SC407169","STOCKPORT","Individual owned",4,"Choices Home for Children","31/03/2010",NA,"low-outsourcing",1
+"1216","SC409506","BEDFORD","Local Authority",7,"Bedford Borough Council","31/03/2010",NA,"high-outsourcing",1
+"1217","SC454266","MIDDLESBROUGH","Investment owned",4,"Cambian Childcare Ltd","13/12/2012","high-overspend",NA,1
+"1218","SC456271","LANCASHIRE","Corporate owned",4,"Nurture Childcare Services Ltd","22/11/2012","low-overspend",NA,1
+"1219","SC457272","CAMBRIDGESHIRE","Investment owned",3,"Cambian Childcare Ltd","19/02/2013","low-overspend",NA,1
+"1220","SC463639","BIRMINGHAM","Corporate owned",5,"Aston Children's Care Ltd","19/07/2013","low-overspend",NA,1
+"1221","SC464759","DERBYSHIRE","Individual owned",4,"Blue Mountain Homes Ltd","11/04/2014","high-overspend",NA,1
+"1222","SC465475","NEWCASTLE UPON TYNE","Individual owned",6,"Right-Trak Limited","26/07/2013","low-overspend","low-outsourcing",1
+"1223","SC038780","DERBY","Individual owned",4,"Blue Mountain Homes Ltd","04/07/2003",NA,"high-outsourcing",1
+"1224","2668710","NORTH TYNESIDE","Local Authority",5,"North Tyneside Council","20/03/2022","high-overspend","low-outsourcing",1
+"1225","2672566","LANCASHIRE","Corporate owned",3,"Embrace Care Ltd","30/06/2022","low-overspend",NA,1
+"1226","2675665","LANCASHIRE","Individual owned",3,"Bear Care Services Limited","20/07/2022","low-overspend",NA,1
+"1227","1234432","KNOWSLEY","Corporate owned",2,"Lytham Care Limited","03/06/2016","low-overspend",NA,1
+"1228","SC059221","READING","Unidentified for-profit",3,"Causeway Care Homes Ltd","22/03/2004",NA,"high-outsourcing",1
+"1229","SC059853","BOLTON","Local Authority",6,"Bolton Metropolitan Borough Council","26/05/2004",NA,"low-outsourcing",1
+"1230","SC062128","HOUNSLOW","Local Authority",6,"London Borough of Hounslow","12/11/2004","high-overspend","high-outsourcing",1
+"1231","SC424851","BIRMINGHAM","Investment owned",6,"Cambian Childcare Ltd","04/04/2011","low-overspend",NA,1
+"1232","SC426751","DERBYSHIRE","Individual owned",6,"Enabling Futures Ltd","10/05/2011","high-overspend",NA,1
+"1233","SC483070","SEFTON","Corporate owned",4,"Exceptional Care Limited","05/02/2015","high-overspend",NA,1
+"1234","SC483958","DUDLEY","Individual owned",3,"Positive Outcomes Childcare Limited","11/11/2014","low-overspend",NA,1
+"1235","SC484402","NOTTINGHAMSHIRE","Individual owned",3,"Footsteps to Futures Limited","19/01/2015",NA,"high-outsourcing",1
+"1236","2647163","CROYDON","Individual owned",5,"Ascent Fostering Agency","21/12/2021","low-overspend",NA,1
+"1237","2647514","LANCASHIRE","Corporate owned",2,"Hexagon Care Services Ltd","01/10/2021","low-overspend",NA,1
+"1238","2648027","LANCASHIRE","Investment owned",1,"Esland North Limited","07/10/2021","low-overspend",NA,1
+"1239","2649926","DORSET","Investment owned",1,"Beaufort care Group","06/10/2021","high-overspend",NA,1
+"1240","2650947","DORSET","Individual owned",2,"Lily Residential Services Ltd","18/11/2021","high-overspend",NA,1
+"1241","2558515","DERBYSHIRE","Corporate owned",4,"Ashwood Childrens Care Home Ltd","19/12/2019","high-overspend",NA,1
+"1242","2570535","SHROPSHIRE","Investment owned",4,"Keys Nhcc Ltd","04/05/2020","high-overspend",NA,1
+"1243","2594061","LEEDS","Investment owned",3,"Nestlings Care Ltd","10/07/2020",NA,"low-outsourcing",1
+"1244","SC416318","LANCASHIRE","Investment owned",4,"Bay View Child Care Limited","22/12/2010","low-overspend",NA,1
+"1245","SC417795","LEEDS","Investment owned",4,"Pebbles Care Limited","02/11/2010",NA,"low-outsourcing",1
+"1246","2510328","BIRMINGHAM","Corporate owned",3,"Hand In Hand Childcare","30/04/2019","low-overspend",NA,1
+"1247","2639649","LANCASHIRE","Individual owned",2,"Contemporary Concept Care Limited","28/09/2021","low-overspend",NA,1
+"1248","SC008608","STOCKPORT","Corporate owned",2,"The Partnership Of Care Today","02/07/2001",NA,"low-outsourcing",1
+"1249","SC049189","ROCHDALE","Corporate owned",3,"The Partnership Of Care Today","23/09/2004",NA,"low-outsourcing",1
+"1250","2584908","SHROPSHIRE","Local Authority",2,"Shropshire Council","07/10/2020","high-overspend",NA,1
+"1251","2587132","NEWCASTLE UPON TYNE","Individual owned",2,"Outdoor Care Limited","06/07/2020","low-overspend","low-outsourcing",1
+"1252","SC472417","HARTLEPOOL","Local Authority",4,"Hartlepool Borough Council","10/01/2014",NA,"low-outsourcing",1
+"1253","SC051739","NOTTINGHAMSHIRE","Investment owned",3,"Pathway Care Solutions Ltd","24/11/2003",NA,"high-outsourcing",1
+"1254","SC042950","LINCOLNSHIRE","Local Authority",6,"Lincolnshire County Council","29/01/2004","low-overspend","low-outsourcing",1
+"1255","SC025813","CROYDON","Individual owned",8,"McRae Residential Care Services Limited","06/01/1997","low-overspend",NA,1
+"1256","SC028174","LINCOLNSHIRE","Corporate owned",4,"Keys Direct Care Limited","24/04/2002","low-overspend","low-outsourcing",1
+"1257","SC008485","STOCKPORT","Individual owned",5,"Choices Home for Children","20/07/1995",NA,"low-outsourcing",1
+"1258","SC436372","LEICESTERSHIRE","Investment owned",6,"Cambian Childcare Ltd","24/10/2011","low-overspend",NA,1
+"1259","1270301","LANCASHIRE","Corporate owned",3,"Future Focused Ltd","08/02/2018","low-overspend",NA,1
+"1260","1271375","LANCASHIRE","Investment owned",3,"Sandcastle Care Ltd","12/03/2018","low-overspend",NA,1
+"1261","SC441717","LANCASHIRE","Investment owned",4,"Partners in Care Limited","10/04/2012","low-overspend",NA,1
+"1262","SC450992","DUDLEY","Investment owned",6,"Cambian Childcare Ltd","13/07/2012","low-overspend",NA,1
+"1263","1234244","LEICESTERSHIRE","Investment owned",3,"Horizon Care and Education Group Limited","12/05/2016","low-overspend",NA,1
+"1264","1238043","LANCASHIRE","Corporate owned",5,"Nurture Childcare Services Ltd","01/07/2016","low-overspend",NA,1
+"1265","1240753","LANCASHIRE","Investment owned",4,"Your Chapter Holdings Limited","17/08/2016","low-overspend",NA,1
+"1266","1240801","WIGAN","Corporate owned",3,"Inspire Childrens Services Limited","27/06/2016","high-overspend",NA,1
+"1267","SC066048","EAST SUSSEX","Corporate owned",1,"Anderida Adolescent Care Ltd","26/09/2005","high-overspend",NA,1
+"1268","SC066127","NORTHUMBERLAND","Investment owned",4,"Cambian Childcare Ltd","13/10/2006",NA,"low-outsourcing",1
+"1269","SC067899","OLDHAM","Investment owned",7,"Cambian Childcare Ltd","28/07/2006",NA,"low-outsourcing",1
+"1270","2594875","CAMBRIDGESHIRE","Corporate owned",4,"The Beeches UK Limited","13/07/2020","low-overspend",NA,1
+"1271","SC382595","NEWCASTLE UPON TYNE","Individual owned",5,"Evolution Children Services Limited","23/10/2008","low-overspend","low-outsourcing",1
+"1272","SC387148","TRAFFORD","Individual owned",5,"Fairfield Residential Ltd","01/12/2008",NA,"low-outsourcing",1
+"1273","SC392712","NOTTINGHAMSHIRE","Individual owned",3,"Capstone Care Provider Limited","13/05/2009",NA,"high-outsourcing",1
+"1274","SC394463","STOCKPORT","Individual owned",3,"Cornerstone Children's Homes Limited","08/06/2009",NA,"low-outsourcing",1
+"1275","SC006010","LANCASHIRE","Corporate owned",1,"Care Afloat Ltd","20/06/2001","low-overspend",NA,1
+"1276","SC006014","LANCASHIRE","Corporate owned",3,"Care Afloat Ltd","20/06/2001","low-overspend",NA,1
+"1277","SC020675","SHROPSHIRE","Third sector",4,"Action for Children","01/01/1998","high-overspend",NA,1
+"1278","2628612","LUTON","Individual owned",3,"Halls Homes For Young People Ltd","24/09/2021",NA,"high-outsourcing",1
+"1279","2631136","LANCASHIRE","Individual owned",2,"Safety and Focused Care Ltd","02/07/2021","low-overspend",NA,1
+"1280","SC457318","TORBAY","Investment owned",2,"Cambian Childcare Ltd","14/03/2013","low-overspend",NA,1
+"1281","1244280","BRADFORD","Investment owned",7,"Witherslack Group Ltd","07/11/2016","high-overspend",NA,1
+"1282","1247559","LANCASHIRE","Investment owned",5,"Witherslack Group Ltd","21/02/2017","low-overspend",NA,1
+"1283","1249115","CALDERDALE","Investment owned",4,"Your Chapter LTD","12/03/2017","high-overspend",NA,1
+"1284","SC484247","BRADFORD","Corporate owned",6,"Hexagon Care Services Ltd","01/02/2015","high-overspend",NA,1
+"1285","SC488112","HARTLEPOOL","Individual owned",4,"North East Specialist Therapeutic Services CIC","02/03/2015",NA,"low-outsourcing",1
+"1286","SC480429","LANCASHIRE","Investment owned",1,"Cambian Childcare Ltd","08/08/2014","low-overspend",NA,1
+"1287","SC416136","SUNDERLAND","Third sector",5,"North East Autism Society","03/11/2010",NA,"low-outsourcing",1
+"1288","SC419229","BIRMINGHAM","Individual owned",4,"Care And Management Services Limited","02/11/2010","low-overspend",NA,1
+"1289","SC065378","BIRMINGHAM","Investment owned",3,"Castle Homes Care Limited","14/12/2005","low-overspend",NA,1
+"1290","1232657","SOLIHULL","Investment owned",4,"Compass Childrens Homes Ltd","11/02/2017","high-overspend",NA,1
+"1291","1278959","BRENT","Individual owned",5,"Aspire House Ltd","15/05/2018",NA,"high-outsourcing",1
+"1292","2483693","LEICESTERSHIRE","Investment owned",3,"Esland North Limited","22/07/2018","low-overspend",NA,1
+"1293","SC402370","NOTTINGHAMSHIRE","Corporate owned",54,"Kedleston (Wings Education) Limited","18/12/2009",NA,"high-outsourcing",1
+"1294","SC403472","NEWCASTLE UPON TYNE","Investment owned",3,"ARTEMIS SUPPORT LIMITED","11/05/2010","low-overspend","low-outsourcing",1
+"1295","SC405448","KNOWSLEY","Individual owned",1,"Quality Protects Children Ltd","20/04/2010","low-overspend",NA,1
+"1296","2530059","LEEDS","Corporate owned",2,"Hexagon Care Services Ltd","30/07/2019",NA,"low-outsourcing",1
+"1297","2550622","OLDHAM","Investment owned",6,"Cambian Childcare Ltd","01/06/2020",NA,"low-outsourcing",1
+"1298","2552036","NEWCASTLE UPON TYNE","Corporate owned",4,"One Step Care Limited","13/01/2020","low-overspend","low-outsourcing",1
+"1299","SC421531","CENTRAL BEDFORDSHIRE","Investment owned",3,"Oracle Care Limited","15/11/2010","high-overspend",NA,1
+"1300","2641044","NEWCASTLE UPON TYNE","Third sector",4,"Action for Children","22/11/2021","low-overspend","low-outsourcing",1
+"1301","2641790","LANCASHIRE","Individual owned",2,"A-Triangle Care Ltd","24/05/2021","low-overspend",NA,1
+"1302","SC062263","ROCHDALE","Corporate owned",1,"Time-Out Childrens Homes Limited","09/09/2004",NA,"low-outsourcing",1
+"1303","SC062268","LANCASHIRE","Corporate owned",3,"Care Afloat Ltd","17/03/2006","low-overspend",NA,1
+"1304","SC456535","LANCASHIRE","Investment owned",1,"Cambian Childcare Ltd","14/03/2013","low-overspend",NA,1
+"1305","1256404","NOTTINGHAMSHIRE","Corporate owned",5,"Homes 2 inspire","24/05/2017",NA,"high-outsourcing",1
+"1306","1236540","CALDERDALE","Local Authority",3,"Calderdale Council","14/06/2016","high-overspend",NA,1
+"1307","1237582","ROCHDALE","Local Authority",5,"Rochdale Metropolitan Borough Council","16/05/2016",NA,"low-outsourcing",1
+"1308","1239948","PORTSMOUTH","Local Authority",3,"Portsmouth City Council","25/05/2016",NA,"low-outsourcing",1
+"1309","1241757","WIGAN","Corporate owned",3,"Inspire Childrens Services Limited","09/08/2016","high-overspend",NA,1
+"1310","SC429995","DURHAM","Investment owned",4,"A Significant Other Limited","22/07/2011",NA,"low-outsourcing",1
+"1311","SC431696","BRADFORD","Local Authority",10,"City of Bradford Metropolitan District Council","10/06/2011","high-overspend",NA,1
+"1312","SC432843","NEWCASTLE UPON TYNE","Third sector",7,"Talbot House Children's Charity Limited","17/02/2012","low-overspend","low-outsourcing",1
+"1313","SC484912","HILLINGDON","Unidentified for-profit",10,"","11/02/2015",NA,"high-outsourcing",1
+"1314","2608630","YORK","Local Authority",8,"City of York Council","16/11/2020","high-overspend","low-outsourcing",1
+"1315","2608645","CAMBRIDGESHIRE","Individual owned",3,"Fonjock's Social Work Practice","02/12/2020","low-overspend",NA,1
+"1316","2534580","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","21/08/2019","low-overspend",NA,1
+"1317","2618445","BIRMINGHAM","Corporate owned",3,"TJY Care Ltd","23/03/2021","low-overspend",NA,1
+"1318","SC025745","STOCKPORT","Third sector",5,"The Together Trust","30/03/1995",NA,"low-outsourcing",1
+"1319","1236771","SEFTON","Corporate owned",4,"Hexagon Care Services Ltd","09/09/2016","high-overspend",NA,1
+"1320","1240936","BIRMINGHAM","Corporate owned",3,"Meadows Care Limited","14/11/2016","low-overspend",NA,1
+"1321","SC039248","LANCASHIRE","Local Authority",6,"Lancashire County Council","20/11/2003","low-overspend",NA,1
+"1322","SC043245","WILTSHIRE","Investment owned",4,"Wessex College Limited","25/04/2003","low-overspend",NA,1
+"1323","SC043732","LINCOLNSHIRE","Local Authority",11,"Lincolnshire County Council","09/10/2003","low-overspend","low-outsourcing",1
+"1324","SC035220","DURHAM","Local Authority",3,"Durham County Council","05/09/2003",NA,"low-outsourcing",1
+"1325","SC025714","STOCKPORT","Third sector",5,"The Together Trust","20/05/1999",NA,"low-outsourcing",1
+"1326","SC025715","STOCKPORT","Third sector",3,"The Together Trust","24/02/2000",NA,"low-outsourcing",1
+"1327","SC025733","CAMBRIDGESHIRE","Third sector",17,"Friends Therapeutic Community Trust","19/06/1973","low-overspend",NA,1
+"1328","SC025747","STOCKPORT","Third sector",3,"The Together Trust","25/02/1994",NA,"low-outsourcing",1
+"1329","2501555","SHROPSHIRE","Investment owned",15,"Bryn Melyn Care Limited","04/03/2019","high-overspend",NA,1
+"1330","SC449099","LEICESTERSHIRE","Investment owned",3,"Quantum Care UK Limited","23/07/2012","low-overspend",NA,1
+"1331","SC449245","SHROPSHIRE","Investment owned",3,"Bryn Melyn Care Limited","13/07/2012","high-overspend",NA,1
+"1332","SC020171","DERBYSHIRE","Individual owned",7,"Arnfield Care Limited","09/05/2001","high-overspend",NA,1
+"1333","SC020594","SHROPSHIRE","Investment owned",8,"Keys Education Ltd","22/12/1992","high-overspend",NA,1
+"1334","SC020608","SHROPSHIRE","Investment owned",3,"Keys Nhcc Ltd","06/08/2001","high-overspend",NA,1
+"1335","SC020610","SHROPSHIRE","Investment owned",3,"Keys Nhcc Ltd","06/08/2001","high-overspend",NA,1
+"1336","SC467264","BIRMINGHAM","Individual owned",4,"N H Care Limited","28/08/2013","low-overspend",NA,1
+"1337","SC455338","CENTRAL BEDFORDSHIRE","Investment owned",3,"Oracle Care Limited","19/10/2012","high-overspend",NA,1
+"1338","SC455864","MIDDLESBROUGH","Individual owned",8,"Enhanced Young Person's Care LTD","11/03/2013","high-overspend",NA,1
+"1339","1257706","CALDERDALE","Individual owned",2,"Gravitas Care LTD","12/06/2018","high-overspend",NA,1
+"1340","1263425","STOCKPORT","Individual owned",2,"Social Care Services (Clayton) Limited","25/09/2018",NA,"low-outsourcing",1
+"1341","2693124","LUTON","Individual owned",4,"Strive and succeed Ltd","02/11/2022",NA,"high-outsourcing",1
+"1342","2613677","LANCASHIRE","Corporate owned",1,"Hexagon Care Services Ltd","27/11/2020","low-overspend",NA,1
+"1343","2614095","CALDERDALE","Corporate owned",1,"Hexagon Care Services Ltd","23/12/2020","high-overspend",NA,1
+"1344","2618553","BIRMINGHAM","Individual owned",1,"Forte Care Ltd","13/05/2021","low-overspend",NA,1
+"1345","2620266","LANCASHIRE","Individual owned",2,"Guidance Care Limited","23/03/2021","low-overspend",NA,1
+"1346","2621119","WIGAN","Investment owned",1,"Cambian Childcare Ltd","23/04/2021","high-overspend",NA,1
+"1347","2672242","DORSET","Individual owned",2,"Lily Residential Services Ltd","27/04/2022","high-overspend",NA,1
+"1348","1228090","BIRMINGHAM","Corporate owned",4,"Meadows Care Limited","27/04/2016","low-overspend",NA,1
+"1349","1229229","NOTTINGHAMSHIRE","Investment owned",2,"Esland North Limited","01/04/2016",NA,"high-outsourcing",1
+"1350","SC035154","CALDERDALE","Local Authority",5,"Calderdale Council","02/09/2003","high-overspend",NA,1
+"1351","SC035155","CALDERDALE","Local Authority",7,"Calderdale Council","09/09/2003","high-overspend",NA,1
+"1352","SC035181","DURHAM","Local Authority",5,"Durham County Council","04/09/2003",NA,"low-outsourcing",1
+"1353","1273719","CROYDON","Individual owned",3,"Evoke Care Limited","04/06/2018","low-overspend",NA,1
+"1354","SC389830","SHROPSHIRE","Investment owned",1,"Reflexion Care Group Limited","03/02/2009","high-overspend",NA,1
+"1355","SC394478","STOCKPORT","Individual owned",3,"Cornerstone Children's Homes Limited","05/06/2009",NA,"low-outsourcing",1
+"1356","SC397344","BOLTON","Third sector",4,"Birtenshaw","28/08/2009",NA,"low-outsourcing",1
+"1357","2511614","LANCASHIRE","Corporate owned",3,"Nurture Childcare Services Ltd","20/02/2019","low-overspend",NA,1
+"1358","2511662","LANCASHIRE","Investment owned",2,"Sandcastle Care Ltd","27/05/2019","low-overspend",NA,1
+"1359","SC370956","LINCOLNSHIRE","Investment owned",4,"Keys Care Limited","15/02/2008","low-overspend","low-outsourcing",1
+"1360","SC034944","LANCASHIRE","Investment owned",4,"Keys Child Care Ltd","06/03/2003","low-overspend",NA,1
+"1361","SC008810","NOTTINGHAMSHIRE","Investment owned",4,"Pathway Care Solutions Ltd","13/02/2002",NA,"high-outsourcing",1
+"1362","2594148","BIRMINGHAM","Third sector",3,"","11/11/2020","low-overspend",NA,1
+"1363","2594952","GATESHEAD","Investment owned",3,"ARTEMIS SUPPORT LIMITED","01/09/2020",NA,"low-outsourcing",1
+"1364","2595128","SHROPSHIRE","Individual owned",4,"Unique Care Group Limited","29/09/2020","high-overspend",NA,1
+"1365","2599037","LEICESTERSHIRE","Individual owned",3,"G&S caring for children and young people ltd","11/08/2020","low-overspend",NA,1
+"1366","2656590","GATESHEAD","Individual owned",3,"Advocate Recruitment Ltd","21/10/2021",NA,"low-outsourcing",1
+"1367","SC035518","STOCKPORT","Third sector",24,"Seashell Trust","19/01/2004",NA,"low-outsourcing",1
+"1368","SC035625","HEREFORDSHIRE","LA owned company",30,"Rowden House School Limited","30/04/2003","high-overspend",NA,1
+"1369","SC035657","OLDHAM","Investment owned",7,"Cambian Childcare Ltd","21/01/2003",NA,"low-outsourcing",1
+"1370","SC036262","DERBYSHIRE","Local Authority",3,"Derbyshire County Council","25/03/2004","high-overspend",NA,1
+"1371","2544851","SUNDERLAND","Corporate owned",3,"Alexanders House Ltd","04/12/2019",NA,"low-outsourcing",1
+"1372","2548528","ROCHDALE","Individual owned",4,"Octagon Care Ltd","12/08/2019",NA,"low-outsourcing",1
+"1373","2588370","DERBYSHIRE","Individual owned",3,"Blue Mountain Homes Ltd","14/04/2020","high-overspend",NA,1
+"1374","2590522","LANCASHIRE","Investment owned",4,"Bay View Child Care Limited","20/07/2020","low-overspend",NA,1
+"1375","2590832","DUDLEY","Individual owned",3,"Thrive Childcare Services Limited","15/09/2020","low-overspend",NA,1
+"1376","2591822","CENTRAL BEDFORDSHIRE","Corporate owned",4,"Swan Children's Homes Ltd","22/07/2020","high-overspend",NA,1
+"1377","2677723","BARNET","Local Authority",6,"London Borough of Barnet","21/06/2022",NA,"high-outsourcing",1
+"1378","2650092","DURHAM","Individual owned",1,"We Care Bespoke Limited","30/11/2021",NA,"low-outsourcing",1
+"1379","2653835","BRADFORD","Corporate owned",1,"Hexagon Care Services Ltd","22/11/2021","high-overspend",NA,1
+"1380","2660251","SUTTON","Corporate owned",6,"Catch22 Charity Limited","02/02/2022",NA,"high-outsourcing",1
+"1381","2642537","LEWISHAM","Individual owned",6,"Creating Care Choices Limited","22/10/2021",NA,"high-outsourcing",1
+"1382","2645675","LEICESTERSHIRE","Individual owned",2,"A&R Guardian Services Limited","20/08/2021","low-overspend",NA,1
+"1383","2645878","LANCASHIRE","Corporate owned",2,"Nurture Childcare Services Ltd","22/07/2021","low-overspend",NA,1
+"1384","2651802","REDBRIDGE","Individual owned",7,"Willcob Care Ltd","17/12/2021",NA,"high-outsourcing",1
+"1385","2521953","LANCASHIRE","Corporate owned",2,"Hexagon Care Services Ltd","01/10/2019","low-overspend",NA,1
+"1386","SC061924","SEFTON","Individual owned",3,"Progressive Futures Care Limited","05/10/2004","high-overspend",NA,1
+"1387","SC062248","KNOWSLEY","Individual owned",4,"Quality Protects Children Ltd","17/01/2005","low-overspend",NA,1
+"1388","SC378464","CENTRAL BEDFORDSHIRE","Investment owned",3,"Oracle Care Limited","11/08/2008","high-overspend",NA,1
+"1389","SC478468","LANCASHIRE","Investment owned",5,"Cambian Childcare Ltd","21/08/2014","low-overspend",NA,1
+"1390","SC483623","HARINGEY","Individual owned",5,"Kartikeya Solutions Limited","29/06/2015","high-overspend",NA,1

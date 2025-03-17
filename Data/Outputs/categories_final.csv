@@ -1,0 +1,153 @@
+"","Local.authority","overspend_category","outsourcing_category"
+"1","NORTH EAST LINCOLNSHIRE","high-overspend",NA
+"2","WIGAN","high-overspend",NA
+"3","BRADFORD","high-overspend",NA
+"4","HALTON","high-overspend",NA
+"5","HEREFORDSHIRE","high-overspend",NA
+"6","DERBYSHIRE","high-overspend",NA
+"7","NORTH TYNESIDE","high-overspend","low-outsourcing"
+"8","YORK","high-overspend","low-outsourcing"
+"9","CENTRAL BEDFORDSHIRE","high-overspend",NA
+"10","SEFTON","high-overspend",NA
+"11","EAST SUSSEX","high-overspend",NA
+"12","SHROPSHIRE","high-overspend",NA
+"13","REDCAR AND CLEVELAND","high-overspend","low-outsourcing"
+"14","DORSET","high-overspend",NA
+"15","HARINGEY","high-overspend",NA
+"16","HOUNSLOW","high-overspend","high-outsourcing"
+"17","SOLIHULL","high-overspend",NA
+"18","MIDDLESBROUGH","high-overspend",NA
+"19","LAMBETH","high-overspend","high-outsourcing"
+"20","CALDERDALE","high-overspend",NA
+"21","WEST BERKSHIRE",NA,NA
+"22","STOKE ON TRENT",NA,NA
+"23","BRISTOL",NA,NA
+"24","ESSEX",NA,NA
+"25","CORNWALL",NA,NA
+"26","RICHMOND UPON THAMES",NA,"high-outsourcing"
+"27","WORCESTERSHIRE",NA,NA
+"28","LIVERPOOL",NA,NA
+"29","GLOUCESTERSHIRE",NA,NA
+"30","WESTMINSTER",NA,NA
+"31","BURY",NA,NA
+"32","WOKINGHAM",NA,NA
+"33","STOCKPORT",NA,"low-outsourcing"
+"34","PLYMOUTH",NA,NA
+"35","SOUTHEND ON SEA",NA,NA
+"36","MERTON",NA,NA
+"37","REDBRIDGE",NA,"high-outsourcing"
+"38","NOTTINGHAM",NA,NA
+"39","WARWICKSHIRE",NA,NA
+"40","ROTHERHAM",NA,NA
+"41","HILLINGDON",NA,"high-outsourcing"
+"42","BARKING AND DAGENHAM",NA,NA
+"43","LEEDS",NA,"low-outsourcing"
+"44","BEXLEY",NA,NA
+"45","WINDSOR AND MAIDENHEAD",NA,"high-outsourcing"
+"46","BOLTON",NA,"low-outsourcing"
+"47","SUTTON",NA,"high-outsourcing"
+"48","ST HELENS",NA,NA
+"49","CHESHIRE EAST",NA,NA
+"50","EAST RIDING OF YORKSHIRE",NA,NA
+"51","DERBY",NA,"high-outsourcing"
+"52","STOCKTON ON TEES",NA,NA
+"53","OXFORDSHIRE",NA,NA
+"54","SOMERSET",NA,NA
+"55","BRENT",NA,"high-outsourcing"
+"56","OLDHAM",NA,"low-outsourcing"
+"57","SOUTH TYNESIDE",NA,NA
+"58","BLACKPOOL",NA,NA
+"59","BOURNEMOUTH CHRISTCHURCH AND POOLE",NA,NA
+"60","SOUTHAMPTON",NA,NA
+"61","GREENWICH",NA,NA
+"62","BARNET",NA,"high-outsourcing"
+"63","GATESHEAD",NA,"low-outsourcing"
+"64","CHESHIRE WEST AND CHESTER",NA,NA
+"65","HARTLEPOOL",NA,"low-outsourcing"
+"66","ISLE OF WIGHT",NA,NA
+"67","TELFORD AND WREKIN",NA,NA
+"68","HAVERING",NA,NA
+"69","BROMLEY",NA,NA
+"70","DEVON",NA,NA
+"71","WIRRAL",NA,NA
+"72","SWINDON",NA,"high-outsourcing"
+"73","SALFORD",NA,"low-outsourcing"
+"74","WALSALL",NA,NA
+"75","WEST NORTHAMPTONSHIRE",NA,NA
+"76","BATH AND NORTH EAST SOMERSET",NA,NA
+"77","HARROW",NA,NA
+"78","KINGSTON UPON HULL",NA,NA
+"79","MEDWAY",NA,"high-outsourcing"
+"80","BEDFORD",NA,"high-outsourcing"
+"81","COUNTY DURHAM",NA,"low-outsourcing"
+"82","NORTH SOMERSET",NA,NA
+"83","DONCASTER",NA,NA
+"84","COVENTRY",NA,NA
+"85","ISLINGTON",NA,NA
+"86","HAMMERSMITH AND FULHAM",NA,NA
+"87","DARLINGTON",NA,NA
+"88","SHEFFIELD",NA,NA
+"89","MILTON KEYNES",NA,NA
+"90","KIRKLEES",NA,NA
+"91","WOLVERHAMPTON",NA,NA
+"92","WANDSWORTH",NA,NA
+"93","MANCHESTER",NA,NA
+"94","WARRINGTON",NA,NA
+"95","BARNSLEY",NA,NA
+"96","ROCHDALE",NA,"low-outsourcing"
+"97","SUNDERLAND",NA,"low-outsourcing"
+"98","NORTH NORTHAMPTONSHIRE",NA,NA
+"99","SURREY",NA,NA
+"100","WEST SUSSEX",NA,NA
+"101","HACKNEY",NA,NA
+"102","STAFFORDSHIRE",NA,NA
+"103","BLACKBURN WITH DARWEN",NA,NA
+"104","CUMBRIA",NA,NA
+"105","KINGSTON UPON THAMES",NA,"high-outsourcing"
+"106","WALTHAM FOREST",NA,NA
+"107","SANDWELL",NA,NA
+"108","HERTFORDSHIRE",NA,NA
+"109","SOUTH GLOUCESTERSHIRE",NA,NA
+"110","BRIGHTON AND HOVE",NA,NA
+"111","NORFOLK",NA,NA
+"112","BRACKNELL FOREST",NA,NA
+"113","SUFFOLK",NA,NA
+"114","THURROCK",NA,"high-outsourcing"
+"115","READING",NA,"high-outsourcing"
+"116","LUTON",NA,"high-outsourcing"
+"117","EALING",NA,NA
+"118","KENSINGTON AND CHELSEA",NA,NA
+"119","LEWISHAM",NA,"high-outsourcing"
+"120","NORTHUMBERLAND",NA,"low-outsourcing"
+"121","NOTTINGHAMSHIRE",NA,"high-outsourcing"
+"122","PORTSMOUTH",NA,"low-outsourcing"
+"123","WAKEFIELD",NA,NA
+"124","TOWER HAMLETS",NA,NA
+"125","ENFIELD",NA,NA
+"126","HAMPSHIRE",NA,NA
+"127","KENT",NA,NA
+"128","TAMESIDE",NA,NA
+"129","BUCKINGHAMSHIRE",NA,NA
+"130","LEICESTER",NA,NA
+"131","SOUTHWARK",NA,NA
+"132","TRAFFORD",NA,"low-outsourcing"
+"133","DUDLEY","low-overspend",NA
+"134","BIRMINGHAM","low-overspend",NA
+"135","RUTLAND","low-overspend",NA
+"136","LINCOLNSHIRE","low-overspend","low-outsourcing"
+"137","LANCASHIRE","low-overspend",NA
+"138","TORBAY","low-overspend",NA
+"139","NEWCASTLE UPON TYNE","low-overspend","low-outsourcing"
+"140","LEICESTERSHIRE","low-overspend",NA
+"141","KNOWSLEY","low-overspend",NA
+"142","CROYDON","low-overspend",NA
+"143","WILTSHIRE","low-overspend",NA
+"144","NEWHAM","low-overspend","high-outsourcing"
+"145","PETERBOROUGH","low-overspend",NA
+"146","CAMBRIDGESHIRE","low-overspend",NA
+"147","NORTH LINCOLNSHIRE","low-overspend","low-outsourcing"
+"148","CAMDEN","low-overspend",NA
+"149","NORTH YORKSHIRE","low-overspend","low-outsourcing"
+"150","SLOUGH","low-overspend",NA
+"151","WESTMORLAND AND FURNESS","low-overspend",NA
+"152","CUMBERLAND","low-overspend",NA
