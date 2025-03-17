@@ -27,4 +27,24 @@ outsourcing <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/child
     row_number() > (n() - 20) ~ "low-outsourcing",
     TRUE ~ NA_character_
   ))
+
+
+
+overspend <- bind_cols(
+  er <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_qualitative/refs/heads/main/RA_2021-22_data_by_LA.csv"), skip=7)%>%
+    dplyr::select(Local.authority, TOTAL.CHILDREN.S.SOCIAL.CARE)%>%
+    dplyr::rename(budget_21 <- TOTAL.CHILDREN.S.SOCIAL.CARE),
+  er <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_qualitative/refs/heads/main/RA_2021-22_data_by_LA.csv"), skip=7)%>%
+    dplyr::select(Local.authority, TOTAL.CHILDREN.S.SOCIAL.CARE)%>%
+    dplyr::rename(budget_21 <- TOTAL.CHILDREN.S.SOCIAL.CARE),
+  er <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/childrens_social_care_qualitative/refs/heads/main/RA_2021-22_data_by_LA.csv"), skip=7)%>%
+    dplyr::select(Local.authority, TOTAL.CHILDREN.S.SOCIAL.CARE)%>%
+    dplyr::rename(budget_21 <- TOTAL.CHILDREN.S.SOCIAL.CARE),
+  
+)
+
+
+
+
+
   
