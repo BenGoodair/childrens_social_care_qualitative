@@ -507,33 +507,36 @@ df <-rbind( read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Mar
                             Latest.full.inspection.date = Inspection.Date)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home")|
                               str_detect(Provision.type, "(?i)day"))%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+              dplyr::select(Sector, URN, Places, Local.authority, Region, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2016.csv"), skip=1)%>%
               dplyr::mutate(year=2016,
                             Organisation = NA,
                             Registration.date = NA)%>%
               dplyr::rename(Overall.experiences.and.progress.of.children.and.young.people = Overall.effectiveness,
-                            Latest.full.inspection.date = Inspection.date)%>%
+                            Latest.full.inspection.date = Inspection.date,
+                            Region = Government.Office.Region)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+              dplyr::select(Sector, URN, Places, Local.authority, Region, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2017.csv"), skip=1)%>%
               dplyr::mutate(year=2017,
                             Organisation = NA,
                             Registration.date = NA)%>%
               dplyr::rename(Overall.experiences.and.progress.of.children.and.young.people = Overall.effectiveness,
-                            Latest.full.inspection.date = Inspection.date)%>%
+                            Latest.full.inspection.date = Inspection.date,
+                            Region = Government.Office.Region)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+              dplyr::select(Sector, URN, Places, Local.authority,Region, Organisation,Region,  Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2018.csv"), skip=1)%>%
               dplyr::mutate(year=2018,
                             Registration.date = NA)%>%
               dplyr::rename(Overall.experiences.and.progress.of.children.and.young.people = Overall.effectiveness,
-                            Latest.full.inspection.date = Inspection.date)%>%
+                            Latest.full.inspection.date = Inspection.date,
+                            Region = Government.Office.Region)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+              dplyr::select(Sector, URN, Places, Local.authority, Region,Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2018_part2.csv"))%>%
               dplyr::mutate(year=2018,
@@ -541,47 +544,53 @@ df <-rbind( read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Mar
                             Overall.experiences.and.progress.of.children.and.young.people = NA,
                             Latest.full.inspection.date = NA)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
-              dplyr::rename(Organisation = Organisation.name)%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+              dplyr::rename(Organisation = Organisation.name,
+                            Region = Government.Office.Region)%>%
+              dplyr::select(Sector, URN, Places, Local.authority,Region, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2019.csv"), skip=1)%>%
               dplyr::mutate(year=2019)%>%
               dplyr::rename(Organisation = Organisation.which.owns.the.provider,
-                            Latest.full.inspection.date = Inspection.date)%>%
+                            Latest.full.inspection.date = Inspection.date,
+                            Region = Government.Office.Region)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+              dplyr::select(Sector, URN, Places, Local.authority, Region,Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2020.csv"), skip=1)%>%
               dplyr::mutate(year=2020)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
               dplyr::rename(Organisation = Organisation.which.owns.the.provider,
-                            Latest.full.inspection.date = Inspection.date)%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+                            Latest.full.inspection.date = Inspection.date,
+                            Region = Government.Office.Region)%>%
+              dplyr::select(Sector, URN, Places, Local.authority, Region,Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2021.csv"), skip=1)%>%
               dplyr::mutate(year=2021)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
               dplyr::rename(Organisation = Organisation.which.owns.the.provider,
-                            Latest.full.inspection.date = Inspection.date)%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+                            Latest.full.inspection.date = Inspection.date,
+                            Region = Government.Office.Region)%>%
+              dplyr::select(Sector, URN, Places, Local.authority, Region,Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2022_yep.csv"), skip=4)%>%
               dplyr::mutate(year=2022)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
               dplyr::rename(Organisation = Organisation.which.owns.the.provider,
-                            Overall.experiences.and.progress.of.children.and.young.people =    Latest.full.inspection.overall.experiences.and.progress.of.children.and.young.people)%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
+                            Overall.experiences.and.progress.of.children.and.young.people =    Latest.full.inspection.overall.experiences.and.progress.of.children.and.young.people,
+                            Region = Government.Office.Region)%>%
+              dplyr::select(Sector, URN, Places, Local.authority,Region, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people, Latest.full.inspection.date),
             
             
             read.csv(curl("https://raw.githubusercontent.com/BenGoodair/Care-Markets/main/Data/Raw/provider_at_march_2023.csv"), skip=3)%>%
               dplyr::mutate(year=2023)%>%
               dplyr::filter(str_detect(Provision.type, "(?i)home"))%>%
-              dplyr::rename(Organisation = Organisation.which.owns.the.provider)%>%
-              dplyr::select(Sector, URN, Places, Local.authority, Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people,Latest.full.inspection.date)
+              dplyr::rename(Organisation = Organisation.which.owns.the.provider,
+                            Region = Government.Office.Region)%>%
+              dplyr::select(Sector, URN, Places, Local.authority, Region,Organisation, Registration.date, Overall.experiences.and.progress.of.children.and.young.people,Latest.full.inspection.date)
 )%>%
   dplyr::mutate(Sector= ifelse(Sector=="Health Authority"|Sector=="Local authority"|Sector=="Health authority", "Local Authority", Sector),
                 Homes=1)%>%
@@ -759,7 +768,7 @@ df <- df %>%
   dplyr::filter(is.na(Leave), 
                 !is.na(URN),
                 !is.na(Registration.date))%>%
-  dplyr::select(URN, Local.authority, Sector_merge, Places, Organisation, Registration.date)
+  dplyr::select(URN, Local.authority,Region,  Sector_merge, Places, Organisation, Registration.date)
   
 
 df_fin <- dplyr::left_join(df, categories%>%
@@ -770,4 +779,94 @@ df_fin <- dplyr::left_join(df, categories%>%
 
 
 
+#write.csv(df_fin%>%
+#            dplyr::filter(!rowSums(is.na(.)) > 1), "~/Library/CloudStorage/OneDrive-Nexus365/Documents/GitHub/Github_new/childrens_social_care_qualitative/Data/Outputs/filtered_homes.csv")
+
+
+####sample from df_fin####
+
+sample <- df_fin%>%
+  dplyr::filter(!rowSums(is.na(.)) > 1,
+                Sector_merge!="Unidentified for-profit")
   
+
+library(dplyr)
+
+# Define minimum requirements
+min_sector <- 10   # at least 10 per Sector_merge
+min_region <- 5    # at least 5 per Region
+
+# Step 1: Pre-select mandatory rows for each grouping
+sector_sample <- sample %>%
+  group_by(Sector_merge) %>%
+  slice_sample(n = min_sector)
+
+region_sample <- sample %>%
+  group_by(Region) %>%
+  slice_sample(n = min_region)
+
+# Combine the two samples and remove duplicates.
+initial_sample <- bind_rows(sector_sample, region_sample) %>% 
+  distinct()
+
+# Step 2: If we have more than 60 rows, remove extra ones using a greedy approach.
+current_sample <- initial_sample
+
+while(nrow(current_sample) > 60) {
+  # Calculate counts for each group with unique names.
+  counts_sector <- current_sample %>%
+    group_by(Sector_merge) %>%
+    summarise(count_sector = n(), .groups = 'drop')
+  
+  counts_region <- current_sample %>%
+    group_by(Region) %>%
+    summarise(count_region = n(), .groups = 'drop')
+  
+  # Join the counts back to the sample.
+  current_sample <- current_sample %>%
+    left_join(counts_sector, by = "Sector_merge") %>%
+    left_join(counts_region, by = "Region")
+  
+  # Calculate how many extra rows (the "buffer") each row's groups have above the minimum.
+  current_sample <- current_sample %>%
+    mutate(buffer = pmin(count_sector - min_sector, count_region - min_region))
+  
+  # Identify rows that can be removed (buffer > 0).
+  removable <- current_sample %>% filter(buffer > 0)
+  
+  if(nrow(removable) == 0) {
+    stop("No removable row left, but sample still has more than 60 rows. Consider relaxing the constraints.")
+  }
+  
+  # Remove one row with the maximum buffer.
+  row_to_remove <- removable %>% slice_max(buffer, n = 1)
+  id_to_remove <- row_to_remove$URN[1]
+  
+  current_sample <- current_sample %>%
+    filter(URN != id_to_remove) %>%
+    select(-count_sector, -count_region, -buffer)
+}
+
+final_sample <- current_sample
+
+
+
+#write.csv(final_sample, "~/Library/CloudStorage/OneDrive-Nexus365/Documents/GitHub/Github_new/childrens_social_care_qualitative/Data/Outputs/sampled_homes.csv")
+
+
+
+
+####inner city####
+
+
+sample <- df_fin%>%
+  dplyr::select(-new_LA_homes, -new_LA_places)%>%
+  dplyr::filter(!rowSums(is.na(.)) > 1,
+                Local.authority=="BIRMINGHAM"|
+                  Local.authority=="LEEDS"|
+                  Local.authority=="NEWCASTLE UPON TYNE"|
+                  Local.authority=="BIRMINGHAM"|
+                  Region=="London")%>%
+  slice_sample(n=15)
+#write.csv(final_sample, "~/Library/CloudStorage/OneDrive-Nexus365/Documents/GitHub/Github_new/childrens_social_care_qualitative/Data/Outputs/sampled_homes_cities.csv")
+

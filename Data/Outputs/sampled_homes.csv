@@ -1,0 +1,61 @@
+"","URN","Local.authority","Region","Sector_merge","Places","Organisation","Registration.date","overspend_category","outsourcing_category","new_LA_places","new_LA_homes","matched"
+"1","2503306","LINCOLNSHIRE","East Midlands","Corporate owned",6,"Unique Care Homes Support Limited","29/05/2019","low-overspend","low-outsourcing",17,3,1
+"2","1240397","LINCOLNSHIRE","East Midlands","Corporate owned",5,"Keys Direct Care Limited","03/08/2016","low-overspend","low-outsourcing",17,3,1
+"3","2665204","NOTTINGHAMSHIRE","East Midlands","Corporate owned",4,"Prime Nurture Services Limited","13/01/2022",NA,"high-outsourcing",2,1,1
+"4","1263124","WILTSHIRE","South West","Corporate owned",5,"Autonomy Plus Limited","26/09/2017","low-overspend",NA,3,1,1
+"5","SC419429","LINCOLNSHIRE","East Midlands","Corporate owned",4,"Keys Direct Care Limited","18/10/2010","low-overspend","low-outsourcing",17,3,1
+"6","2594875","CAMBRIDGESHIRE","East of England","Corporate owned",4,"The Beeches UK Limited","13/07/2020","low-overspend",NA,17,3,1
+"7","2595021","LANCASHIRE","North West","Investment owned",2,"Sandcastle Care Ltd","22/07/2020","low-overspend",NA,6,1,1
+"8","SC020193","DERBYSHIRE","East Midlands","LA owned company",25,"The SENAD Group Limited","29/01/2001","high-overspend",NA,5,2,1
+"9","SC372504","DERBYSHIRE","East Midlands","LA owned company",55,"The Senad Group Limited","14/08/2009","high-overspend",NA,5,2,1
+"10","SC358046","DERBYSHIRE","East Midlands","LA owned company",32,"The Senad Group Limited","22/05/2009","high-overspend",NA,5,2,1
+"11","SC404596","DERBYSHIRE","East Midlands","LA owned company",24,"The Senad Group Limited","03/12/2009","high-overspend",NA,5,2,1
+"12","SC035155","CALDERDALE","Yorkshire and The Humber","Local Authority",7,"Calderdale Council","09/09/2003","high-overspend",NA,3,1,1
+"13","SC449096","DURHAM","North East","Local Authority",4,"Durham County Council","25/06/2012",NA,"low-outsourcing",15,6,1
+"14","2602980","CAMBRIDGESHIRE","East of England","Local Authority",5,"Cambridgeshire County Council","03/09/2020","low-overspend",NA,17,3,1
+"15","2508344","DERBYSHIRE","East Midlands","Local Authority",2,"Derbyshire County Council","21/03/2019","high-overspend",NA,5,2,1
+"16","2596897","GATESHEAD","North East","Local Authority",3,"Gateshead Council","02/07/2020",NA,"low-outsourcing",9,2,1
+"17","SC394101","NORTH EAST LINCOLNSHIRE","Yorkshire and The Humber","Local Authority",3,"North East Lincolnshire Council","23/06/2009","high-overspend",NA,8,2,1
+"18","SC042967","LINCOLNSHIRE","East Midlands","Local Authority",7,"Lincolnshire County Council","20/02/2004","low-overspend","low-outsourcing",17,3,1
+"19","SC036740","NOTTINGHAMSHIRE","East Midlands","Local Authority",20,"Nottinghamshire County Council","28/11/2003",NA,"high-outsourcing",2,1,1
+"20","2571557","MEDWAY","South East","Local Authority",6,"Medway Council","16/04/2020",NA,"high-outsourcing",6,1,1
+"21","SC010415","BARNET","London","Third sector",9,"Norwood Ravenswood","24/04/1994",NA,"high-outsourcing",6,1,1
+"22","SC458415","DURHAM","North East","Third sector",6,"North East Autism Society","30/01/2013",NA,"low-outsourcing",15,6,1
+"23","2538785","SHROPSHIRE","West Midlands","Third sector",7,"Action for Children","01/10/2019","high-overspend",NA,8,4,1
+"24","SC396813","EAST SUSSEX","South East","Third sector",27,"Chailey Heritage Foundation","15/07/2009","high-overspend",NA,5,1,1
+"25","1270767","NOTTINGHAMSHIRE","East Midlands","Third sector",4,"K & G Care Ltd","16/02/2018",NA,"high-outsourcing",2,1,1
+"26","1244117","NOTTINGHAMSHIRE","East Midlands","Third sector",5,"Caldecott Foundation Limited","01/12/2016",NA,"high-outsourcing",2,1,1
+"27","SC458754","DURHAM","North East","Third sector",8,"North East Autism Society","01/02/2013",NA,"low-outsourcing",15,6,1
+"28","2691185","NOTTINGHAMSHIRE","East Midlands","Third sector",4,"YMCA Robin Hood Group","27/09/2022",NA,"high-outsourcing",2,1,1
+"29","2641044","NEWCASTLE UPON TYNE","North East","Third sector",4,"Action for Children","22/11/2021","low-overspend","low-outsourcing",11,4,1
+"30","1241752","NOTTINGHAMSHIRE","East Midlands","Third sector",2,"The Caldecott Foundation Limited","05/12/2016",NA,"high-outsourcing",2,1,1
+"31","2605690","NOTTINGHAMSHIRE","East Midlands","Corporate owned",2,"Homes 2 inspire","30/09/2020",NA,"high-outsourcing",2,1,1
+"32","SC042978","LINCOLNSHIRE","East Midlands","Local Authority",5,"Lincolnshire County Council","24/11/2003","low-overspend","low-outsourcing",17,3,1
+"33","2596476","CAMBRIDGESHIRE","East of England","Investment owned",4,"Keys Child Care Ltd","13/11/2020","low-overspend",NA,17,3,1
+"34","SC481015","CAMBRIDGESHIRE","East of England","Corporate owned",6,"Unique Care Homes Support Limited","08/10/2014","low-overspend",NA,17,3,1
+"35","1274846","CAMBRIDGESHIRE","East of England","Individual owned",6,"Parkview Care (Broadstairs) Limited","28/06/2018","low-overspend",NA,17,3,1
+"36","2571630","BARNET","London","Individual owned",3,"Aspire 2 Be Ltd","19/12/2020",NA,"high-outsourcing",6,1,1
+"37","2675155","BARNET","London","Individual owned",5,"Seva Childcare Ltd","19/07/2022",NA,"high-outsourcing",6,1,1
+"38","SC483623","HARINGEY","London","Individual owned",5,"Kartikeya Solutions Limited","29/06/2015","high-overspend",NA,6,1,1
+"39","2636743","HARINGEY","London","Individual owned",3,"Family First Care Services Ltd","08/07/2021","high-overspend",NA,6,1,1
+"40","SC035648","DURHAM","North East","Local Authority",38,"Durham County Council","04/09/2003",NA,"low-outsourcing",15,6,1
+"41","SC034686","DURHAM","North East","Local Authority",5,"Durham County Council","05/09/2003",NA,"low-outsourcing",15,6,1
+"42","2564415","LANCASHIRE","North West","Investment owned",4,"Sandcastle Care Ltd","01/05/2020","low-overspend",NA,6,1,1
+"43","SC489038","LANCASHIRE","North West","Investment owned",8,"My Life-My Choice Limited","19/06/2015","low-overspend",NA,6,1,1
+"44","SC485956","LANCASHIRE","North West","Individual owned",2,"New Horizons (NW) Ltd","05/06/2015","low-overspend",NA,6,1,1
+"45","1240572","LANCASHIRE","North West","Investment owned",4,"Sandcastle Care Ltd","28/11/2016","low-overspend",NA,6,1,1
+"46","SC031490","EAST SUSSEX","South East","Local Authority",7,"East Sussex County Council","11/08/2003","high-overspend",NA,5,1,1
+"47","SC066048","EAST SUSSEX","South East","Corporate owned",1,"Anderida Adolescent Care Ltd","26/09/2005","high-overspend",NA,5,1,1
+"48","SC412296","EAST SUSSEX","South East","Individual owned",4,"Springfield Road Childrens Homes Ltd","15/11/2010","high-overspend",NA,5,1,1
+"49","SC373941","EAST SUSSEX","South East","Local Authority",4,"East Sussex County Council","20/03/2008","high-overspend",NA,5,1,1
+"50","SC489820","DORSET","South West","Individual owned",4,"Potensial Ltd","09/10/2015","high-overspend",NA,10,4,1
+"51","2655041","WILTSHIRE","South West","Individual owned",3,"Direct Care Childrens Homes Ltd","30/11/2021","low-overspend",NA,3,1,1
+"52","SC032163","DORSET","South West","Local Authority",9,"Dorset Council-Social Care, Children's Homes","18/07/2003","high-overspend",NA,10,4,1
+"53","SC059755","WILTSHIRE","South West","Corporate owned",5,"Five Rivers Child Care Limited","03/02/2004","low-overspend",NA,3,1,1
+"54","1155780","SHROPSHIRE","West Midlands","Investment owned",4,"Cambian Childcare Ltd","16/11/2015","high-overspend",NA,8,4,1
+"55","2677057","SHROPSHIRE","West Midlands","Investment owned",14,"Reflexion Care Group Limited","13/09/2022","high-overspend",NA,8,4,1
+"56","2502314","SHROPSHIRE","West Midlands","Investment owned",3,"Cambian Childcare Ltd","29/01/2019","high-overspend",NA,8,4,1
+"57","SC380956","NORTH EAST LINCOLNSHIRE","Yorkshire and The Humber","Local Authority",3,"North East Lincolnshire Council","29/05/2009","high-overspend",NA,8,2,1
+"58","2600259","CALDERDALE","Yorkshire and The Humber","Individual owned",2,"Restorative Social Care Services Ltd","21/09/2020","high-overspend",NA,3,1,1
+"59","SC477428","NORTH EAST LINCOLNSHIRE","Yorkshire and The Humber","Local Authority",3,"North East Lincolnshire Council","10/09/2014","high-overspend",NA,8,2,1
+"60","SC001016","CALDERDALE","Yorkshire and The Humber","Investment owned",4,"Keys BR Limited","21/02/2001","high-overspend",NA,3,1,1

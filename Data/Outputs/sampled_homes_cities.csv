@@ -1,0 +1,61 @@
+"","URN","Local.authority","Region","Sector_merge","Places","Organisation","Registration.date","overspend_category","outsourcing_category","new_LA_places","new_LA_homes","matched"
+"1","2531620","CAMBRIDGESHIRE","East of England","Individual owned",5,"Higher Hopes Ltd","11/06/2019","low-overspend",NA,17,3,1
+"2","SC482418","DURHAM","North East","Individual owned",4,"Hennessy Living Group Limited","13/04/2015",NA,"low-outsourcing",15,6,1
+"3","2582246","LANCASHIRE","North West","Investment owned",2,"Sandcastle Care Ltd","04/03/2020","low-overspend",NA,6,1,1
+"4","SC404596","DERBYSHIRE","East Midlands","LA owned company",24,"The Senad Group Limited","03/12/2009","high-overspend",NA,5,2,1
+"5","SC358046","DERBYSHIRE","East Midlands","LA owned company",32,"The Senad Group Limited","22/05/2009","high-overspend",NA,5,2,1
+"6","SC372504","DERBYSHIRE","East Midlands","LA owned company",55,"The Senad Group Limited","14/08/2009","high-overspend",NA,5,2,1
+"7","SC020193","DERBYSHIRE","East Midlands","LA owned company",25,"The SENAD Group Limited","29/01/2001","high-overspend",NA,5,2,1
+"8","SC472417","HARTLEPOOL","North East","Local Authority",4,"Hartlepool Borough Council","10/01/2014",NA,"low-outsourcing",6,2,1
+"9","2584908","SHROPSHIRE","West Midlands","Local Authority",2,"Shropshire Council","07/10/2020","high-overspend",NA,8,4,1
+"10","SC033457","LEEDS","Yorkshire and The Humber","Local Authority",24,"Leeds City Council","10/07/2003",NA,"low-outsourcing",4,1,1
+"11","SC031490","EAST SUSSEX","South East","Local Authority",7,"East Sussex County Council","11/08/2003","high-overspend",NA,5,1,1
+"12","SC044291","NOTTINGHAMSHIRE","East Midlands","Local Authority",3,"Nottinghamshire County Council","05/12/2003",NA,"high-outsourcing",2,1,1
+"13","SC033723","LEEDS","Yorkshire and The Humber","Local Authority",5,"Leeds City Council","17/07/2003",NA,"low-outsourcing",4,1,1
+"14","SC064735","LANCASHIRE","North West","Local Authority",3,"Lancashire County Council","27/09/2005","low-overspend",NA,6,1,1
+"15","2608630","YORK","Yorkshire and The Humber","Local Authority",8,"City of York Council","16/11/2020","high-overspend","low-outsourcing",15,3,1
+"16","2565716","MIDDLESBROUGH","North East","Local Authority",4,"Middlesbrough Borough Council","26/11/2019","high-overspend",NA,6,2,1
+"17","SC432843","NEWCASTLE UPON TYNE","North East","Third sector",7,"Talbot House Children's Charity Limited","17/02/2012","low-overspend","low-outsourcing",11,4,1
+"18","SC466284","NOTTINGHAMSHIRE","East Midlands","Third sector",7,"The Caldecott Foundation Limited","05/12/2013",NA,"high-outsourcing",2,1,1
+"19","2691185","NOTTINGHAMSHIRE","East Midlands","Third sector",4,"YMCA Robin Hood Group","27/09/2022",NA,"high-outsourcing",2,1,1
+"20","SC441865","NOTTINGHAMSHIRE","East Midlands","Third sector",3,"Shyne Together Limited","29/07/2012",NA,"high-outsourcing",2,1,1
+"21","SC439153","CAMBRIDGESHIRE","East of England","Third sector",4,"Break","01/02/2012","low-overspend",NA,17,3,1
+"22","1244117","NOTTINGHAMSHIRE","East Midlands","Third sector",5,"Caldecott Foundation Limited","01/12/2016",NA,"high-outsourcing",2,1,1
+"23","SC025733","CAMBRIDGESHIRE","East of England","Third sector",17,"Friends Therapeutic Community Trust","19/06/1973","low-overspend",NA,17,3,1
+"24","SC020675","SHROPSHIRE","West Midlands","Third sector",4,"Action for Children","01/01/1998","high-overspend",NA,8,4,1
+"25","SC010415","BARNET","London","Third sector",9,"Norwood Ravenswood","24/04/1994",NA,"high-outsourcing",6,1,1
+"26","SC396813","EAST SUSSEX","South East","Third sector",27,"Chailey Heritage Foundation","15/07/2009","high-overspend",NA,5,1,1
+"27","SC482411","LINCOLNSHIRE","East Midlands","Corporate owned",6,"Hexagon Care Services Ltd","05/12/2014","low-overspend","low-outsourcing",17,3,1
+"28","SC484402","NOTTINGHAMSHIRE","East Midlands","Individual owned",3,"Footsteps to Futures Limited","19/01/2015",NA,"high-outsourcing",2,1,1
+"29","2500044","DERBYSHIRE","East Midlands","Individual owned",2,"Blue Mountain Homes Ltd","13/12/2018","high-overspend",NA,5,2,1
+"30","SC036262","DERBYSHIRE","East Midlands","Local Authority",3,"Derbyshire County Council","25/03/2004","high-overspend",NA,5,2,1
+"31","SC020171","DERBYSHIRE","East Midlands","Individual owned",7,"Arnfield Care Limited","09/05/2001","high-overspend",NA,5,2,1
+"32","SC456911","CAMBRIDGESHIRE","East of England","Investment owned",6,"Cambian Childcare Ltd","25/02/2013","low-overspend",NA,17,3,1
+"33","SC452107","CAMBRIDGESHIRE","East of England","Corporate owned",3,"Semi-Independent House Limited","03/12/2012","low-overspend",NA,17,3,1
+"34","2602980","CAMBRIDGESHIRE","East of England","Local Authority",5,"Cambridgeshire County Council","03/09/2020","low-overspend",NA,17,3,1
+"35","1272461","HARINGEY","London","Investment owned",4,"Area Camden Limited ","17/02/2018","high-overspend",NA,6,1,1
+"36","2571630","BARNET","London","Individual owned",3,"Aspire 2 Be Ltd","19/12/2020",NA,"high-outsourcing",6,1,1
+"37","2675155","BARNET","London","Individual owned",5,"Seva Childcare Ltd","19/07/2022",NA,"high-outsourcing",6,1,1
+"38","1257182","BARNET","London","Individual owned",2,"Curam Domi Solutions Ltd","24/08/2017",NA,"high-outsourcing",6,1,1
+"39","2537322","NEWCASTLE UPON TYNE","North East","Local Authority",1,"Newcastle City Council","17/10/2019","low-overspend","low-outsourcing",11,4,1
+"40","1229417","MIDDLESBROUGH","North East","Investment owned",1,"Cambian Childcare Ltd","05/04/2016","high-overspend",NA,6,2,1
+"41","2613677","LANCASHIRE","North West","Corporate owned",1,"Hexagon Care Services Ltd","27/11/2020","low-overspend",NA,6,1,1
+"42","1229534","LANCASHIRE","North West","Corporate owned",8,"Halliwell Homes Limited","27/04/2016","low-overspend",NA,6,1,1
+"43","2618541","LANCASHIRE","North West","Investment owned",2,"Cambian Childcare Ltd","15/02/2021","low-overspend",NA,6,1,1
+"44","SC400880","LANCASHIRE","North West","Corporate owned",4,"Choices 4 Children Ltd","25/09/2009","low-overspend",NA,6,1,1
+"45","SC434573","EAST SUSSEX","South East","Individual owned",2,"Crusoe Care Limited 06843979","24/08/2011","high-overspend",NA,5,1,1
+"46","1228919","EAST SUSSEX","South East","Corporate owned",2,"Anderida Adolescent Care Ltd","29/03/2016","high-overspend",NA,5,1,1
+"47","SC068559","EAST SUSSEX","South East","Individual owned",16,"PJL Healthcare Limited","20/12/2006","high-overspend",NA,5,1,1
+"48","2675807","EAST SUSSEX","South East","Corporate owned",8,"Virtue Therapeutic Care and Education (East Sussex) Limited","29/04/2022","high-overspend",NA,5,1,1
+"49","1263124","WILTSHIRE","South West","Corporate owned",5,"Autonomy Plus Limited","26/09/2017","low-overspend",NA,3,1,1
+"50","2623130","DORSET","South West","Investment owned",3,"Beaufort care Group","22/12/2020","high-overspend",NA,10,4,1
+"51","SC037596","WILTSHIRE","South West","Investment owned",4,"Wessex College Limited","15/11/2002","low-overspend",NA,3,1,1
+"52","SC026910","DORSET","South West","Investment owned",68,"Cambian Autism Services Limited","19/02/2002","high-overspend",NA,10,4,1
+"53","2594902","WILTSHIRE","South West","Investment owned",5,"Witherslack Group Ltd","21/09/2020","low-overspend",NA,3,1,1
+"54","SC407933","SHROPSHIRE","West Midlands","Corporate owned",4,"Prestige Adolescent Care And Education Limited","19/04/2010","high-overspend",NA,8,4,1
+"55","2558682","SHROPSHIRE","West Midlands","Local Authority",2,"Shropshire Council","14/02/2020","high-overspend",NA,8,4,1
+"56","SC382730","SHROPSHIRE","West Midlands","Local Authority",5,"Shropshire Council","17/11/2008","high-overspend",NA,8,4,1
+"57","SC068032","SHROPSHIRE","West Midlands","Investment owned",7,"Branas Isaf (Holdings) Ltd","31/07/2006","high-overspend",NA,8,4,1
+"58","SC035154","CALDERDALE","Yorkshire and The Humber","Local Authority",5,"Calderdale Council","02/09/2003","high-overspend",NA,3,1,1
+"59","1223201","LEEDS","Yorkshire and The Humber","Local Authority",4,"Leeds City Council","10/12/2015",NA,"low-outsourcing",4,1,1
+"60","2663174","YORK","Yorkshire and The Humber","Corporate owned",3,"Hexagon Care Services Ltd","09/03/2022","high-overspend","low-outsourcing",15,3,1
